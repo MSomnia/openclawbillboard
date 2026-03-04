@@ -1,0 +1,47 @@
+{
+  "name": "openclawbillboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "fetch": "tsx scripts/fetch-daily.ts",
+    "export": "tsx scripts/export-json.ts",
+    "fetch-and-export": "tsx scripts/fetch-daily.ts && tsx scripts/export-json.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSomnia/openclawbillboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MSomnia/openclawbillboard/issues"
+  },
+  "homepage": "https://github.com/MSomnia/openclawbillboard#readme",
+  "dependencies": {
+    "@prisma/client": "^6.19.2",
+    "dotenv": "^17.3.1",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/node": "^25.3.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.3",
+    "eslint-config-next": "^16.1.6",
+    "postcss": "^8.5.8",
+    "prisma": "^6.19.2",
+    "tailwindcss": "^4.2.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,87 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// 核心：GitHub 仓库信息
+model Repository {
+  id            Int      @id @default(autoincrement())
+  githubId      Int      @unique
+  fullName      String   @unique
+  name          String
+  owner         String
+  description   String?
+  url           String
+  homepage      String?
+  language      String?
+  stars         Int      @default(0)
+  forks         Int      @default(0)
+  openIssues    Int      @default(0)
+  topics        String   @default("[]")
+  license       String?
+  isArchived    Boolean  @default(false)
+  createdAt     DateTime
+  updatedAt     DateTime
+  pushedAt      DateTime?
+  firstSeenAt   DateTime @default(now())
+  lastFetchedAt DateTime @default(now())
+  activityScore Float    @default(0)
+
+  snapshots DailySnapshot[]
+  commits   CommitRecord[]
+
+  @@index([stars])
+  @@index([activityScore])
+  @@index([language])
+}
+
+// 每日快照：追踪指标变化趋势
+model DailySnapshot {
+  id           Int      @id @default(autoincrement())
+  repositoryId Int
+  date         DateTime
+  stars        Int
+  forks        Int
+  openIssues   Int
+  starsDelta   Int      @default(0)
+  forksDelta   Int      @default(0)
+  commitsCount Int      @default(0)
+
+  repository Repository @relation(fields: [repositoryId], references: [id])
+
+  @@unique([repositoryId, date])
+  @@index([date])
+  @@index([starsDelta])
+}
+
+// 最近 Commit 记录
+model CommitRecord {
+  id           Int      @id @default(autoincrement())
+  repositoryId Int
+  sha          String
+  message      String
+  authorName   String
+  authorDate   DateTime
+  url          String
+
+  repository Repository @relation(fields: [repositoryId], references: [id])
+
+  @@unique([repositoryId, sha])
+  @@index([authorDate])
+}
+
+// 系统运行日志
+model FetchLog {
+  id           Int       @id @default(autoincrement())
+  startedAt    DateTime  @default(now())
+  completedAt  DateTime?
+  reposFound   Int       @default(0)
+  reposUpdated Int       @default(0)
+  newRepos     Int       @default(0)
+  errors       String    @default("[]")
+  status       String    @default("running")
+}
