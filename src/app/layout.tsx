@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
+import Providers from "./Providers";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "OpenClaw Hub",
-  description: "一站式追踪 OpenClaw 生态的所有开源项目",
+  title: "OpenClaw Billboard",
+  description: "Track all OpenClaw ecosystem open-source projects",
 };
 
 export default function RootLayout({
@@ -13,7 +16,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="zh-CN">
-      <body>{children}</body>
+      <body className="flex min-h-screen flex-col bg-white text-gray-900 antialiased">
+        <Providers>
+          <Navbar />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </Providers>
+      </body>
     </html>
   );
 }

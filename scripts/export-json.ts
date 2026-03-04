@@ -17,6 +17,7 @@ async function main() {
   await Promise.all([
     exportProjects(),
     exportSnapshots(),
+    exportCommits(),
     exportStats(),
     exportTrending(),
   ]);
@@ -82,6 +83,27 @@ async function exportSnapshots() {
 
   writeJSON("snapshots.json", data);
   console.log(`[导出] snapshots.json: ${data.length} 条快照`);
+}
+
+async function exportCommits() {
+  const commits = await prisma.commitRecord.findMany({
+    orderBy: { authorDate: "desc" },
+    take: 5000,
+    include: { repository: { select: { fullName: true } } },
+  });
+
+  const data = commits.map((c) => ({
+    repositoryId: c.repositoryId,
+    fullName: c.repository.fullName,
+    sha: c.sha,
+    message: c.message,
+    authorName: c.authorName,
+    authorDate: c.authorDate.toISOString(),
+    url: c.url,
+  }));
+
+  writeJSON("commits.json", data);
+  console.log(`[导出] commits.json: ${data.length} 条 commit`);
 }
 
 async function exportStats() {

@@ -32,7 +32,7 @@
       "pushedAt": "2026-03-04T22:01:35.000Z",
       "firstSeenAt": "2026-03-04T21:48:43.669Z",
       "lastFetchedAt": "2026-03-04T22:05:24.493Z",
-      "activityScore": 0
+      "activityScore": 31
     },
     {
       "id": 2,
@@ -55,7 +55,7 @@
       "pushedAt": "2026-03-04T21:52:24.000Z",
       "firstSeenAt": "2026-03-04T21:48:45.958Z",
       "lastFetchedAt": "2026-03-04T22:05:37.096Z",
-      "activityScore": 0
+      "activityScore": 20.75
     },
     {
       "id": 3,
@@ -82,7 +82,7 @@
       "pushedAt": "2026-03-04T21:58:48.000Z",
       "firstSeenAt": "2026-03-04T21:48:48.084Z",
       "lastFetchedAt": "2026-03-04T22:05:31.277Z",
-      "activityScore": 0
+      "activityScore": 24.98
     },
     {
       "id": 4,
@@ -105,7 +105,7 @@
       "pushedAt": "2026-03-04T22:00:26.000Z",
       "firstSeenAt": "2026-03-04T21:48:50.307Z",
       "lastFetchedAt": "2026-03-04T22:05:27.321Z",
-      "activityScore": 0
+      "activityScore": 40.19
     },
     {
       "id": 5,
@@ -128,7 +128,7 @@
       "pushedAt": "2026-03-04T21:58:15.000Z",
       "firstSeenAt": "2026-03-04T21:48:52.586Z",
       "lastFetchedAt": "2026-03-04T22:05:32.015Z",
-      "activityScore": 0
+      "activityScore": 20.98
     },
     {
       "id": 6,
@@ -151,7 +151,7 @@
       "pushedAt": "2026-03-04T21:46:06.000Z",
       "firstSeenAt": "2026-03-04T21:48:54.706Z",
       "lastFetchedAt": "2026-03-04T22:05:40.394Z",
-      "activityScore": 0
+      "activityScore": 21.33
     },
     {
       "id": 7,
@@ -174,7 +174,7 @@
       "pushedAt": "2026-03-04T22:04:02.000Z",
       "firstSeenAt": "2026-03-04T21:48:56.868Z",
       "lastFetchedAt": "2026-03-04T22:05:22.477Z",
-      "activityScore": 0
+      "activityScore": 43.4
     },
     {
       "id": 8,
@@ -197,7 +197,7 @@
       "pushedAt": "2026-03-04T21:48:51.000Z",
       "firstSeenAt": "2026-03-04T21:48:59.188Z",
       "lastFetchedAt": "2026-03-04T22:05:38.900Z",
-      "activityScore": 0
+      "activityScore": 35.34
     },
     {
       "id": 9,
@@ -220,7 +220,7 @@
       "pushedAt": "2026-03-04T21:46:52.000Z",
       "firstSeenAt": "2026-03-04T21:49:01.570Z",
       "lastFetchedAt": "2026-03-04T22:05:40.195Z",
-      "activityScore": 0
+      "activityScore": 22.53
     },
     {
       "id": 10,
@@ -243,156 +243,101 @@
       "pushedAt": "2026-03-04T22:00:38.000Z",
       "firstSeenAt": "2026-03-04T21:49:03.744Z",
       "lastFetchedAt": "2026-03-04T22:05:26.630Z",
-      "activityScore": 0
+      "activityScore": 30.59
     }
   ],
   "mostActiveTop10": [
     {
-      "id": 1287,
-      "githubId": 1156720809,
-      "fullName": "marce1994/OpenClaw-Companion",
-      "name": "OpenClaw-Companion",
-      "owner": "marce1994",
-      "description": "🐾 Your AI, alive — Talk to an animated Live2D avatar through voice or text. Android & Web. Powered by OpenClaw.",
-      "url": "https://github.com/marce1994/OpenClaw-Companion",
-      "homepage": "https://marce1994.github.io/OpenClaw-Companion/",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [],
+      "id": 31,
+      "githubId": 1128712337,
+      "fullName": "openclaw/skills",
+      "name": "skills",
+      "owner": "openclaw",
+      "description": "All versions of all skills that are on clawhub.com archived",
+      "url": "https://github.com/openclaw/skills",
+      "homepage": "https://clawhub.ai",
+      "language": "Python",
+      "stars": 1948,
+      "forks": 602,
+      "openIssues": 1,
+      "topics": [
+        "archive",
+        "backup",
+        "clawhub",
+        "openclaw",
+        "skill"
+      ],
       "license": "MIT",
       "isArchived": false,
-      "createdAt": "2026-02-13T01:11:41.000Z",
-      "updatedAt": "2026-03-02T01:10:31.000Z",
-      "pushedAt": "2026-03-02T01:14:34.000Z",
-      "firstSeenAt": "2026-03-04T22:10:04.082Z",
-      "lastFetchedAt": "2026-03-04T22:10:04.081Z",
-      "activityScore": 0
+      "createdAt": "2026-01-06T03:39:15.000Z",
+      "updatedAt": "2026-03-04T22:03:57.000Z",
+      "pushedAt": "2026-03-04T22:03:53.000Z",
+      "firstSeenAt": "2026-03-04T21:49:51.086Z",
+      "lastFetchedAt": "2026-03-04T22:05:21.444Z",
+      "activityScore": 50.07
     },
     {
-      "id": 1286,
-      "githubId": 1170311290,
-      "fullName": "UsrUnknow/OpenClaw-Dashboard",
-      "name": "OpenClaw-Dashboard",
-      "owner": "UsrUnknow",
-      "description": "Personal OpenClaw agent dashboard — mobile first, Next.js 15",
-      "url": "https://github.com/UsrUnknow/OpenClaw-Dashboard",
-      "homepage": null,
+      "id": 298,
+      "githubId": 1103012935,
+      "fullName": "openclaw/openclaw",
+      "name": "openclaw",
+      "owner": "openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "homepage": "https://openclaw.ai",
       "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [],
-      "license": null,
+      "stars": 259999,
+      "forks": 49835,
+      "openIssues": 10978,
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data",
+        "personal"
+      ],
+      "license": "MIT",
       "isArchived": false,
-      "createdAt": "2026-03-02T01:27:48.000Z",
-      "updatedAt": "2026-03-02T01:34:35.000Z",
-      "pushedAt": "2026-03-02T01:34:32.000Z",
-      "firstSeenAt": "2026-03-04T22:10:03.900Z",
-      "lastFetchedAt": "2026-03-04T22:10:03.899Z",
-      "activityScore": 0
+      "createdAt": "2025-11-24T10:16:47.000Z",
+      "updatedAt": "2026-03-04T22:01:52.000Z",
+      "pushedAt": "2026-03-04T20:44:06.000Z",
+      "firstSeenAt": "2026-03-04T22:06:24.200Z",
+      "lastFetchedAt": "2026-03-04T22:06:24.199Z",
+      "activityScore": 49.49
     },
     {
-      "id": 1285,
-      "githubId": 1170321806,
-      "fullName": "alex0huang/using-open-claw-for-feishu-agent",
-      "name": "using-open-claw-for-feishu-agent",
-      "owner": "alex0huang",
-      "description": null,
-      "url": "https://github.com/alex0huang/using-open-claw-for-feishu-agent",
+      "id": 7,
+      "githubId": 1169555131,
+      "fullName": "xigpz/openclaw-console",
+      "name": "openclaw-console",
+      "owner": "xigpz",
+      "description": "OpenClaw 可视化管理后台 - 配置管理、模型配置、Skills管理",
+      "url": "https://github.com/xigpz/openclaw-console",
       "homepage": null,
-      "language": "TypeScript",
+      "language": "Makefile",
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
       "topics": [],
       "license": null,
       "isArchived": false,
-      "createdAt": "2026-03-02T01:52:05.000Z",
-      "updatedAt": "2026-03-02T01:53:09.000Z",
-      "pushedAt": "2026-03-02T01:53:05.000Z",
-      "firstSeenAt": "2026-03-04T22:10:03.697Z",
-      "lastFetchedAt": "2026-03-04T22:10:03.696Z",
-      "activityScore": 0
+      "createdAt": "2026-02-28T21:29:45.000Z",
+      "updatedAt": "2026-03-04T22:03:07.000Z",
+      "pushedAt": "2026-03-04T22:04:02.000Z",
+      "firstSeenAt": "2026-03-04T21:48:56.868Z",
+      "lastFetchedAt": "2026-03-04T22:05:22.477Z",
+      "activityScore": 43.4
     },
     {
-      "id": 1284,
-      "githubId": 1166579980,
-      "fullName": "yc3356/open_claw",
-      "name": "open_claw",
-      "owner": "yc3356",
-      "description": null,
-      "url": "https://github.com/yc3356/open_claw",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-02-25T11:27:39.000Z",
-      "updatedAt": "2026-03-02T02:17:25.000Z",
-      "pushedAt": "2026-03-04T02:16:28.000Z",
-      "firstSeenAt": "2026-03-04T22:10:03.499Z",
-      "lastFetchedAt": "2026-03-04T22:10:03.498Z",
-      "activityScore": 0
-    },
-    {
-      "id": 1283,
-      "githubId": 1170319476,
-      "fullName": "juanfadev/openclaw-clawwork",
-      "name": "openclaw-clawwork",
-      "owner": "juanfadev",
-      "description": "OpenClaw Extension: ClawWork economic survival protocol and task marketplace",
-      "url": "https://github.com/juanfadev/openclaw-clawwork",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-03-02T01:46:41.000Z",
-      "updatedAt": "2026-03-02T02:47:56.000Z",
-      "pushedAt": "2026-03-02T02:47:53.000Z",
-      "firstSeenAt": "2026-03-04T22:10:03.324Z",
-      "lastFetchedAt": "2026-03-04T22:10:03.323Z",
-      "activityScore": 0
-    },
-    {
-      "id": 1282,
-      "githubId": 1169434423,
-      "fullName": "sadiehertzig/clawdia-hertz-openclaw",
-      "name": "clawdia-hertz-openclaw",
-      "owner": "sadiehertzig",
-      "description": null,
-      "url": "https://github.com/sadiehertzig/clawdia-hertz-openclaw",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-02-28T17:23:48.000Z",
-      "updatedAt": "2026-03-02T03:00:26.000Z",
-      "pushedAt": "2026-03-02T03:00:22.000Z",
-      "firstSeenAt": "2026-03-04T22:10:03.149Z",
-      "lastFetchedAt": "2026-03-04T22:10:03.148Z",
-      "activityScore": 0
-    },
-    {
-      "id": 1281,
-      "githubId": 1163355773,
-      "fullName": "hangyuwei/OpenClaw",
-      "name": "OpenClaw",
-      "owner": "hangyuwei",
-      "description": null,
-      "url": "https://github.com/hangyuwei/OpenClaw",
+      "id": 11,
+      "githubId": 1172152325,
+      "fullName": "Y-zsx/openclaw-UItron",
+      "name": "openclaw-UItron",
+      "owner": "Y-zsx",
+      "description": "this is UItron",
+      "url": "https://github.com/Y-zsx/openclaw-UItron",
       "homepage": null,
       "language": "Python",
       "stars": 0,
@@ -401,81 +346,160 @@
       "topics": [],
       "license": null,
       "isArchived": false,
-      "createdAt": "2026-02-21T14:02:40.000Z",
-      "updatedAt": "2026-03-02T03:26:57.000Z",
-      "pushedAt": "2026-03-02T03:26:54.000Z",
-      "firstSeenAt": "2026-03-04T22:10:02.969Z",
-      "lastFetchedAt": "2026-03-04T22:10:02.968Z",
-      "activityScore": 0
+      "createdAt": "2026-03-04T01:55:54.000Z",
+      "updatedAt": "2026-03-04T21:58:42.000Z",
+      "pushedAt": "2026-03-04T21:58:38.000Z",
+      "firstSeenAt": "2026-03-04T21:49:05.972Z",
+      "lastFetchedAt": "2026-03-04T22:05:31.508Z",
+      "activityScore": 40.78
     },
     {
-      "id": 1280,
-      "githubId": 1170376097,
-      "fullName": "xiaozhu2092/MyOpenClaw",
-      "name": "MyOpenClaw",
-      "owner": "xiaozhu2092",
-      "description": "OpenClaw",
-      "url": "https://github.com/xiaozhu2092/MyOpenClaw",
+      "id": 49,
+      "githubId": 1151827226,
+      "fullName": "smilenccc/ai-task-tracker",
+      "name": "ai-task-tracker",
+      "owner": "smilenccc",
+      "description": "track openclaw task",
+      "url": "https://github.com/smilenccc/ai-task-tracker",
       "homepage": null,
-      "language": null,
+      "language": "HTML",
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
       "topics": [],
       "license": null,
       "isArchived": false,
-      "createdAt": "2026-03-02T03:45:52.000Z",
-      "updatedAt": "2026-03-02T03:45:52.000Z",
-      "pushedAt": "2026-03-02T03:45:52.000Z",
-      "firstSeenAt": "2026-03-04T22:10:02.849Z",
-      "lastFetchedAt": "2026-03-04T22:10:02.849Z",
-      "activityScore": 0
+      "createdAt": "2026-02-07T00:22:51.000Z",
+      "updatedAt": "2026-03-04T22:00:27.000Z",
+      "pushedAt": "2026-03-04T22:00:12.000Z",
+      "firstSeenAt": "2026-03-04T21:50:32.535Z",
+      "lastFetchedAt": "2026-03-04T22:05:27.562Z",
+      "activityScore": 40.39
     },
     {
-      "id": 1279,
-      "githubId": 1162000439,
-      "fullName": "ynotfins/open--claw",
-      "name": "open--claw",
-      "owner": "ynotfins",
-      "description": "Open Claw — modular AI assistant platform built on OpenClaw",
-      "url": "https://github.com/ynotfins/open--claw",
+      "id": 4,
+      "githubId": 1170268857,
+      "fullName": "adybag14-cyber/openclaw-zig-port",
+      "name": "openclaw-zig-port",
+      "owner": "adybag14-cyber",
+      "description": "OpenClaw Zig port bootstrap from OpenClaw Go v2.10.x baseline with phased parity tracking.",
+      "url": "https://github.com/adybag14-cyber/openclaw-zig-port",
       "homepage": null,
-      "language": null,
-      "stars": 0,
+      "language": "Zig",
+      "stars": 2,
       "forks": 0,
-      "openIssues": 0,
+      "openIssues": 1,
       "topics": [],
       "license": null,
       "isArchived": false,
-      "createdAt": "2026-02-19T19:01:24.000Z",
-      "updatedAt": "2026-03-02T04:35:24.000Z",
-      "pushedAt": "2026-03-02T04:35:21.000Z",
-      "firstSeenAt": "2026-03-04T22:10:02.705Z",
-      "lastFetchedAt": "2026-03-04T22:10:02.704Z",
-      "activityScore": 0
+      "createdAt": "2026-03-01T23:39:06.000Z",
+      "updatedAt": "2026-03-04T22:00:42.000Z",
+      "pushedAt": "2026-03-04T22:00:26.000Z",
+      "firstSeenAt": "2026-03-04T21:48:50.307Z",
+      "lastFetchedAt": "2026-03-04T22:05:27.321Z",
+      "activityScore": 40.19
     },
     {
-      "id": 1278,
-      "githubId": 1170403250,
-      "fullName": "1143891602/open-claw",
-      "name": "open-claw",
-      "owner": "1143891602",
+      "id": 46,
+      "githubId": 1151980758,
+      "fullName": "alexliv1234/alexbot",
+      "name": "alexbot",
+      "owner": "alexliv1234",
+      "description": "My Digital Twin Setup (openclaw)",
+      "url": "https://github.com/alexliv1234/alexbot",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 124,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-07T07:02:40.000Z",
+      "updatedAt": "2026-03-04T21:59:09.000Z",
+      "pushedAt": "2026-03-04T21:59:04.000Z",
+      "firstSeenAt": "2026-03-04T21:50:25.092Z",
+      "lastFetchedAt": "2026-03-04T22:05:30.785Z",
+      "activityScore": 40.18
+    },
+    {
+      "id": 98,
+      "githubId": 1158255846,
+      "fullName": "ythx-101/openclaw-qa",
+      "name": "openclaw-qa",
+      "owner": "ythx-101",
+      "description": "OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+      "url": "https://github.com/ythx-101/openclaw-qa",
+      "homepage": "https://ythx-101.github.io/openclaw-qa/",
+      "language": "Python",
+      "stars": 52,
+      "forks": 5,
+      "openIssues": 2,
+      "topics": [
+        "agent-evolution",
+        "ai-agent",
+        "ai-assistant",
+        "autonomous-agent",
+        "chinese",
+        "llm",
+        "memory-system",
+        "multi-agent",
+        "openclaw"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-15T03:35:48.000Z",
+      "updatedAt": "2026-03-04T22:03:38.000Z",
+      "pushedAt": "2026-03-04T22:03:34.000Z",
+      "firstSeenAt": "2026-03-04T22:05:20.855Z",
+      "lastFetchedAt": "2026-03-04T22:05:20.854Z",
+      "activityScore": 40
+    },
+    {
+      "id": 67,
+      "githubId": 1167555503,
+      "fullName": "douyo01-byte/openclaw-factory",
+      "name": "openclaw-factory",
+      "owner": "douyo01-byte",
       "description": null,
-      "url": "https://github.com/1143891602/open-claw",
+      "url": "https://github.com/douyo01-byte/openclaw-factory",
       "homepage": null,
-      "language": null,
+      "language": "Python",
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
       "topics": [],
       "license": null,
       "isArchived": false,
-      "createdAt": "2026-03-02T04:42:23.000Z",
-      "updatedAt": "2026-03-02T04:42:23.000Z",
-      "pushedAt": "2026-03-02T04:42:23.000Z",
-      "firstSeenAt": "2026-03-04T22:10:02.588Z",
-      "lastFetchedAt": "2026-03-04T22:10:02.587Z",
-      "activityScore": 0
+      "createdAt": "2026-02-26T12:27:30.000Z",
+      "updatedAt": "2026-03-04T21:34:14.000Z",
+      "pushedAt": "2026-03-04T21:40:07.000Z",
+      "firstSeenAt": "2026-03-04T21:51:11.984Z",
+      "lastFetchedAt": "2026-03-04T22:05:47.541Z",
+      "activityScore": 39.91
+    },
+    {
+      "id": 57,
+      "githubId": 1170190714,
+      "fullName": "dzhamirag-cloud/otryad-x-dashboard",
+      "name": "otryad-x-dashboard",
+      "owner": "dzhamirag-cloud",
+      "description": "Отряд X — RPG-дашборд для команды AI-агентов OpenClaw",
+      "url": "https://github.com/dzhamirag-cloud/otryad-x-dashboard",
+      "homepage": "https://agents-dashboard-ashen.vercel.app",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-01T20:39:51.000Z",
+      "updatedAt": "2026-03-04T21:51:28.000Z",
+      "pushedAt": "2026-03-04T21:51:25.000Z",
+      "firstSeenAt": "2026-03-04T21:50:50.140Z",
+      "lastFetchedAt": "2026-03-04T22:05:37.264Z",
+      "activityScore": 39.35
     }
   ],
   "newAndRising": [
@@ -505,7 +529,7 @@
       "pushedAt": "2026-03-04T21:53:53.000Z",
       "firstSeenAt": "2026-03-04T21:51:20.988Z",
       "lastFetchedAt": "2026-03-04T22:05:35.963Z",
-      "activityScore": 0
+      "activityScore": 23.01
     },
     {
       "id": 499,
@@ -537,7 +561,7 @@
       "pushedAt": "2026-03-04T19:02:30.000Z",
       "firstSeenAt": "2026-03-04T22:07:06.744Z",
       "lastFetchedAt": "2026-03-04T22:07:06.743Z",
-      "activityScore": 0
+      "activityScore": 20.99
     },
     {
       "id": 138,
@@ -569,7 +593,7 @@
       "pushedAt": "2026-03-04T21:29:01.000Z",
       "firstSeenAt": "2026-03-04T22:05:51.013Z",
       "lastFetchedAt": "2026-03-04T22:05:51.013Z",
-      "activityScore": 0
+      "activityScore": 21.85
     },
     {
       "id": 431,
@@ -609,7 +633,7 @@
       "pushedAt": "2026-03-04T19:56:05.000Z",
       "firstSeenAt": "2026-03-04T22:06:51.685Z",
       "lastFetchedAt": "2026-03-04T22:06:51.684Z",
-      "activityScore": 0
+      "activityScore": 22.47
     },
     {
       "id": 118,
@@ -632,7 +656,7 @@
       "pushedAt": "2026-03-04T22:02:08.000Z",
       "firstSeenAt": "2026-03-04T22:05:32.564Z",
       "lastFetchedAt": "2026-03-04T22:05:32.563Z",
-      "activityScore": 0
+      "activityScore": 23.95
     },
     {
       "id": 981,
@@ -666,7 +690,7 @@
       "pushedAt": "2026-03-04T14:38:53.000Z",
       "firstSeenAt": "2026-03-04T22:08:57.451Z",
       "lastFetchedAt": "2026-03-04T22:08:57.450Z",
-      "activityScore": 0
+      "activityScore": 25.56
     },
     {
       "id": 667,
@@ -695,7 +719,7 @@
       "pushedAt": "2026-03-04T17:17:29.000Z",
       "firstSeenAt": "2026-03-04T22:07:44.263Z",
       "lastFetchedAt": "2026-03-04T22:07:44.262Z",
-      "activityScore": 0
+      "activityScore": 26.35
     },
     {
       "id": 1095,
@@ -729,7 +753,7 @@
       "pushedAt": "2026-03-04T00:07:27.000Z",
       "firstSeenAt": "2026-03-04T22:09:23.434Z",
       "lastFetchedAt": "2026-03-04T22:09:23.433Z",
-      "activityScore": 0
+      "activityScore": 15.33
     },
     {
       "id": 801,
@@ -773,7 +797,7 @@
       "pushedAt": "2026-03-04T16:12:47.000Z",
       "firstSeenAt": "2026-03-04T22:08:15.747Z",
       "lastFetchedAt": "2026-03-04T22:08:15.746Z",
-      "activityScore": 0
+      "activityScore": 22.47
     },
     {
       "id": 965,
@@ -812,7 +836,7 @@
       "pushedAt": "2026-03-04T14:53:15.000Z",
       "firstSeenAt": "2026-03-04T22:08:53.752Z",
       "lastFetchedAt": "2026-03-04T22:08:53.752Z",
-      "activityScore": 0
+      "activityScore": 21.15
     },
     {
       "id": 530,
@@ -840,7 +864,7 @@
       "pushedAt": "2026-03-04T18:48:05.000Z",
       "firstSeenAt": "2026-03-04T22:07:13.086Z",
       "lastFetchedAt": "2026-03-04T22:07:13.085Z",
-      "activityScore": 0
+      "activityScore": 22.86
     },
     {
       "id": 402,
@@ -879,7 +903,7 @@
       "pushedAt": "2026-03-04T20:18:26.000Z",
       "firstSeenAt": "2026-03-04T22:06:45.530Z",
       "lastFetchedAt": "2026-03-04T22:06:45.530Z",
-      "activityScore": 0
+      "activityScore": 21.01
     },
     {
       "id": 543,
@@ -920,7 +944,7 @@
       "pushedAt": "2026-03-04T18:44:53.000Z",
       "firstSeenAt": "2026-03-04T22:07:15.816Z",
       "lastFetchedAt": "2026-03-04T22:07:15.816Z",
-      "activityScore": 0
+      "activityScore": 20.64
     },
     {
       "id": 597,
@@ -943,7 +967,7 @@
       "pushedAt": "2026-03-04T18:01:14.000Z",
       "firstSeenAt": "2026-03-04T22:07:27.824Z",
       "lastFetchedAt": "2026-03-04T22:07:27.823Z",
-      "activityScore": 0
+      "activityScore": 21.07
     },
     {
       "id": 982,
@@ -977,7 +1001,7 @@
       "pushedAt": "2026-03-04T14:37:18.000Z",
       "firstSeenAt": "2026-03-04T22:08:57.748Z",
       "lastFetchedAt": "2026-03-04T22:08:57.748Z",
-      "activityScore": 0
+      "activityScore": 19.08
     },
     {
       "id": 714,
@@ -1005,7 +1029,7 @@
       "pushedAt": "2026-03-04T16:58:09.000Z",
       "firstSeenAt": "2026-03-04T22:07:55.273Z",
       "lastFetchedAt": "2026-03-04T22:07:55.272Z",
-      "activityScore": 0
+      "activityScore": 19.23
     },
     {
       "id": 375,
@@ -1028,7 +1052,7 @@
       "pushedAt": "2026-03-04T20:32:41.000Z",
       "firstSeenAt": "2026-03-04T22:06:39.780Z",
       "lastFetchedAt": "2026-03-04T22:06:39.780Z",
-      "activityScore": 0
+      "activityScore": 21.26
     },
     {
       "id": 121,
@@ -1063,7 +1087,7 @@
       "pushedAt": "2026-03-04T21:55:28.000Z",
       "firstSeenAt": "2026-03-04T22:05:34.429Z",
       "lastFetchedAt": "2026-03-04T22:05:34.429Z",
-      "activityScore": 0
+      "activityScore": 26.38
     },
     {
       "id": 124,
@@ -1107,7 +1131,7 @@
       "pushedAt": "2026-03-04T21:54:03.000Z",
       "firstSeenAt": "2026-03-04T22:05:35.750Z",
       "lastFetchedAt": "2026-03-04T22:05:35.749Z",
-      "activityScore": 0
+      "activityScore": 23.97
     },
     {
       "id": 817,
@@ -1141,7 +1165,7 @@
       "pushedAt": "2026-03-04T16:04:02.000Z",
       "firstSeenAt": "2026-03-04T22:08:19.710Z",
       "lastFetchedAt": "2026-03-04T22:08:19.709Z",
-      "activityScore": 0
+      "activityScore": 20.61
     },
     {
       "id": 905,
@@ -1164,7 +1188,7 @@
       "pushedAt": "2026-03-04T15:21:46.000Z",
       "firstSeenAt": "2026-03-04T22:08:39.986Z",
       "lastFetchedAt": "2026-03-04T22:08:39.985Z",
-      "activityScore": 0
+      "activityScore": 23.85
     },
     {
       "id": 546,
@@ -1196,7 +1220,7 @@
       "pushedAt": "2026-03-04T18:44:08.000Z",
       "firstSeenAt": "2026-03-04T22:07:16.496Z",
       "lastFetchedAt": "2026-03-04T22:07:16.495Z",
-      "activityScore": 0
+      "activityScore": 19.23
     },
     {
       "id": 404,
@@ -1219,7 +1243,7 @@
       "pushedAt": "2026-03-04T20:15:34.000Z",
       "firstSeenAt": "2026-03-04T22:06:45.938Z",
       "lastFetchedAt": "2026-03-04T22:06:45.937Z",
-      "activityScore": 0
+      "activityScore": 32.19
     },
     {
       "id": 813,
@@ -1263,7 +1287,7 @@
       "pushedAt": "2026-03-04T16:04:48.000Z",
       "firstSeenAt": "2026-03-04T22:08:18.345Z",
       "lastFetchedAt": "2026-03-04T22:08:18.344Z",
-      "activityScore": 0
+      "activityScore": 21.02
     },
     {
       "id": 785,
@@ -1289,7 +1313,7 @@
       "pushedAt": "2026-03-04T16:21:57.000Z",
       "firstSeenAt": "2026-03-04T22:08:11.608Z",
       "lastFetchedAt": "2026-03-04T22:08:11.607Z",
-      "activityScore": 0
+      "activityScore": 24.08
     },
     {
       "id": 690,
@@ -1317,7 +1341,7 @@
       "pushedAt": "2026-03-04T17:04:26.000Z",
       "firstSeenAt": "2026-03-04T22:07:50.150Z",
       "lastFetchedAt": "2026-03-04T22:07:50.149Z",
-      "activityScore": 0
+      "activityScore": 22.45
     },
     {
       "id": 1,
@@ -1351,7 +1375,7 @@
       "pushedAt": "2026-03-04T22:01:35.000Z",
       "firstSeenAt": "2026-03-04T21:48:43.669Z",
       "lastFetchedAt": "2026-03-04T22:05:24.493Z",
-      "activityScore": 0
+      "activityScore": 31
     },
     {
       "id": 484,
@@ -1385,7 +1409,7 @@
       "pushedAt": "2026-03-04T19:15:32.000Z",
       "firstSeenAt": "2026-03-04T22:07:03.333Z",
       "lastFetchedAt": "2026-03-04T22:07:03.331Z",
-      "activityScore": 0
+      "activityScore": 20.15
     },
     {
       "id": 480,
@@ -1429,7 +1453,7 @@
       "pushedAt": "2026-03-04T19:18:30.000Z",
       "firstSeenAt": "2026-03-04T22:07:02.496Z",
       "lastFetchedAt": "2026-03-04T22:07:02.495Z",
-      "activityScore": 0
+      "activityScore": 19.76
     },
     {
       "id": 370,
@@ -1452,7 +1476,7 @@
       "pushedAt": "2026-03-04T20:34:16.000Z",
       "firstSeenAt": "2026-03-04T22:06:38.610Z",
       "lastFetchedAt": "2026-03-04T22:06:38.609Z",
-      "activityScore": 0
+      "activityScore": 23.66
     },
     {
       "id": 584,
@@ -1480,7 +1504,7 @@
       "pushedAt": "2026-03-04T18:11:45.000Z",
       "firstSeenAt": "2026-03-04T22:07:25.030Z",
       "lastFetchedAt": "2026-03-04T22:07:25.029Z",
-      "activityScore": 0
+      "activityScore": 19.91
     },
     {
       "id": 59,
@@ -1512,7 +1536,7 @@
       "pushedAt": "2026-03-04T22:02:05.000Z",
       "firstSeenAt": "2026-03-04T21:50:54.724Z",
       "lastFetchedAt": "2026-03-04T22:05:23.800Z",
-      "activityScore": 0
+      "activityScore": 24.8
     },
     {
       "id": 527,
@@ -1543,7 +1567,7 @@
       "pushedAt": "2026-03-04T18:49:18.000Z",
       "firstSeenAt": "2026-03-04T22:07:12.593Z",
       "lastFetchedAt": "2026-03-04T22:07:12.592Z",
-      "activityScore": 0
+      "activityScore": 19.45
     },
     {
       "id": 66,
@@ -1574,7 +1598,7 @@
       "pushedAt": "2026-03-04T21:34:27.000Z",
       "firstSeenAt": "2026-03-04T21:51:09.852Z",
       "lastFetchedAt": "2026-03-04T22:05:47.337Z",
-      "activityScore": 0
+      "activityScore": 21.69
     },
     {
       "id": 1084,
@@ -1597,7 +1621,7 @@
       "pushedAt": "2026-03-04T02:23:29.000Z",
       "firstSeenAt": "2026-03-04T22:09:21.158Z",
       "lastFetchedAt": "2026-03-04T22:09:21.158Z",
-      "activityScore": 0
+      "activityScore": 15.63
     },
     {
       "id": 549,
@@ -1620,7 +1644,7 @@
       "pushedAt": "2026-03-04T18:41:39.000Z",
       "firstSeenAt": "2026-03-04T22:07:17.051Z",
       "lastFetchedAt": "2026-03-04T22:07:17.050Z",
-      "activityScore": 0
+      "activityScore": 21.22
     },
     {
       "id": 1272,
@@ -1643,7 +1667,7 @@
       "pushedAt": "2026-03-02T05:51:39.000Z",
       "firstSeenAt": "2026-03-04T22:09:59.959Z",
       "lastFetchedAt": "2026-03-04T22:09:59.958Z",
-      "activityScore": 0
+      "activityScore": 5.09
     },
     {
       "id": 954,
@@ -1668,7 +1692,7 @@
       "pushedAt": "2026-03-04T15:00:41.000Z",
       "firstSeenAt": "2026-03-04T22:08:51.349Z",
       "lastFetchedAt": "2026-03-04T22:08:51.348Z",
-      "activityScore": 0
+      "activityScore": 21.36
     },
     {
       "id": 1121,
@@ -1691,7 +1715,7 @@
       "pushedAt": "2026-03-03T17:00:01.000Z",
       "firstSeenAt": "2026-03-04T22:09:28.221Z",
       "lastFetchedAt": "2026-03-04T22:09:28.219Z",
-      "activityScore": 0
+      "activityScore": 13.25
     },
     {
       "id": 414,
@@ -1714,7 +1738,7 @@
       "pushedAt": "2026-03-04T20:05:18.000Z",
       "firstSeenAt": "2026-03-04T22:06:48.006Z",
       "lastFetchedAt": "2026-03-04T22:06:48.005Z",
-      "activityScore": 0
+      "activityScore": 19.74
     },
     {
       "id": 262,
@@ -1755,7 +1779,7 @@
       "pushedAt": "2026-03-04T20:47:45.000Z",
       "firstSeenAt": "2026-03-04T22:06:17.126Z",
       "lastFetchedAt": "2026-03-04T22:06:17.125Z",
-      "activityScore": 0
+      "activityScore": 20.71
     },
     {
       "id": 889,
@@ -1780,7 +1804,7 @@
       "pushedAt": "2026-03-04T20:01:05.000Z",
       "firstSeenAt": "2026-03-04T22:08:35.513Z",
       "lastFetchedAt": "2026-03-04T22:08:35.512Z",
-      "activityScore": 0
+      "activityScore": 20.33
     },
     {
       "id": 655,
@@ -1813,7 +1837,7 @@
       "pushedAt": "2026-03-04T17:31:54.000Z",
       "firstSeenAt": "2026-03-04T22:07:41.669Z",
       "lastFetchedAt": "2026-03-04T22:07:41.668Z",
-      "activityScore": 0
+      "activityScore": 20.75
     },
     {
       "id": 749,
@@ -1836,7 +1860,7 @@
       "pushedAt": "2026-03-04T16:42:28.000Z",
       "firstSeenAt": "2026-03-04T22:08:03.539Z",
       "lastFetchedAt": "2026-03-04T22:08:03.538Z",
-      "activityScore": 0
+      "activityScore": 19.76
     },
     {
       "id": 177,
@@ -1877,7 +1901,7 @@
       "pushedAt": "2026-03-04T21:17:30.000Z",
       "firstSeenAt": "2026-03-04T22:05:59.510Z",
       "lastFetchedAt": "2026-03-04T22:05:59.510Z",
-      "activityScore": 0
+      "activityScore": 26.02
     },
     {
       "id": 249,
@@ -1900,7 +1924,7 @@
       "pushedAt": "2026-03-04T20:48:32.000Z",
       "firstSeenAt": "2026-03-04T22:06:14.466Z",
       "lastFetchedAt": "2026-03-04T22:06:14.466Z",
-      "activityScore": 0
+      "activityScore": 22.31
     },
     {
       "id": 98,
@@ -1933,7 +1957,7 @@
       "pushedAt": "2026-03-04T22:03:34.000Z",
       "firstSeenAt": "2026-03-04T22:05:20.855Z",
       "lastFetchedAt": "2026-03-04T22:05:20.854Z",
-      "activityScore": 0
+      "activityScore": 40
     },
     {
       "id": 559,
@@ -1963,7 +1987,7 @@
       "pushedAt": "2026-03-04T18:32:19.000Z",
       "firstSeenAt": "2026-03-04T22:07:19.233Z",
       "lastFetchedAt": "2026-03-04T22:07:19.232Z",
-      "activityScore": 0
+      "activityScore": 20.18
     },
     {
       "id": 675,
@@ -1993,7 +2017,7 @@
       "pushedAt": "2026-03-04T17:13:59.000Z",
       "firstSeenAt": "2026-03-04T22:07:46.423Z",
       "lastFetchedAt": "2026-03-04T22:07:46.422Z",
-      "activityScore": 0
+      "activityScore": 19.08
     },
     {
       "id": 735,
@@ -2016,7 +2040,7 @@
       "pushedAt": "2026-03-04T16:48:54.000Z",
       "firstSeenAt": "2026-03-04T22:08:00.225Z",
       "lastFetchedAt": "2026-03-04T22:08:00.225Z",
-      "activityScore": 0
+      "activityScore": 19.38
     },
     {
       "id": 748,
@@ -2039,7 +2063,7 @@
       "pushedAt": "2026-03-04T16:42:30.000Z",
       "firstSeenAt": "2026-03-04T22:08:03.343Z",
       "lastFetchedAt": "2026-03-04T22:08:03.342Z",
-      "activityScore": 0
+      "activityScore": 20.36
     },
     {
       "id": 759,
@@ -2075,7 +2099,7 @@
       "pushedAt": "2026-03-04T16:36:23.000Z",
       "firstSeenAt": "2026-03-04T22:08:05.900Z",
       "lastFetchedAt": "2026-03-04T22:08:05.899Z",
-      "activityScore": 0
+      "activityScore": 19.13
     },
     {
       "id": 792,
@@ -2098,7 +2122,7 @@
       "pushedAt": "2026-03-04T16:18:14.000Z",
       "firstSeenAt": "2026-03-04T22:08:13.585Z",
       "lastFetchedAt": "2026-03-04T22:08:13.584Z",
-      "activityScore": 0
+      "activityScore": 21.06
     },
     {
       "id": 517,
@@ -2132,7 +2156,7 @@
       "pushedAt": "2026-03-04T18:54:55.000Z",
       "firstSeenAt": "2026-03-04T22:07:10.437Z",
       "lastFetchedAt": "2026-03-04T22:07:10.436Z",
-      "activityScore": 0
+      "activityScore": 20.27
     },
     {
       "id": 300,
@@ -2155,7 +2179,7 @@
       "pushedAt": "2026-03-04T20:43:48.000Z",
       "firstSeenAt": "2026-03-04T22:06:24.775Z",
       "lastFetchedAt": "2026-03-04T22:06:24.774Z",
-      "activityScore": 0
+      "activityScore": 20.09
     },
     {
       "id": 851,
@@ -2178,7 +2202,7 @@
       "pushedAt": "2026-03-04T15:50:44.000Z",
       "firstSeenAt": "2026-03-04T22:08:26.788Z",
       "lastFetchedAt": "2026-03-04T22:08:26.787Z",
-      "activityScore": 0
+      "activityScore": 19.56
     },
     {
       "id": 868,
@@ -2201,7 +2225,7 @@
       "pushedAt": "2026-03-04T15:40:48.000Z",
       "firstSeenAt": "2026-03-04T22:08:30.739Z",
       "lastFetchedAt": "2026-03-04T22:08:30.738Z",
-      "activityScore": 0
+      "activityScore": 20.32
     },
     {
       "id": 128,
@@ -2235,7 +2259,7 @@
       "pushedAt": "2026-03-04T21:33:01.000Z",
       "firstSeenAt": "2026-03-04T22:05:48.467Z",
       "lastFetchedAt": "2026-03-04T22:05:48.467Z",
-      "activityScore": 0
+      "activityScore": 25.28
     },
     {
       "id": 750,
@@ -2270,7 +2294,7 @@
       "pushedAt": "2026-03-04T16:42:13.000Z",
       "firstSeenAt": "2026-03-04T22:08:03.784Z",
       "lastFetchedAt": "2026-03-04T22:08:03.783Z",
-      "activityScore": 0
+      "activityScore": 19.16
     },
     {
       "id": 689,
@@ -2309,7 +2333,7 @@
       "pushedAt": "2026-03-04T17:05:26.000Z",
       "firstSeenAt": "2026-03-04T22:07:49.572Z",
       "lastFetchedAt": "2026-03-04T22:07:49.571Z",
-      "activityScore": 0
+      "activityScore": 23.45
     },
     {
       "id": 33,
@@ -2332,7 +2356,7 @@
       "pushedAt": "2026-03-04T22:02:40.000Z",
       "firstSeenAt": "2026-03-04T21:49:56.634Z",
       "lastFetchedAt": "2026-03-04T22:05:42.833Z",
-      "activityScore": 0
+      "activityScore": 20.4
     },
     {
       "id": 1235,
@@ -2355,7 +2379,7 @@
       "pushedAt": "2026-03-02T16:03:58.000Z",
       "firstSeenAt": "2026-03-04T22:09:52.957Z",
       "lastFetchedAt": "2026-03-04T22:09:52.956Z",
-      "activityScore": 0
+      "activityScore": 7.46
     },
     {
       "id": 391,
@@ -2386,7 +2410,7 @@
       "pushedAt": "2026-03-04T20:23:27.000Z",
       "firstSeenAt": "2026-03-04T22:06:43.270Z",
       "lastFetchedAt": "2026-03-04T22:06:43.269Z",
-      "activityScore": 0
+      "activityScore": 20.41
     },
     {
       "id": 888,
@@ -2409,7 +2433,7 @@
       "pushedAt": "2026-03-04T15:32:07.000Z",
       "firstSeenAt": "2026-03-04T22:08:35.282Z",
       "lastFetchedAt": "2026-03-04T22:08:35.282Z",
-      "activityScore": 0
+      "activityScore": 19.28
     },
     {
       "id": 441,
@@ -2440,7 +2464,7 @@
       "pushedAt": "2026-03-04T19:48:13.000Z",
       "firstSeenAt": "2026-03-04T22:06:54.061Z",
       "lastFetchedAt": "2026-03-04T22:06:54.060Z",
-      "activityScore": 0
+      "activityScore": 21.48
     },
     {
       "id": 50,
@@ -2475,7 +2499,7 @@
       "pushedAt": "2026-03-04T21:38:20.000Z",
       "firstSeenAt": "2026-03-04T21:50:34.875Z",
       "lastFetchedAt": "2026-03-04T22:05:45.757Z",
-      "activityScore": 0
+      "activityScore": 20.1
     },
     {
       "id": 902,
@@ -2508,7 +2532,7 @@
       "pushedAt": "2026-03-04T15:25:33.000Z",
       "firstSeenAt": "2026-03-04T22:08:39.241Z",
       "lastFetchedAt": "2026-03-04T22:08:39.241Z",
-      "activityScore": 0
+      "activityScore": 23.46
     },
     {
       "id": 232,
@@ -2531,7 +2555,7 @@
       "pushedAt": "2026-03-04T20:52:19.000Z",
       "firstSeenAt": "2026-03-04T22:06:11.296Z",
       "lastFetchedAt": "2026-03-04T22:06:11.295Z",
-      "activityScore": 0
+      "activityScore": 19.92
     },
     {
       "id": 1000,
@@ -2554,7 +2578,7 @@
       "pushedAt": "2026-03-04T22:03:59.000Z",
       "firstSeenAt": "2026-03-04T22:09:01.793Z",
       "lastFetchedAt": "2026-03-04T22:09:01.792Z",
-      "activityScore": 0
+      "activityScore": 33.2
     },
     {
       "id": 596,
@@ -2589,7 +2613,40 @@
       "pushedAt": "2026-03-04T18:03:28.000Z",
       "firstSeenAt": "2026-03-04T22:07:27.638Z",
       "lastFetchedAt": "2026-03-04T22:07:27.637Z",
-      "activityScore": 0
+      "activityScore": 19.07
+    },
+    {
+      "id": 1316,
+      "githubId": 1157568152,
+      "fullName": "tiero/claw-cash",
+      "name": "claw-cash",
+      "owner": "tiero",
+      "description": "Bitcoin wallet for AI agents. Stablecoins in, Bitcoin out. Keys in hardware enclaves. Works with OpenClaw, Claude Code, or any agent harness.",
+      "url": "https://github.com/tiero/claw-cash",
+      "homepage": "https://clw.cash",
+      "language": "TypeScript",
+      "stars": 17,
+      "forks": 5,
+      "openIssues": 7,
+      "topics": [
+        "ai-agent",
+        "bitcoin",
+        "bitocin-wallet",
+        "clawdbot",
+        "moltbot",
+        "open-claw",
+        "tether",
+        "usdc",
+        "usdt"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-14T01:14:31.000Z",
+      "updatedAt": "2026-03-01T15:23:47.000Z",
+      "pushedAt": "2026-03-01T16:06:37.000Z",
+      "firstSeenAt": "2026-03-04T22:10:10.581Z",
+      "lastFetchedAt": "2026-03-04T22:10:10.580Z",
+      "activityScore": 1.9
     },
     {
       "id": 979,
@@ -2617,7 +2674,7 @@
       "pushedAt": "2026-03-04T18:49:23.000Z",
       "firstSeenAt": "2026-03-04T22:08:56.965Z",
       "lastFetchedAt": "2026-03-04T22:08:56.964Z",
-      "activityScore": 0
+      "activityScore": 20.05
     },
     {
       "id": 272,
@@ -2647,7 +2704,7 @@
       "pushedAt": "2026-03-04T20:46:33.000Z",
       "firstSeenAt": "2026-03-04T22:06:19.104Z",
       "lastFetchedAt": "2026-03-04T22:06:19.103Z",
-      "activityScore": 0
+      "activityScore": 22.5
     },
     {
       "id": 1109,
@@ -2670,7 +2727,7 @@
       "pushedAt": "2026-03-03T20:06:29.000Z",
       "firstSeenAt": "2026-03-04T22:09:26.169Z",
       "lastFetchedAt": "2026-03-04T22:09:26.168Z",
-      "activityScore": 0
+      "activityScore": 13.97
     },
     {
       "id": 386,
@@ -2693,7 +2750,7 @@
       "pushedAt": "2026-03-04T20:25:29.000Z",
       "firstSeenAt": "2026-03-04T22:06:42.235Z",
       "lastFetchedAt": "2026-03-04T22:06:42.234Z",
-      "activityScore": 0
+      "activityScore": 24.22
     },
     {
       "id": 5,
@@ -2716,7 +2773,44 @@
       "pushedAt": "2026-03-04T21:58:15.000Z",
       "firstSeenAt": "2026-03-04T21:48:52.586Z",
       "lastFetchedAt": "2026-03-04T22:05:32.015Z",
-      "activityScore": 0
+      "activityScore": 20.98
+    },
+    {
+      "id": 1303,
+      "githubId": 1158694854,
+      "fullName": "MarcoDotIO/OpenClawKit",
+      "name": "OpenClawKit",
+      "owner": "MarcoDotIO",
+      "description": "A Swift package SDK for running local OpenClaw-style AI agent workflows inside native Swift applications.",
+      "url": "https://github.com/MarcoDotIO/OpenClawKit",
+      "homepage": "",
+      "language": "Swift",
+      "stars": 14,
+      "forks": 4,
+      "openIssues": 0,
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "ipados",
+        "javascriptcore",
+        "llm",
+        "local-agent-system",
+        "macos",
+        "openclaw",
+        "swift",
+        "tvos",
+        "visionos",
+        "wasm",
+        "watchos"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-15T19:22:54.000Z",
+      "updatedAt": "2026-03-04T03:15:35.000Z",
+      "pushedAt": "2026-03-01T18:46:49.000Z",
+      "firstSeenAt": "2026-03-04T22:10:07.125Z",
+      "lastFetchedAt": "2026-03-04T22:10:07.124Z",
+      "activityScore": 2.52
     },
     {
       "id": 1156,
@@ -2746,7 +2840,7 @@
       "pushedAt": "2026-03-03T11:18:05.000Z",
       "firstSeenAt": "2026-03-04T22:09:34.927Z",
       "lastFetchedAt": "2026-03-04T22:09:34.926Z",
-      "activityScore": 0
+      "activityScore": 11.93
     },
     {
       "id": 798,
@@ -2769,7 +2863,7 @@
       "pushedAt": "2026-03-04T16:14:55.000Z",
       "firstSeenAt": "2026-03-04T22:08:15.106Z",
       "lastFetchedAt": "2026-03-04T22:08:15.105Z",
-      "activityScore": 0
+      "activityScore": 20.85
     },
     {
       "id": 528,
@@ -2808,7 +2902,7 @@
       "pushedAt": "2026-03-04T18:48:46.000Z",
       "firstSeenAt": "2026-03-04T22:07:12.738Z",
       "lastFetchedAt": "2026-03-04T22:07:12.737Z",
-      "activityScore": 0
+      "activityScore": 19.44
     },
     {
       "id": 420,
@@ -2839,7 +2933,7 @@
       "pushedAt": "2026-03-04T20:03:06.000Z",
       "firstSeenAt": "2026-03-04T22:06:49.294Z",
       "lastFetchedAt": "2026-03-04T22:06:49.293Z",
-      "activityScore": 0
+      "activityScore": 21.33
     },
     {
       "id": 463,
@@ -2869,7 +2963,7 @@
       "pushedAt": "2026-03-04T19:25:32.000Z",
       "firstSeenAt": "2026-03-04T22:06:58.961Z",
       "lastFetchedAt": "2026-03-04T22:06:58.961Z",
-      "activityScore": 0
+      "activityScore": 22.39
     },
     {
       "id": 176,
@@ -2892,7 +2986,7 @@
       "pushedAt": "2026-03-04T22:04:00.000Z",
       "firstSeenAt": "2026-03-04T22:05:59.316Z",
       "lastFetchedAt": "2026-03-04T22:05:59.315Z",
-      "activityScore": 0
+      "activityScore": 20.4
     },
     {
       "id": 481,
@@ -2932,7 +3026,7 @@
       "pushedAt": "2026-03-04T19:18:24.000Z",
       "firstSeenAt": "2026-03-04T22:07:02.695Z",
       "lastFetchedAt": "2026-03-04T22:07:02.694Z",
-      "activityScore": 0
+      "activityScore": 19.76
     },
     {
       "id": 1177,
@@ -2962,7 +3056,7 @@
       "pushedAt": "2026-03-03T07:49:14.000Z",
       "firstSeenAt": "2026-03-04T22:09:38.512Z",
       "lastFetchedAt": "2026-03-04T22:09:38.511Z",
-      "activityScore": 0
+      "activityScore": 11.12
     }
   ]
 }

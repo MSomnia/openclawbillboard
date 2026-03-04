@@ -5,6 +5,7 @@ import type {
   SnapshotData,
   StatsData,
   TrendingData,
+  CommitData,
 } from "@/types";
 
 const DATA_DIR = path.join(process.cwd(), "src/data");
@@ -41,6 +42,15 @@ export function getStats(): StatsData {
 
 export function getTrending(): TrendingData {
   return readJSON<TrendingData>("trending.json");
+}
+
+export function getCommits(): CommitData[] {
+  return readJSON<CommitData[]>("commits.json");
+}
+
+export function getCommitsByRepo(fullName: string, limit = 20): CommitData[] {
+  const commits = getCommits();
+  return commits.filter((c) => c.fullName === fullName).slice(0, limit);
 }
 
 /** 将 fullName (owner/repo) 转为 URL slug (owner--repo) */

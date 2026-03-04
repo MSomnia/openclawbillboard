@@ -107,3 +107,13 @@ export interface TrendingData {
   mostActiveTop10: ProjectData[];
   newAndRising: ProjectData[]; // 创建 < 30 天 & star > 10
 }
+
+export interface CommitData {
+  repositoryId: number;
+  fullName: string;
+  sha: string;
+  message: string;
+  authorName: string;
+  authorDate: string;
+  url: string;
+}
