@@ -2,7 +2,7 @@ name: Daily OpenClaw Fetch & Deploy
 
 on:
   schedule:
-    - cron: '0 8 * * *' # 每天 UTC 8:00（北京时间 16:00）
+    - cron: '0 8 * * *' # 每天 UTC 8:00（多伦多 EDT 4:00 AM / EST 3:00 AM）
   workflow_dispatch: # 支持手动触发
 
 jobs:
@@ -29,18 +29,18 @@ jobs:
       - name: Run Prisma migrations
         run: npx prisma migrate deploy
         env:
-          DATABASE_URL: file:./prisma/dev.db
+          DATABASE_URL: file:./dev.db
 
       - name: Execute daily fetch
         run: npx tsx scripts/fetch-daily.ts
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          DATABASE_URL: file:./prisma/dev.db
+          DATABASE_URL: file:./dev.db
 
       - name: Export data to JSON
         run: npx tsx scripts/export-json.ts
         env:
-          DATABASE_URL: file:./prisma/dev.db
+          DATABASE_URL: file:./dev.db
 
       - name: Commit data changes
         run: |
