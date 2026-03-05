@@ -1,102 +1,78 @@
 # OpenClaw Billboard
 
-OpenClaw Billboard is a web platform that automatically aggregates and tracks
-projects related to the **OpenClaw ecosystem** on GitHub.
+OpenClaw Billboard is a web platform that automatically aggregates and tracks projects related to the **OpenClaw ecosystem** on GitHub.
 
-The platform discovers repositories, analyzes their activity, and
-presents ecosystem insights such as trending projects, active
-repositories, and community growth.
+The platform discovers repositories, analyzes their activity, and presents ecosystem insights such as:
 
-------------------------------------------------------------------------
+- Trending projects
+- Active repositories
+- Community growth
 
-# Features
+## Features
 
-### Ecosystem Discovery
+- **Ecosystem Discovery**  
+  Automatically discovers GitHub repositories related to OpenClaw and organizes them into a searchable directory.
 
-Automatically discovers GitHub repositories related to OpenClaw and
-organizes them into a searchable directory.
+- **Trending Projects**  
+  Highlights repositories that are rapidly gaining attention based on activity metrics.
 
-### Trending Projects
+- **Project Insights**  
+  Each repository page shows detailed information:
+  - Description
+  - Primary programming language
+  - Stars & forks count
+  - Recent commit activity
+  - Activity trends over time
 
-Highlights repositories that are rapidly gaining attention based on
-activity metrics.
+- **Daily Updates**  
+  Project data is refreshed automatically to keep ecosystem insights current.
 
-### Project Insights
+- **Explore Interface**  
+  Users can browse and filter repositories by attributes such as:
+  - Language
+  - Popularity (stars/forks)
+  - Activity level
 
-Each repository includes information such as:
+## Tech Stack
 
--   description
--   primary programming language
--   stars and forks
--   recent commits
--   activity trends
+| Layer        | Technology       |
+|--------------|------------------|
+| Framework    | Next.js          |
+| Language     | TypeScript       |
+| Styling      | Tailwind CSS     |
+| Charts       | Recharts         |
+| Database     | SQLite           |
+| ORM          | Prisma           |
+| Deployment   | Vercel           |
+| Automation   | GitHub Actions   |
 
-### Daily Updates
+The architecture prioritizes **simplicity** and **minimal infrastructure** while enabling fully automated data collection and visualization.
 
-Project data is refreshed automatically to keep ecosystem insights up to
-date.
+## Activity Scoring Algorithm
 
-### Explore Interface
+To evaluate how active a repository is within the ecosystem, OpenClaw Billboard calculates an **activity score**.
 
-Users can browse and filter repositories based on attributes such as
-language, popularity, and activity level.
-
-------------------------------------------------------------------------
-
-# Tech Stack
-
-  Layer        Technology
-  ------------ ----------------
-  Framework    Next.js
-  Language     TypeScript
-  Styling      Tailwind CSS
-  Charts       Recharts
-  Database     SQLite
-  ORM          Prisma
-  Deployment   Vercel
-  Automation   GitHub Actions
-
-The architecture focuses on simplicity and minimal infrastructure while
-still supporting automated data collection and visualization.
-
-------------------------------------------------------------------------
+The score combines multiple signals representing development momentum and community attention:
 
 
-# Activity Scoring Algorithm
+### Metrics Used
 
-To evaluate how active a repository is within the ecosystem, OpenClaw
-Billboard calculates an **activity score**.
-
-The score combines several signals that represent development momentum
-and community attention.
-
-    score =
-        w1 * normalize(recentCommits)
-      + w2 * normalize(starGrowthRate)
-      + w3 * normalize(issueActivity)
-      + w4 * normalize(daysSinceLastPush)
-      + w5 * normalize(totalStars)
-
-### Metrics
-
--   **recentCommits** --- number of commits in the past 7 days
--   **starGrowthRate** --- star increase during the past 7 days
--   **issueActivity** --- issue activity within the past week
--   **daysSinceLastPush** --- recency of the last code push
--   **totalStars** --- baseline popularity
+- **recentCommits** — number of commits in the past 7 days
+- **starGrowthRate** — increase in stars during the past 7 days
+- **issueActivity** — issue & PR activity within the past week
+- **daysSinceLastPush** — recency of the last code push (lower = more recent)
+- **totalStars** — baseline popularity
 
 ### Suggested Weights
 
-  Metric           Weight
-  ---------------- --------
-  Commits          0.30
-  Star growth      0.25
-  Issue activity   0.15
-  Push recency     0.20
-  Total stars      0.10
+| Metric            | Weight |
+|-------------------|--------|
+| Commits           | 0.30   |
+| Star growth       | 0.25   |
+| Issue activity    | 0.15   |
+| Push recency      | 0.20   |
+| Total stars       | 0.10   |
 
-All metrics are normalized to a 0--1 range before computing the final
-score.
+All metrics are **normalized** to a 0–1 range before weighting.  
 
-This scoring system helps identify repositories that are **actively
-evolving**, not just historically popular.
+This approach favors repositories that are **actively evolving** rather than those that are only historically popular.
