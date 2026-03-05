@@ -86,6 +86,19 @@ const translations = {
   "project.recentCommits": { zh: "最近 Commits", en: "Recent Commits" },
   "project.score": { zh: "分", en: "pts" },
 
+  // Statistics
+  "nav.statistics": { zh: "统计", en: "Statistics" },
+  "stats.page.title": { zh: "统计", en: "Statistics" },
+  "stats.page.subtitle": { zh: "OpenClaw 生态数据总览", en: "OpenClaw Ecosystem Data Overview" },
+  "stats.langDist": { zh: "语言分布", en: "Language Distribution" },
+  "stats.ecoTrend": { zh: "生态趋势", en: "Ecosystem Trends" },
+  "stats.totalStars": { zh: "总 Star 数", en: "Total Stars" },
+  "stats.totalCommits": { zh: "总 Commit 数", en: "Total Commits" },
+  "stats.recentCommits": { zh: "最近提交动态", en: "Recent Commits" },
+  "stats.noCommits": { zh: "暂无提交记录", en: "No commit records yet" },
+  "stats.other": { zh: "其他", en: "Other" },
+  "stats.projects": { zh: "个项目", en: "projects" },
+
   // TrendChart
   "chart.noData": { zh: "暂无趋势数据", en: "No trend data available" },
 } as const;

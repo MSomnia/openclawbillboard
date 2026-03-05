@@ -21,6 +21,9 @@ export default function Navbar() {
           <Link href="/trends" className="transition hover:text-gray-900">
             {t("nav.trends")}
           </Link>
+          <Link href="/statistics" className="transition hover:text-gray-900">
+            {t("nav.statistics")}
+          </Link>
           <a
             href="https://github.com/MSomnia/openclawbillboard"
             target="_blank"
