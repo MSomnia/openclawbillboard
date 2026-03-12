@@ -10,9 +10,9 @@
       "url": "https://github.com/openclaw/openclaw",
       "homepage": "https://openclaw.ai",
       "language": "TypeScript",
-      "stars": 301533,
-      "forks": 56959,
-      "openIssues": 12161,
+      "stars": 305802,
+      "forks": 57799,
+      "openIssues": 12347,
       "topics": [
         "ai",
         "assistant",
@@ -25,74 +25,78 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2025-11-24T10:16:47.000Z",
-      "updatedAt": "2026-03-11T08:55:32.000Z",
-      "pushedAt": "2026-03-11T08:41:23.000Z",
+      "updatedAt": "2026-03-12T08:55:29.000Z",
+      "pushedAt": "2026-03-12T08:54:37.000Z",
       "firstSeenAt": "2026-03-04T22:06:24.200Z",
-      "lastFetchedAt": "2026-03-11T08:58:36.241Z",
-      "activityScore": 77.36
+      "lastFetchedAt": "2026-03-12T08:57:42.329Z",
+      "activityScore": 94.94
     },
     {
-      "id": 679,
-      "githubId": 1147094660,
-      "fullName": "HKUDS/nanobot",
-      "name": "nanobot",
-      "owner": "HKUDS",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
-      "url": "https://github.com/HKUDS/nanobot",
-      "homepage": "",
-      "language": "Python",
-      "stars": 32220,
-      "forks": 5296,
-      "openIssues": 1025,
-      "topics": [],
+      "id": 801,
+      "githubId": 1164376059,
+      "fullName": "AlexAnys/awesome-openclaw-usecases-zh",
+      "name": "awesome-openclaw-usecases-zh",
+      "owner": "AlexAnys",
+      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "homepage": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh#readme",
+      "language": null,
+      "stars": 1890,
+      "forks": 197,
+      "openIssues": 12,
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "ai-automation",
+        "ai-tools",
+        "automation",
+        "awesome-list",
+        "chinese",
+        "claude",
+        "content-creation",
+        "devops",
+        "knowledge-management",
+        "llm",
+        "openclaw",
+        "personal-assistant",
+        "productivity",
+        "self-hosting",
+        "telegram-bot",
+        "use-cases",
+        "workflow-automation",
+        "zh-cn"
+      ],
       "license": "MIT",
       "isArchived": false,
-      "createdAt": "2026-02-01T07:16:15.000Z",
-      "updatedAt": "2026-03-11T08:53:09.000Z",
-      "pushedAt": "2026-03-11T08:44:41.000Z",
-      "firstSeenAt": "2026-03-04T22:07:47.530Z",
-      "lastFetchedAt": "2026-03-11T08:58:21.000Z",
-      "activityScore": 41.59
+      "createdAt": "2026-02-23T02:20:51.000Z",
+      "updatedAt": "2026-03-12T08:52:52.000Z",
+      "pushedAt": "2026-03-12T07:52:00.000Z",
+      "firstSeenAt": "2026-03-04T22:08:15.747Z",
+      "lastFetchedAt": "2026-03-12T08:59:12.800Z",
+      "activityScore": 21.59
     },
     {
-      "id": 636,
-      "githubId": 575865240,
-      "fullName": "AstrBotDevs/AstrBot",
-      "name": "AstrBot",
-      "owner": "AstrBotDevs",
-      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "homepage": "https://astrbot.app",
-      "language": "Python",
-      "stars": 20684,
-      "forks": 1496,
-      "openIssues": 662,
-      "topics": [
-        "agent",
-        "ai",
-        "chatbot",
-        "chatgpt",
-        "discord",
-        "docker",
-        "gemini",
-        "gpt",
-        "llama",
-        "llm",
-        "mcp",
-        "openai",
-        "python",
-        "qq",
-        "qqbot",
-        "telegram"
-      ],
-      "license": "AGPL-3.0",
+      "id": 1403,
+      "githubId": 1158991995,
+      "fullName": "Xiangyu-CAS/xiaohongshu-ops-skill",
+      "name": "xiaohongshu-ops-skill",
+      "owner": "Xiangyu-CAS",
+      "description": "Openclaw 自动运营小红书，自动发布、回复、爆款复刻，基于浏览器自动化风险低 🎯 让AI帮你运营自媒体副业吧！",
+      "url": "https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill",
+      "homepage": "",
+      "language": null,
+      "stars": 886,
+      "forks": 100,
+      "openIssues": 11,
+      "topics": [],
+      "license": null,
       "isArchived": false,
-      "createdAt": "2022-12-08T13:27:46.000Z",
-      "updatedAt": "2026-03-11T08:48:48.000Z",
-      "pushedAt": "2026-03-11T08:41:08.000Z",
-      "firstSeenAt": "2026-03-04T22:07:36.989Z",
-      "lastFetchedAt": "2026-03-11T08:58:37.725Z",
-      "activityScore": 34.32
+      "createdAt": "2026-02-16T07:10:54.000Z",
+      "updatedAt": "2026-03-12T08:07:27.000Z",
+      "pushedAt": "2026-03-12T07:23:21.000Z",
+      "firstSeenAt": "2026-03-05T18:34:08.831Z",
+      "lastFetchedAt": "2026-03-12T09:00:02.164Z",
+      "activityScore": 20.38
     },
     {
       "id": 858,
@@ -104,9 +108,9 @@
       "url": "https://github.com/farion1231/cc-switch",
       "homepage": "https://github.com/farion1231/cc-switch",
       "language": "Rust",
-      "stars": 26564,
-      "forks": 1612,
-      "openIssues": 377,
+      "stars": 27047,
+      "forks": 1639,
+      "openIssues": 397,
       "topics": [
         "ai-tools",
         "claude-code",
@@ -130,39 +134,105 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2025-08-04T14:16:16.000Z",
-      "updatedAt": "2026-03-11T08:54:56.000Z",
-      "pushedAt": "2026-03-11T08:26:19.000Z",
+      "updatedAt": "2026-03-12T08:53:45.000Z",
+      "pushedAt": "2026-03-12T06:10:03.000Z",
       "firstSeenAt": "2026-03-04T22:08:28.309Z",
-      "lastFetchedAt": "2026-03-11T08:59:31.340Z",
-      "activityScore": 26.96
+      "lastFetchedAt": "2026-03-12T09:01:41.431Z",
+      "activityScore": 26.67
     },
     {
-      "id": 71,
-      "githubId": 1156956890,
-      "fullName": "zeroclaw-labs/zeroclaw",
-      "name": "zeroclaw",
-      "owner": "zeroclaw-labs",
-      "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "url": "https://github.com/zeroclaw-labs/zeroclaw",
-      "homepage": "https://www.zeroclawlabs.ai/",
-      "language": "Rust",
-      "stars": 26005,
-      "forks": 3341,
-      "openIssues": 356,
+      "id": 679,
+      "githubId": 1147094660,
+      "fullName": "HKUDS/nanobot",
+      "name": "nanobot",
+      "owner": "HKUDS",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+      "url": "https://github.com/HKUDS/nanobot",
+      "homepage": "",
+      "language": "Python",
+      "stars": 32685,
+      "forks": 5390,
+      "openIssues": 978,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-01T07:16:15.000Z",
+      "updatedAt": "2026-03-12T08:50:04.000Z",
+      "pushedAt": "2026-03-12T06:17:06.000Z",
+      "firstSeenAt": "2026-03-04T22:07:47.530Z",
+      "lastFetchedAt": "2026-03-12T09:01:37.065Z",
+      "activityScore": 33.19
+    },
+    {
+      "id": 4529,
+      "githubId": 1176414483,
+      "fullName": "dongsheng123132/u-claw",
+      "name": "u-claw",
+      "owner": "dongsheng123132",
+      "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
+      "url": "https://github.com/dongsheng123132/u-claw",
+      "homepage": "https://www.u-claw.org/",
+      "language": "HTML",
+      "stars": 442,
+      "forks": 86,
+      "openIssues": 5,
+      "topics": [
+        "ai-assistant",
+        "china",
+        "deepseek",
+        "feishu",
+        "kimi",
+        "offline-installer",
+        "openclaw",
+        "portable",
+        "qq-bot",
+        "usb"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-09T02:01:51.000Z",
+      "updatedAt": "2026-03-12T08:46:15.000Z",
+      "pushedAt": "2026-03-12T07:48:19.000Z",
+      "firstSeenAt": "2026-03-10T08:59:32.062Z",
+      "lastFetchedAt": "2026-03-12T08:59:17.870Z",
+      "activityScore": 21.72
+    },
+    {
+      "id": 1716,
+      "githubId": 1128123594,
+      "fullName": "volcengine/OpenViking",
+      "name": "OpenViking",
+      "owner": "volcengine",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "url": "https://github.com/volcengine/OpenViking",
+      "homepage": "https://openviking.ai",
+      "language": "Python",
+      "stars": 5897,
+      "forks": 452,
+      "openIssues": 53,
       "topics": [
         "agent",
-        "agentic",
-        "ai",
-        "openclaw"
+        "agentic-rag",
+        "ai-agents",
+        "clawbot",
+        "context-database",
+        "context-engineering",
+        "filesystem",
+        "llm",
+        "memory",
+        "openclaw",
+        "opencode",
+        "rag",
+        "skill"
       ],
       "license": "Apache-2.0",
       "isArchived": false,
-      "createdAt": "2026-02-13T08:56:04.000Z",
-      "updatedAt": "2026-03-11T08:55:06.000Z",
-      "pushedAt": "2026-03-11T08:50:32.000Z",
-      "firstSeenAt": "2026-03-04T21:51:20.988Z",
-      "lastFetchedAt": "2026-03-11T08:57:51.127Z",
-      "activityScore": 44.7
+      "createdAt": "2026-01-05T07:11:17.000Z",
+      "updatedAt": "2026-03-12T08:49:39.000Z",
+      "pushedAt": "2026-03-12T08:49:14.000Z",
+      "firstSeenAt": "2026-03-05T18:36:06.615Z",
+      "lastFetchedAt": "2026-03-12T08:57:55.920Z",
+      "activityScore": 24.11
     },
     {
       "id": 1095,
@@ -172,11 +242,11 @@
       "owner": "Gen-Verse",
       "description": "OpenClaw-RL: Train any agent simply by talking",
       "url": "https://github.com/Gen-Verse/OpenClaw-RL",
-      "homepage": "https://github.com/Gen-Verse/OpenClaw-RL/blob/main/pdf/OpenClaw_RL.pdf",
+      "homepage": "https://arxiv.org/abs/2603.10165",
       "language": "TypeScript",
-      "stars": 1483,
-      "forks": 141,
-      "openIssues": 6,
+      "stars": 1878,
+      "forks": 169,
+      "openIssues": 16,
       "topics": [
         "async",
         "coding",
@@ -194,52 +264,34 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-02-26T12:57:42.000Z",
-      "updatedAt": "2026-03-11T08:45:34.000Z",
-      "pushedAt": "2026-03-11T06:57:57.000Z",
+      "updatedAt": "2026-03-12T08:53:48.000Z",
+      "pushedAt": "2026-03-12T08:33:20.000Z",
       "firstSeenAt": "2026-03-04T22:09:23.434Z",
-      "lastFetchedAt": "2026-03-11T09:01:25.476Z",
-      "activityScore": 22.09
+      "lastFetchedAt": "2026-03-12T08:58:24.580Z",
+      "activityScore": 23.59
     },
     {
-      "id": 2078,
-      "githubId": 1079084637,
-      "fullName": "alirezarezvani/claude-skills",
-      "name": "claude-skills",
-      "owner": "alirezarezvani",
-      "description": "+180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "homepage": "https://alirezarezvani.medium.com/",
-      "language": "Python",
-      "stars": 4115,
-      "forks": 454,
-      "openIssues": 13,
-      "topics": [
-        "agentic-ai",
-        "agentic-coding",
-        "ai-coding-agent",
-        "ai-plugins",
-        "anthropic-claude",
-        "claude-ai",
-        "claude-ai-skills",
-        "claude-code",
-        "claude-code-plugins",
-        "claude-code-skills",
-        "claude-skills",
-        "claudecode-subagents",
-        "developer-tools",
-        "devtools",
-        "mcp-tools",
-        "openai-codex",
-        "prompt-engineering"
-      ],
-      "license": "MIT",
+      "id": 1038,
+      "githubId": 1147210886,
+      "fullName": "justlovemaki/openclaw-docker-cn-im",
+      "name": "openclaw-docker-cn-im",
+      "owner": "justlovemaki",
+      "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
+      "url": "https://github.com/justlovemaki/openclaw-docker-cn-im",
+      "homepage": "",
+      "language": "Shell",
+      "stars": 3220,
+      "forks": 357,
+      "openIssues": 2,
+      "topics": [],
+      "license": "GPL-3.0",
       "isArchived": false,
-      "createdAt": "2025-10-19T04:04:05.000Z",
-      "updatedAt": "2026-03-11T08:52:50.000Z",
-      "pushedAt": "2026-03-11T07:18:59.000Z",
-      "firstSeenAt": "2026-03-06T08:53:28.083Z",
-      "lastFetchedAt": "2026-03-11T09:00:57.715Z",
-      "activityScore": 23.7
+      "createdAt": "2026-02-01T11:42:18.000Z",
+      "updatedAt": "2026-03-12T08:53:48.000Z",
+      "pushedAt": "2026-03-12T08:10:03.000Z",
+      "firstSeenAt": "2026-03-04T22:09:11.288Z",
+      "lastFetchedAt": "2026-03-12T08:58:53.092Z",
+      "activityScore": 20.98
     },
     {
       "id": 118,
@@ -251,101 +303,18 @@
       "url": "https://github.com/nearai/ironclaw",
       "homepage": "https://www.ironclaw.com",
       "language": "Rust",
-      "stars": 9240,
-      "forks": 988,
-      "openIssues": 294,
+      "stars": 9585,
+      "forks": 1030,
+      "openIssues": 318,
       "topics": [],
       "license": "Apache-2.0",
       "isArchived": false,
       "createdAt": "2026-02-03T06:57:10.000Z",
-      "updatedAt": "2026-03-11T08:54:18.000Z",
-      "pushedAt": "2026-03-11T08:54:01.000Z",
+      "updatedAt": "2026-03-12T08:53:33.000Z",
+      "pushedAt": "2026-03-12T08:17:27.000Z",
       "firstSeenAt": "2026-03-04T22:05:32.564Z",
-      "lastFetchedAt": "2026-03-11T08:57:39.553Z",
-      "activityScore": 35.67
-    },
-    {
-      "id": 1939,
-      "githubId": 1014729376,
-      "fullName": "MemTensor/MemOS",
-      "name": "MemOS",
-      "owner": "MemTensor",
-      "description": "AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.",
-      "url": "https://github.com/MemTensor/MemOS",
-      "homepage": "https://memos.openmem.net",
-      "language": "Python",
-      "stars": 6588,
-      "forks": 593,
-      "openIssues": 37,
-      "topics": [
-        "agent",
-        "agent-memory",
-        "clawdbot",
-        "llm",
-        "llm-memory",
-        "long-term-memory",
-        "memory",
-        "memory-agent",
-        "memory-management",
-        "memory-operating-system",
-        "memory-retrieval",
-        "memory-scheduling",
-        "moltbot",
-        "openclaw",
-        "rag",
-        "retrieval-augmented-generation",
-        "skill-memory",
-        "skills"
-      ],
-      "license": "Apache-2.0",
-      "isArchived": false,
-      "createdAt": "2025-07-06T09:51:27.000Z",
-      "updatedAt": "2026-03-11T08:51:48.000Z",
-      "pushedAt": "2026-03-11T07:23:07.000Z",
-      "firstSeenAt": "2026-03-05T18:37:13.343Z",
-      "lastFetchedAt": "2026-03-11T09:00:52.859Z",
-      "activityScore": 21.09
-    },
-    {
-      "id": 1604,
-      "githubId": 1167607007,
-      "fullName": "qingchencloud/clawpanel",
-      "name": "clawpanel",
-      "owner": "qingchencloud",
-      "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "url": "https://github.com/qingchencloud/clawpanel",
-      "homepage": "https://claw.qt.cool",
-      "language": "JavaScript",
-      "stars": 764,
-      "forks": 88,
-      "openIssues": 11,
-      "topics": [
-        "admin-panel",
-        "ai-agent",
-        "ai-assistant",
-        "ai-tools",
-        "chatgpt",
-        "cross-platform",
-        "deepseek",
-        "desktop-app",
-        "image-recognition",
-        "llm",
-        "multimodal",
-        "openclaw",
-        "rust",
-        "tauri",
-        "tauri-v2",
-        "tool-calling",
-        "vite"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-26T13:37:07.000Z",
-      "updatedAt": "2026-03-11T08:45:26.000Z",
-      "pushedAt": "2026-03-11T07:07:18.000Z",
-      "firstSeenAt": "2026-03-05T18:35:31.934Z",
-      "lastFetchedAt": "2026-03-11T09:01:11.443Z",
-      "activityScore": 23.96
+      "lastFetchedAt": "2026-03-12T08:58:46.051Z",
+      "activityScore": 35.11
     }
   ],
   "mostActiveTop10": [
@@ -359,9 +328,9 @@
       "url": "https://github.com/openclaw/openclaw",
       "homepage": "https://openclaw.ai",
       "language": "TypeScript",
-      "stars": 301533,
-      "forks": 56959,
-      "openIssues": 12161,
+      "stars": 305802,
+      "forks": 57799,
+      "openIssues": 12347,
       "topics": [
         "ai",
         "assistant",
@@ -374,11 +343,34 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2025-11-24T10:16:47.000Z",
-      "updatedAt": "2026-03-11T08:55:32.000Z",
-      "pushedAt": "2026-03-11T08:41:23.000Z",
+      "updatedAt": "2026-03-12T08:55:29.000Z",
+      "pushedAt": "2026-03-12T08:54:37.000Z",
       "firstSeenAt": "2026-03-04T22:06:24.200Z",
-      "lastFetchedAt": "2026-03-11T08:58:36.241Z",
-      "activityScore": 77.36
+      "lastFetchedAt": "2026-03-12T08:57:42.329Z",
+      "activityScore": 94.94
+    },
+    {
+      "id": 67,
+      "githubId": 1167555503,
+      "fullName": "douyo01-byte/openclaw-factory",
+      "name": "openclaw-factory",
+      "owner": "douyo01-byte",
+      "description": null,
+      "url": "https://github.com/douyo01-byte/openclaw-factory",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 243,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-26T12:27:30.000Z",
+      "updatedAt": "2026-03-12T08:25:13.000Z",
+      "pushedAt": "2026-03-12T08:25:09.000Z",
+      "firstSeenAt": "2026-03-04T21:51:11.984Z",
+      "lastFetchedAt": "2026-03-12T08:58:38.282Z",
+      "activityScore": 53.67
     },
     {
       "id": 31,
@@ -390,8 +382,8 @@
       "url": "https://github.com/openclaw/skills",
       "homepage": "https://clawhub.ai",
       "language": "Python",
-      "stars": 2563,
-      "forks": 751,
+      "stars": 2658,
+      "forks": 776,
       "openIssues": 1,
       "topics": [
         "archive",
@@ -403,11 +395,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-01-06T03:39:15.000Z",
-      "updatedAt": "2026-03-11T08:53:02.000Z",
-      "pushedAt": "2026-03-11T08:41:35.000Z",
+      "updatedAt": "2026-03-12T08:42:10.000Z",
+      "pushedAt": "2026-03-12T08:32:35.000Z",
       "firstSeenAt": "2026-03-04T21:49:51.086Z",
-      "lastFetchedAt": "2026-03-11T08:58:35.052Z",
-      "activityScore": 50.49
+      "lastFetchedAt": "2026-03-12T08:58:26.363Z",
+      "activityScore": 50.46
     },
     {
       "id": 7,
@@ -426,62 +418,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-02-28T21:29:45.000Z",
-      "updatedAt": "2026-03-11T08:55:06.000Z",
-      "pushedAt": "2026-03-11T08:55:02.000Z",
+      "updatedAt": "2026-03-12T08:55:07.000Z",
+      "pushedAt": "2026-03-12T08:55:03.000Z",
       "firstSeenAt": "2026-03-04T21:48:56.868Z",
-      "lastFetchedAt": "2026-03-11T08:57:35.374Z",
-      "activityScore": 48.89
-    },
-    {
-      "id": 71,
-      "githubId": 1156956890,
-      "fullName": "zeroclaw-labs/zeroclaw",
-      "name": "zeroclaw",
-      "owner": "zeroclaw-labs",
-      "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "url": "https://github.com/zeroclaw-labs/zeroclaw",
-      "homepage": "https://www.zeroclawlabs.ai/",
-      "language": "Rust",
-      "stars": 26005,
-      "forks": 3341,
-      "openIssues": 356,
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "openclaw"
-      ],
-      "license": "Apache-2.0",
-      "isArchived": false,
-      "createdAt": "2026-02-13T08:56:04.000Z",
-      "updatedAt": "2026-03-11T08:55:06.000Z",
-      "pushedAt": "2026-03-11T08:50:32.000Z",
-      "firstSeenAt": "2026-03-04T21:51:20.988Z",
-      "lastFetchedAt": "2026-03-11T08:57:51.127Z",
-      "activityScore": 44.7
-    },
-    {
-      "id": 67,
-      "githubId": 1167555503,
-      "fullName": "douyo01-byte/openclaw-factory",
-      "name": "openclaw-factory",
-      "owner": "douyo01-byte",
-      "description": null,
-      "url": "https://github.com/douyo01-byte/openclaw-factory",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-02-26T12:27:30.000Z",
-      "updatedAt": "2026-03-10T08:55:19.000Z",
-      "pushedAt": "2026-03-10T08:55:14.000Z",
-      "firstSeenAt": "2026-03-04T21:51:11.984Z",
-      "lastFetchedAt": "2026-03-10T08:58:19.187Z",
-      "activityScore": 42.85
+      "lastFetchedAt": "2026-03-12T08:57:40.741Z",
+      "activityScore": 50.01
     },
     {
       "id": 102,
@@ -500,11 +441,90 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-02-26T16:51:55.000Z",
-      "updatedAt": "2026-03-11T08:47:22.000Z",
-      "pushedAt": "2026-03-11T08:47:18.000Z",
+      "updatedAt": "2026-03-12T08:47:19.000Z",
+      "pushedAt": "2026-03-12T08:47:15.000Z",
       "firstSeenAt": "2026-03-04T22:05:23.575Z",
-      "lastFetchedAt": "2026-03-11T08:58:07.915Z",
-      "activityScore": 42.67
+      "lastFetchedAt": "2026-03-12T08:58:00.171Z",
+      "activityScore": 45.24
+    },
+    {
+      "id": 98,
+      "githubId": 1158255846,
+      "fullName": "ythx-101/openclaw-qa",
+      "name": "openclaw-qa",
+      "owner": "ythx-101",
+      "description": "OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
+      "url": "https://github.com/ythx-101/openclaw-qa",
+      "homepage": "https://ythx-101.github.io/openclaw-qa/",
+      "language": "Python",
+      "stars": 70,
+      "forks": 6,
+      "openIssues": 4,
+      "topics": [
+        "agent-evolution",
+        "ai-agent",
+        "ai-assistant",
+        "autonomous-agent",
+        "chinese",
+        "llm",
+        "memory-system",
+        "multi-agent",
+        "openclaw"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-15T03:35:48.000Z",
+      "updatedAt": "2026-03-12T08:54:27.000Z",
+      "pushedAt": "2026-03-12T08:54:23.000Z",
+      "firstSeenAt": "2026-03-04T22:05:20.855Z",
+      "lastFetchedAt": "2026-03-12T08:57:43.170Z",
+      "activityScore": 42.86
+    },
+    {
+      "id": 135,
+      "githubId": 1150908158,
+      "fullName": "daidue/OpenClaw",
+      "name": "OpenClaw",
+      "owner": "daidue",
+      "description": null,
+      "url": "https://github.com/daidue/OpenClaw",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-05T20:42:45.000Z",
+      "updatedAt": "2026-03-12T08:50:05.000Z",
+      "pushedAt": "2026-03-12T08:50:01.000Z",
+      "firstSeenAt": "2026-03-04T22:05:50.199Z",
+      "lastFetchedAt": "2026-03-12T08:57:53.707Z",
+      "activityScore": 38.72
+    },
+    {
+      "id": 810,
+      "githubId": 1172713704,
+      "fullName": "xiaowu77/openclaw-work-tracker",
+      "name": "openclaw-work-tracker",
+      "owner": "xiaowu77",
+      "description": "OpenClaw工作跟踪网站 - 记录小七、柠檬和尼克的工作情况，包括状态显示、任务列表、排名积分面板等",
+      "url": "https://github.com/xiaowu77/openclaw-work-tracker",
+      "homepage": null,
+      "language": "Vue",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-04T16:05:17.000Z",
+      "updatedAt": "2026-03-12T08:51:37.000Z",
+      "pushedAt": "2026-03-12T08:51:34.000Z",
+      "firstSeenAt": "2026-03-04T22:08:17.792Z",
+      "lastFetchedAt": "2026-03-12T08:57:48.852Z",
+      "activityScore": 37.67
     },
     {
       "id": 46,
@@ -527,86 +547,30 @@
       "pushedAt": "2026-03-10T08:48:52.000Z",
       "firstSeenAt": "2026-03-04T21:50:25.092Z",
       "lastFetchedAt": "2026-03-10T08:58:43.283Z",
-      "activityScore": 41.85
+      "activityScore": 36.84
     },
     {
-      "id": 98,
-      "githubId": 1158255846,
-      "fullName": "ythx-101/openclaw-qa",
-      "name": "openclaw-qa",
-      "owner": "ythx-101",
-      "description": "OpenClaw Q&A 社区 — AI Agent 记忆系统、多Agent架构、进化系统、具身AI | 龙虾茶馆 🦞",
-      "url": "https://github.com/ythx-101/openclaw-qa",
-      "homepage": "https://ythx-101.github.io/openclaw-qa/",
-      "language": "Python",
-      "stars": 69,
-      "forks": 6,
-      "openIssues": 4,
-      "topics": [
-        "agent-evolution",
-        "ai-agent",
-        "ai-assistant",
-        "autonomous-agent",
-        "chinese",
-        "llm",
-        "memory-system",
-        "multi-agent",
-        "openclaw"
-      ],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-02-15T03:35:48.000Z",
-      "updatedAt": "2026-03-11T08:53:17.000Z",
-      "pushedAt": "2026-03-11T08:53:14.000Z",
-      "firstSeenAt": "2026-03-04T22:05:20.855Z",
-      "lastFetchedAt": "2026-03-11T08:57:44.089Z",
-      "activityScore": 41.76
-    },
-    {
-      "id": 679,
-      "githubId": 1147094660,
-      "fullName": "HKUDS/nanobot",
-      "name": "nanobot",
-      "owner": "HKUDS",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
-      "url": "https://github.com/HKUDS/nanobot",
-      "homepage": "",
-      "language": "Python",
-      "stars": 32220,
-      "forks": 5296,
-      "openIssues": 1025,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-01T07:16:15.000Z",
-      "updatedAt": "2026-03-11T08:53:09.000Z",
-      "pushedAt": "2026-03-11T08:44:41.000Z",
-      "firstSeenAt": "2026-03-04T22:07:47.530Z",
-      "lastFetchedAt": "2026-03-11T08:58:21.000Z",
-      "activityScore": 41.59
-    },
-    {
-      "id": 49,
-      "githubId": 1151827226,
-      "fullName": "smilenccc/ai-task-tracker",
-      "name": "ai-task-tracker",
-      "owner": "smilenccc",
-      "description": "track openclaw task",
-      "url": "https://github.com/smilenccc/ai-task-tracker",
+      "id": 1056,
+      "githubId": 1166109813,
+      "fullName": "zwright8/OpenClaw-Code",
+      "name": "OpenClaw-Code",
+      "owner": "zwright8",
+      "description": "Repo for openclaw to code whatever it wants - autonomously",
+      "url": "https://github.com/zwright8/OpenClaw-Code",
       "homepage": null,
-      "language": "HTML",
+      "language": "TypeScript",
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "openIssues": 0,
       "topics": [],
       "license": null,
       "isArchived": false,
-      "createdAt": "2026-02-07T00:22:51.000Z",
-      "updatedAt": "2026-03-11T08:47:20.000Z",
-      "pushedAt": "2026-03-11T08:47:17.000Z",
-      "firstSeenAt": "2026-03-04T21:50:32.535Z",
-      "lastFetchedAt": "2026-03-11T08:58:08.699Z",
-      "activityScore": 36.84
+      "createdAt": "2026-02-24T22:15:01.000Z",
+      "updatedAt": "2026-03-12T08:07:40.000Z",
+      "pushedAt": "2026-03-12T08:07:37.000Z",
+      "firstSeenAt": "2026-03-04T22:09:15.040Z",
+      "lastFetchedAt": "2026-03-12T08:58:56.231Z",
+      "activityScore": 35.33
     }
   ],
   "newAndRising": [
@@ -636,7 +600,7 @@
       "pushedAt": "2026-03-11T08:50:32.000Z",
       "firstSeenAt": "2026-03-04T21:51:20.988Z",
       "lastFetchedAt": "2026-03-11T08:57:51.127Z",
-      "activityScore": 44.7
+      "activityScore": 33.13
     },
     {
       "id": 138,
@@ -668,7 +632,7 @@
       "pushedAt": "2026-03-05T17:33:59.000Z",
       "firstSeenAt": "2026-03-04T22:05:51.013Z",
       "lastFetchedAt": "2026-03-05T18:34:53.731Z",
-      "activityScore": 10.23
+      "activityScore": 9
     },
     {
       "id": 981,
@@ -702,7 +666,7 @@
       "pushedAt": "2026-03-07T03:47:54.000Z",
       "firstSeenAt": "2026-03-04T22:08:57.451Z",
       "lastFetchedAt": "2026-03-07T08:45:24.312Z",
-      "activityScore": 15.44
+      "activityScore": 12.9
     },
     {
       "id": 1742,
@@ -739,7 +703,7 @@
       "pushedAt": "2026-03-05T15:11:01.000Z",
       "firstSeenAt": "2026-03-05T18:36:15.554Z",
       "lastFetchedAt": "2026-03-05T18:36:15.553Z",
-      "activityScore": 9.28
+      "activityScore": 8.45
     },
     {
       "id": 667,
@@ -751,9 +715,9 @@
       "url": "https://github.com/builderz-labs/mission-control",
       "homepage": "https://mc.builderz.dev",
       "language": "TypeScript",
-      "stars": 2076,
-      "forks": 335,
-      "openIssues": 32,
+      "stars": 2253,
+      "forks": 363,
+      "openIssues": 1,
       "topics": [
         "agent-orchestration",
         "dashboard",
@@ -764,11 +728,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-02-13T04:06:19.000Z",
-      "updatedAt": "2026-03-11T08:22:50.000Z",
-      "pushedAt": "2026-03-11T08:50:18.000Z",
+      "updatedAt": "2026-03-12T08:47:05.000Z",
+      "pushedAt": "2026-03-12T08:15:56.000Z",
       "firstSeenAt": "2026-03-04T22:07:44.263Z",
-      "lastFetchedAt": "2026-03-11T09:00:28.035Z",
-      "activityScore": 25.5
+      "lastFetchedAt": "2026-03-12T08:58:47.617Z",
+      "activityScore": 22.14
     },
     {
       "id": 1734,
@@ -780,9 +744,9 @@
       "url": "https://github.com/CortexReach/memory-lancedb-pro",
       "homepage": "https://youtu.be/MtukF1C8epQ",
       "language": "TypeScript",
-      "stars": 2051,
-      "forks": 359,
-      "openIssues": 49,
+      "stars": 2157,
+      "forks": 378,
+      "openIssues": 35,
       "topics": [
         "lancedb",
         "memory",
@@ -794,175 +758,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-02-24T08:38:15.000Z",
-      "updatedAt": "2026-03-11T08:50:10.000Z",
-      "pushedAt": "2026-03-11T06:39:23.000Z",
+      "updatedAt": "2026-03-12T08:38:18.000Z",
+      "pushedAt": "2026-03-12T08:19:06.000Z",
       "firstSeenAt": "2026-03-05T18:36:12.249Z",
-      "lastFetchedAt": "2026-03-11T09:01:41.682Z",
-      "activityScore": 25.71
-    },
-    {
-      "id": 785,
-      "githubId": 1163358617,
-      "fullName": "alibaba/hiclaw",
-      "name": "hiclaw",
-      "owner": "alibaba",
-      "description": "Open-source Agent Teams system with IM-based multi-Agent collaboration and human-in-the-loop oversight.",
-      "url": "https://github.com/alibaba/hiclaw",
-      "homepage": "https://hiclaw.io",
-      "language": "Shell",
-      "stars": 1577,
-      "forks": 171,
-      "openIssues": 87,
-      "topics": [
-        "agent-teams",
-        "openclaw"
-      ],
-      "license": "Apache-2.0",
-      "isArchived": false,
-      "createdAt": "2026-02-21T14:07:55.000Z",
-      "updatedAt": "2026-03-11T08:24:45.000Z",
-      "pushedAt": "2026-03-11T08:46:33.000Z",
-      "firstSeenAt": "2026-03-04T22:08:11.608Z",
-      "lastFetchedAt": "2026-03-11T08:59:40.012Z",
-      "activityScore": 32.85
-    },
-    {
-      "id": 1095,
-      "githubId": 1167576951,
-      "fullName": "Gen-Verse/OpenClaw-RL",
-      "name": "OpenClaw-RL",
-      "owner": "Gen-Verse",
-      "description": "OpenClaw-RL: Train any agent simply by talking",
-      "url": "https://github.com/Gen-Verse/OpenClaw-RL",
-      "homepage": "https://github.com/Gen-Verse/OpenClaw-RL/blob/main/pdf/OpenClaw_RL.pdf",
-      "language": "TypeScript",
-      "stars": 1483,
-      "forks": 141,
-      "openIssues": 6,
-      "topics": [
-        "async",
-        "coding",
-        "grpo",
-        "gui-application",
-        "memory-systems",
-        "on-policy-distillation",
-        "open-claw",
-        "openclaw-skills",
-        "rlhf",
-        "sglang",
-        "skill-learning",
-        "slime"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-26T12:57:42.000Z",
-      "updatedAt": "2026-03-11T08:45:34.000Z",
-      "pushedAt": "2026-03-11T06:57:57.000Z",
-      "firstSeenAt": "2026-03-04T22:09:23.434Z",
-      "lastFetchedAt": "2026-03-11T09:01:25.476Z",
-      "activityScore": 22.09
-    },
-    {
-      "id": 1462,
-      "githubId": 1164125099,
-      "fullName": "wanikua/boluobobo-ai-court-tutorial",
-      "name": "boluobobo-ai-court-tutorial",
-      "owner": "wanikua",
-      "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
-      "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1168,
-      "forks": 84,
-      "openIssues": 26,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-collaboration",
-        "ai-court",
-        "ai-orchestration",
-        "ancient-china",
-        "autonomous-agents",
-        "clawdbot",
-        "discord",
-        "discord-bot",
-        "imperial-china",
-        "liu-bu-zhi",
-        "llm",
-        "ming-dynasty",
-        "multi-agent",
-        "openclaw",
-        "san-sheng-liu-bu",
-        "six-ministries",
-        "tutorial",
-        "workflow-automation"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-22T17:17:44.000Z",
-      "updatedAt": "2026-03-11T08:55:41.000Z",
-      "pushedAt": "2026-03-11T07:51:13.000Z",
-      "firstSeenAt": "2026-03-05T18:34:48.060Z",
-      "lastFetchedAt": "2026-03-11T09:00:23.024Z",
-      "activityScore": 26.59
-    },
-    {
-      "id": 1792,
-      "githubId": 1154103908,
-      "fullName": "xianyu110/awesome-openclaw-tutorial",
-      "name": "awesome-openclaw-tutorial",
-      "owner": "xianyu110",
-      "description": "从零开始玩转OpenClaw：最全面的中文教程，涵盖安装、配置、实战案例和避坑指南（github版）",
-      "url": "https://github.com/xianyu110/awesome-openclaw-tutorial",
-      "homepage": "https://awesome.tryopenclaw.asia/",
-      "language": "Shell",
-      "stars": 997,
-      "forks": 180,
-      "openIssues": 0,
-      "topics": [
-        "openclaw",
-        "openclaw-skills"
-      ],
-      "license": "NOASSERTION",
-      "isArchived": false,
-      "createdAt": "2026-02-10T02:37:59.000Z",
-      "updatedAt": "2026-03-06T08:51:26.000Z",
-      "pushedAt": "2026-03-06T04:24:22.000Z",
-      "firstSeenAt": "2026-03-05T18:36:31.540Z",
-      "lastFetchedAt": "2026-03-06T08:56:23.314Z",
-      "activityScore": 10.39
-    },
-    {
-      "id": 4241,
-      "githubId": 1175870738,
-      "fullName": "FreedomIntelligence/OpenClaw-Medical-Skills",
-      "name": "OpenClaw-Medical-Skills",
-      "owner": "FreedomIntelligence",
-      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-      "homepage": "",
-      "language": "Python",
-      "stars": 964,
-      "forks": 116,
-      "openIssues": 2,
-      "topics": [
-        "awesome",
-        "claude-code",
-        "clawhub",
-        "medical",
-        "nanoclaw",
-        "openclaw",
-        "openclaw-skills",
-        "skills"
-      ],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-03-08T09:43:52.000Z",
-      "updatedAt": "2026-03-11T08:54:42.000Z",
-      "pushedAt": "2026-03-11T06:45:18.000Z",
-      "firstSeenAt": "2026-03-09T09:02:33.093Z",
-      "lastFetchedAt": "2026-03-11T09:01:36.432Z",
-      "activityScore": 21.48
+      "lastFetchedAt": "2026-03-12T08:58:43.457Z",
+      "activityScore": 24.34
     },
     {
       "id": 801,
@@ -974,9 +774,9 @@
       "url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
       "homepage": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh#readme",
       "language": null,
-      "stars": 868,
-      "forks": 104,
-      "openIssues": 6,
+      "stars": 1890,
+      "forks": 197,
+      "openIssues": 12,
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -1002,11 +802,204 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-02-23T02:20:51.000Z",
-      "updatedAt": "2026-03-07T08:40:49.000Z",
-      "pushedAt": "2026-03-07T05:37:01.000Z",
+      "updatedAt": "2026-03-12T08:52:52.000Z",
+      "pushedAt": "2026-03-12T07:52:00.000Z",
       "firstSeenAt": "2026-03-04T22:08:15.747Z",
-      "lastFetchedAt": "2026-03-07T08:44:47.888Z",
-      "activityScore": 13.01
+      "lastFetchedAt": "2026-03-12T08:59:12.800Z",
+      "activityScore": 21.59
+    },
+    {
+      "id": 6024,
+      "githubId": 1155091202,
+      "fullName": "KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh",
+      "name": "Claude-Code-x-OpenClaw-Guide-Zh",
+      "owner": "KimYx0207",
+      "description": "从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字",
+      "url": "https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh",
+      "homepage": null,
+      "language": null,
+      "stars": 1884,
+      "forks": 292,
+      "openIssues": 0,
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "ai-tutorial",
+        "anthropic",
+        "chinese",
+        "claude",
+        "claude-code",
+        "openclaw"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-11T05:34:29.000Z",
+      "updatedAt": "2026-03-12T08:51:50.000Z",
+      "pushedAt": "2026-03-11T13:47:05.000Z",
+      "firstSeenAt": "2026-03-12T09:02:16.731Z",
+      "lastFetchedAt": "2026-03-12T09:02:16.730Z",
+      "activityScore": 18.72
+    },
+    {
+      "id": 1095,
+      "githubId": 1167576951,
+      "fullName": "Gen-Verse/OpenClaw-RL",
+      "name": "OpenClaw-RL",
+      "owner": "Gen-Verse",
+      "description": "OpenClaw-RL: Train any agent simply by talking",
+      "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+      "homepage": "https://arxiv.org/abs/2603.10165",
+      "language": "TypeScript",
+      "stars": 1878,
+      "forks": 169,
+      "openIssues": 16,
+      "topics": [
+        "async",
+        "coding",
+        "grpo",
+        "gui-application",
+        "memory-systems",
+        "on-policy-distillation",
+        "open-claw",
+        "openclaw-skills",
+        "rlhf",
+        "sglang",
+        "skill-learning",
+        "slime"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-26T12:57:42.000Z",
+      "updatedAt": "2026-03-12T08:53:48.000Z",
+      "pushedAt": "2026-03-12T08:33:20.000Z",
+      "firstSeenAt": "2026-03-04T22:09:23.434Z",
+      "lastFetchedAt": "2026-03-12T08:58:24.580Z",
+      "activityScore": 23.59
+    },
+    {
+      "id": 785,
+      "githubId": 1163358617,
+      "fullName": "alibaba/hiclaw",
+      "name": "hiclaw",
+      "owner": "alibaba",
+      "description": "Open-source Agent Teams system with IM-based multi-Agent collaboration and human-in-the-loop oversight.",
+      "url": "https://github.com/alibaba/hiclaw",
+      "homepage": "https://hiclaw.io",
+      "language": "Shell",
+      "stars": 1699,
+      "forks": 187,
+      "openIssues": 96,
+      "topics": [
+        "agent-teams",
+        "openclaw"
+      ],
+      "license": "Apache-2.0",
+      "isArchived": false,
+      "createdAt": "2026-02-21T14:07:55.000Z",
+      "updatedAt": "2026-03-12T08:43:43.000Z",
+      "pushedAt": "2026-03-12T07:40:52.000Z",
+      "firstSeenAt": "2026-03-04T22:08:11.608Z",
+      "lastFetchedAt": "2026-03-12T08:59:23.776Z",
+      "activityScore": 28.02
+    },
+    {
+      "id": 1462,
+      "githubId": 1164125099,
+      "fullName": "wanikua/boluobobo-ai-court-tutorial",
+      "name": "boluobobo-ai-court-tutorial",
+      "owner": "wanikua",
+      "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
+      "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1383,
+      "forks": 102,
+      "openIssues": 29,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-collaboration",
+        "ai-court",
+        "ai-orchestration",
+        "ancient-china",
+        "autonomous-agents",
+        "clawdbot",
+        "discord",
+        "discord-bot",
+        "imperial-china",
+        "liu-bu-zhi",
+        "llm",
+        "ming-dynasty",
+        "multi-agent",
+        "openclaw",
+        "san-sheng-liu-bu",
+        "six-ministries",
+        "tutorial",
+        "workflow-automation"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-22T17:17:44.000Z",
+      "updatedAt": "2026-03-12T08:52:10.000Z",
+      "pushedAt": "2026-03-12T08:00:47.000Z",
+      "firstSeenAt": "2026-03-05T18:34:48.060Z",
+      "lastFetchedAt": "2026-03-12T08:59:03.914Z",
+      "activityScore": 26.41
+    },
+    {
+      "id": 4241,
+      "githubId": 1175870738,
+      "fullName": "FreedomIntelligence/OpenClaw-Medical-Skills",
+      "name": "OpenClaw-Medical-Skills",
+      "owner": "FreedomIntelligence",
+      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+      "homepage": "",
+      "language": "Python",
+      "stars": 1038,
+      "forks": 123,
+      "openIssues": 2,
+      "topics": [
+        "awesome",
+        "claude-code",
+        "clawhub",
+        "medical",
+        "nanoclaw",
+        "openclaw",
+        "openclaw-skills",
+        "skills"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-08T09:43:52.000Z",
+      "updatedAt": "2026-03-12T08:53:09.000Z",
+      "pushedAt": "2026-03-11T13:45:58.000Z",
+      "firstSeenAt": "2026-03-09T09:02:33.093Z",
+      "lastFetchedAt": "2026-03-12T09:02:17.031Z",
+      "activityScore": 20.42
+    },
+    {
+      "id": 1403,
+      "githubId": 1158991995,
+      "fullName": "Xiangyu-CAS/xiaohongshu-ops-skill",
+      "name": "xiaohongshu-ops-skill",
+      "owner": "Xiangyu-CAS",
+      "description": "Openclaw 自动运营小红书，自动发布、回复、爆款复刻，基于浏览器自动化风险低 🎯 让AI帮你运营自媒体副业吧！",
+      "url": "https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill",
+      "homepage": "",
+      "language": null,
+      "stars": 886,
+      "forks": 100,
+      "openIssues": 11,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-16T07:10:54.000Z",
+      "updatedAt": "2026-03-12T08:07:27.000Z",
+      "pushedAt": "2026-03-12T07:23:21.000Z",
+      "firstSeenAt": "2026-03-05T18:34:08.831Z",
+      "lastFetchedAt": "2026-03-12T09:00:02.164Z",
+      "activityScore": 20.38
     },
     {
       "id": 2661,
@@ -1029,7 +1022,7 @@
       "pushedAt": "2026-03-07T08:32:08.000Z",
       "firstSeenAt": "2026-03-07T08:43:05.299Z",
       "lastFetchedAt": "2026-03-07T08:43:05.298Z",
-      "activityScore": 12.66
+      "activityScore": 11.56
     },
     {
       "id": 1604,
@@ -1070,7 +1063,7 @@
       "pushedAt": "2026-03-11T07:07:18.000Z",
       "firstSeenAt": "2026-03-05T18:35:31.934Z",
       "lastFetchedAt": "2026-03-11T09:01:11.443Z",
-      "activityScore": 23.96
+      "activityScore": 21.66
     },
     {
       "id": 3351,
@@ -1082,18 +1075,44 @@
       "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
       "homepage": "",
       "language": "Python",
-      "stars": 689,
-      "forks": 32,
+      "stars": 667,
+      "forks": 36,
       "openIssues": 0,
       "topics": [],
       "license": "GPL-3.0",
       "isArchived": false,
       "createdAt": "2026-03-08T01:03:02.000Z",
-      "updatedAt": "2026-03-11T08:38:17.000Z",
+      "updatedAt": "2026-03-12T08:19:56.000Z",
       "pushedAt": "2026-03-09T17:21:34.000Z",
       "firstSeenAt": "2026-03-08T08:43:29.413Z",
-      "lastFetchedAt": "2026-03-11T09:03:25.661Z",
-      "activityScore": 19.35
+      "lastFetchedAt": "2026-03-12T09:02:59.610Z",
+      "activityScore": 17.96
+    },
+    {
+      "id": 375,
+      "githubId": 1160222695,
+      "fullName": "xmanrui/OpenClaw-bot-review",
+      "name": "OpenClaw-bot-review",
+      "owner": "xmanrui",
+      "description": "A lightweight web dashboard for viewing all your OpenClaw Bots/Agents/Models/Sessions status at a glance.",
+      "url": "https://github.com/xmanrui/OpenClaw-bot-review",
+      "homepage": "",
+      "language": "TypeScript",
+      "stars": 523,
+      "forks": 81,
+      "openIssues": 14,
+      "topics": [
+        "open-claw",
+        "openclaw"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-17T17:26:06.000Z",
+      "updatedAt": "2026-03-12T08:53:21.000Z",
+      "pushedAt": "2026-03-12T06:48:32.000Z",
+      "firstSeenAt": "2026-03-04T22:06:39.780Z",
+      "lastFetchedAt": "2026-03-12T09:01:05.445Z",
+      "activityScore": 21.38
     },
     {
       "id": 965,
@@ -1132,33 +1151,41 @@
       "pushedAt": "2026-03-04T14:53:15.000Z",
       "firstSeenAt": "2026-03-04T22:08:53.752Z",
       "lastFetchedAt": "2026-03-04T22:08:53.752Z",
-      "activityScore": 7.35
+      "activityScore": 6.51
     },
     {
-      "id": 375,
-      "githubId": 1160222695,
-      "fullName": "xmanrui/OpenClaw-bot-review",
-      "name": "OpenClaw-bot-review",
-      "owner": "xmanrui",
-      "description": "A lightweight web dashboard for viewing all your OpenClaw Bots/Agents/Models/Sessions status at a glance.",
-      "url": "https://github.com/xmanrui/OpenClaw-bot-review",
-      "homepage": "",
-      "language": "TypeScript",
-      "stars": 483,
-      "forks": 76,
-      "openIssues": 14,
+      "id": 4529,
+      "githubId": 1176414483,
+      "fullName": "dongsheng123132/u-claw",
+      "name": "u-claw",
+      "owner": "dongsheng123132",
+      "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
+      "url": "https://github.com/dongsheng123132/u-claw",
+      "homepage": "https://www.u-claw.org/",
+      "language": "HTML",
+      "stars": 442,
+      "forks": 86,
+      "openIssues": 5,
       "topics": [
-        "open-claw",
-        "openclaw"
+        "ai-assistant",
+        "china",
+        "deepseek",
+        "feishu",
+        "kimi",
+        "offline-installer",
+        "openclaw",
+        "portable",
+        "qq-bot",
+        "usb"
       ],
-      "license": null,
+      "license": "MIT",
       "isArchived": false,
-      "createdAt": "2026-02-17T17:26:06.000Z",
-      "updatedAt": "2026-03-11T08:54:25.000Z",
-      "pushedAt": "2026-03-08T19:41:46.000Z",
-      "firstSeenAt": "2026-03-04T22:06:39.780Z",
-      "lastFetchedAt": "2026-03-11T09:03:49.825Z",
-      "activityScore": 16.83
+      "createdAt": "2026-03-09T02:01:51.000Z",
+      "updatedAt": "2026-03-12T08:46:15.000Z",
+      "pushedAt": "2026-03-12T07:48:19.000Z",
+      "firstSeenAt": "2026-03-10T08:59:32.062Z",
+      "lastFetchedAt": "2026-03-12T08:59:17.870Z",
+      "activityScore": 21.72
     },
     {
       "id": 982,
@@ -1192,7 +1219,7 @@
       "pushedAt": "2026-03-09T08:28:58.000Z",
       "firstSeenAt": "2026-03-04T22:08:57.748Z",
       "lastFetchedAt": "2026-03-09T08:59:22.519Z",
-      "activityScore": 16.45
+      "activityScore": 14.86
     },
     {
       "id": 3489,
@@ -1215,7 +1242,7 @@
       "pushedAt": "2026-03-11T06:00:37.000Z",
       "firstSeenAt": "2026-03-08T08:44:18.642Z",
       "lastFetchedAt": "2026-03-11T09:02:15.117Z",
-      "activityScore": 21.37
+      "activityScore": 19.6
     },
     {
       "id": 543,
@@ -1256,7 +1283,7 @@
       "pushedAt": "2026-03-04T18:44:53.000Z",
       "firstSeenAt": "2026-03-04T22:07:15.816Z",
       "lastFetchedAt": "2026-03-04T22:07:15.816Z",
-      "activityScore": 7.58
+      "activityScore": 6.79
     },
     {
       "id": 3415,
@@ -1279,7 +1306,7 @@
       "pushedAt": "2026-03-10T07:22:45.000Z",
       "firstSeenAt": "2026-03-08T08:43:49.817Z",
       "lastFetchedAt": "2026-03-10T09:01:00.507Z",
-      "activityScore": 19.68
+      "activityScore": 17.62
     },
     {
       "id": 597,
@@ -1302,7 +1329,39 @@
       "pushedAt": "2026-03-07T06:46:03.000Z",
       "firstSeenAt": "2026-03-04T22:07:27.824Z",
       "lastFetchedAt": "2026-03-07T08:44:21.830Z",
-      "activityScore": 12.58
+      "activityScore": 11.23
+    },
+    {
+      "id": 59,
+      "githubId": 1166871123,
+      "fullName": "ClawBio/ClawBio",
+      "name": "ClawBio",
+      "owner": "ClawBio",
+      "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
+      "url": "https://github.com/ClawBio/ClawBio",
+      "homepage": "https://clawbio.github.io/ClawBio/",
+      "language": "Python",
+      "stars": 344,
+      "forks": 50,
+      "openIssues": 14,
+      "topics": [
+        "ai-agents",
+        "bioinformatics",
+        "equity",
+        "genomics",
+        "local-first",
+        "openclaw",
+        "population-genetics",
+        "reproducibility"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-25T17:43:22.000Z",
+      "updatedAt": "2026-03-12T08:55:25.000Z",
+      "pushedAt": "2026-03-12T08:55:19.000Z",
+      "firstSeenAt": "2026-03-04T21:50:54.724Z",
+      "lastFetchedAt": "2026-03-12T08:57:37.936Z",
+      "activityScore": 21.75
     },
     {
       "id": 4817,
@@ -1325,7 +1384,30 @@
       "pushedAt": "2026-03-10T06:20:05.000Z",
       "firstSeenAt": "2026-03-10T09:02:36.078Z",
       "lastFetchedAt": "2026-03-10T09:02:36.077Z",
-      "activityScore": 18.23
+      "activityScore": 16.65
+    },
+    {
+      "id": 5834,
+      "githubId": 1163738332,
+      "fullName": "linlay/zenmind",
+      "name": "zenmind",
+      "owner": "linlay",
+      "description": "宅在家里的电脑，努力做一个openclaw",
+      "url": "https://github.com/linlay/zenmind",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 323,
+      "forks": 58,
+      "openIssues": 0,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-22T04:09:24.000Z",
+      "updatedAt": "2026-03-12T07:03:11.000Z",
+      "pushedAt": "2026-03-12T07:03:07.000Z",
+      "firstSeenAt": "2026-03-12T09:00:47.908Z",
+      "lastFetchedAt": "2026-03-12T09:00:47.907Z",
+      "activityScore": 19.96
     },
     {
       "id": 1432,
@@ -1348,7 +1430,7 @@
       "pushedAt": "2026-03-06T08:12:43.000Z",
       "firstSeenAt": "2026-03-05T18:34:36.778Z",
       "lastFetchedAt": "2026-03-06T08:54:06.648Z",
-      "activityScore": 10.73
+      "activityScore": 9.7
     },
     {
       "id": 4174,
@@ -1392,7 +1474,7 @@
       "pushedAt": "2026-03-09T06:42:40.000Z",
       "firstSeenAt": "2026-03-09T09:02:01.014Z",
       "lastFetchedAt": "2026-03-09T09:02:01.013Z",
-      "activityScore": 16.1
+      "activityScore": 14.67
     },
     {
       "id": 764,
@@ -1415,39 +1497,7 @@
       "pushedAt": "2026-03-11T06:22:14.000Z",
       "firstSeenAt": "2026-03-04T22:08:06.931Z",
       "lastFetchedAt": "2026-03-11T09:01:56.680Z",
-      "activityScore": 23.92
-    },
-    {
-      "id": 59,
-      "githubId": 1166871123,
-      "fullName": "ClawBio/ClawBio",
-      "name": "ClawBio",
-      "owner": "ClawBio",
-      "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
-      "url": "https://github.com/ClawBio/ClawBio",
-      "homepage": "https://clawbio.github.io/ClawBio/",
-      "language": "Python",
-      "stars": 305,
-      "forks": 44,
-      "openIssues": 13,
-      "topics": [
-        "ai-agents",
-        "bioinformatics",
-        "equity",
-        "genomics",
-        "local-first",
-        "openclaw",
-        "population-genetics",
-        "reproducibility"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-25T17:43:22.000Z",
-      "updatedAt": "2026-03-11T08:50:49.000Z",
-      "pushedAt": "2026-03-11T06:24:38.000Z",
-      "firstSeenAt": "2026-03-04T21:50:54.724Z",
-      "lastFetchedAt": "2026-03-11T09:01:53.647Z",
-      "activityScore": 22.14
+      "activityScore": 22.31
     },
     {
       "id": 3049,
@@ -1490,7 +1540,30 @@
       "pushedAt": "2026-03-09T07:02:36.000Z",
       "firstSeenAt": "2026-03-07T08:45:10.390Z",
       "lastFetchedAt": "2026-03-09T09:01:37.293Z",
-      "activityScore": 16.37
+      "activityScore": 14.95
+    },
+    {
+      "id": 404,
+      "githubId": 1160289313,
+      "fullName": "rcarmo/piclaw",
+      "name": "piclaw",
+      "owner": "rcarmo",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "url": "https://github.com/rcarmo/piclaw",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 289,
+      "forks": 16,
+      "openIssues": 0,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-17T19:06:49.000Z",
+      "updatedAt": "2026-03-12T08:13:35.000Z",
+      "pushedAt": "2026-03-12T06:26:46.000Z",
+      "firstSeenAt": "2026-03-04T22:06:45.938Z",
+      "lastFetchedAt": "2026-03-12T09:01:30.648Z",
+      "activityScore": 32.45
     },
     {
       "id": 463,
@@ -1520,7 +1593,7 @@
       "pushedAt": "2026-03-09T07:52:30.000Z",
       "firstSeenAt": "2026-03-04T22:06:58.961Z",
       "lastFetchedAt": "2026-03-09T09:00:16.284Z",
-      "activityScore": 18.36
+      "activityScore": 16.74
     },
     {
       "id": 1586,
@@ -1546,30 +1619,7 @@
       "pushedAt": "2026-03-09T07:43:40.000Z",
       "firstSeenAt": "2026-03-05T18:35:26.846Z",
       "lastFetchedAt": "2026-03-09T09:00:27.043Z",
-      "activityScore": 16.97
-    },
-    {
-      "id": 1403,
-      "githubId": 1158991995,
-      "fullName": "Xiangyu-CAS/xiaohongshu-ops-skill",
-      "name": "xiaohongshu-ops-skill",
-      "owner": "Xiangyu-CAS",
-      "description": "Openclaw 自动运营小红书，自动发布、回复、爆款复刻，基于浏览器自动化风险低 🎯 让AI帮你运营自媒体副业吧！",
-      "url": "https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill",
-      "homepage": "",
-      "language": null,
-      "stars": 281,
-      "forks": 34,
-      "openIssues": 4,
-      "topics": [],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-02-16T07:10:54.000Z",
-      "updatedAt": "2026-03-05T18:18:15.000Z",
-      "pushedAt": "2026-03-05T18:15:36.000Z",
-      "firstSeenAt": "2026-03-05T18:34:08.831Z",
-      "lastFetchedAt": "2026-03-05T18:34:08.830Z",
-      "activityScore": 9.38
+      "activityScore": 14.74
     },
     {
       "id": 2163,
@@ -1594,7 +1644,35 @@
       "pushedAt": "2026-03-11T08:49:01.000Z",
       "firstSeenAt": "2026-03-06T08:54:19.196Z",
       "lastFetchedAt": "2026-03-11T08:58:00.084Z",
-      "activityScore": 22.82
+      "activityScore": 21.16
+    },
+    {
+      "id": 803,
+      "githubId": 1171312494,
+      "fullName": "dataelement/Clawith",
+      "name": "Clawith",
+      "owner": "dataelement",
+      "description": "OpenClaw for Teams",
+      "url": "https://github.com/dataelement/Clawith",
+      "homepage": "https://www.clawith.ai",
+      "language": "Python",
+      "stars": 253,
+      "forks": 41,
+      "openIssues": 32,
+      "topics": [
+        "agent",
+        "llm",
+        "multiagent",
+        "openclaw"
+      ],
+      "license": "Apache-2.0",
+      "isArchived": false,
+      "createdAt": "2026-03-03T04:58:21.000Z",
+      "updatedAt": "2026-03-12T08:34:59.000Z",
+      "pushedAt": "2026-03-12T07:10:00.000Z",
+      "firstSeenAt": "2026-03-04T22:08:16.227Z",
+      "lastFetchedAt": "2026-03-12T09:00:40.149Z",
+      "activityScore": 28.81
     },
     {
       "id": 1517,
@@ -1637,30 +1715,7 @@
       "pushedAt": "2026-03-11T07:07:30.000Z",
       "firstSeenAt": "2026-03-05T18:35:06.139Z",
       "lastFetchedAt": "2026-03-11T09:01:10.893Z",
-      "activityScore": 20.88
-    },
-    {
-      "id": 404,
-      "githubId": 1160289313,
-      "fullName": "rcarmo/piclaw",
-      "name": "piclaw",
-      "owner": "rcarmo",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "url": "https://github.com/rcarmo/piclaw",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 228,
-      "forks": 13,
-      "openIssues": 1,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-17T19:06:49.000Z",
-      "updatedAt": "2026-03-10T08:52:34.000Z",
-      "pushedAt": "2026-03-10T08:15:59.000Z",
-      "firstSeenAt": "2026-03-04T22:06:45.938Z",
-      "lastFetchedAt": "2026-03-10T08:59:45.510Z",
-      "activityScore": 30.24
+      "activityScore": 18.96
     },
     {
       "id": 4509,
@@ -1688,7 +1743,7 @@
       "pushedAt": "2026-03-10T08:30:54.000Z",
       "firstSeenAt": "2026-03-10T08:59:22.067Z",
       "lastFetchedAt": "2026-03-10T08:59:22.067Z",
-      "activityScore": 18.93
+      "activityScore": 17.36
     },
     {
       "id": 4299,
@@ -1711,7 +1766,34 @@
       "pushedAt": "2026-03-09T05:26:02.000Z",
       "firstSeenAt": "2026-03-09T09:02:59.035Z",
       "lastFetchedAt": "2026-03-09T09:02:59.034Z",
-      "activityScore": 15.96
+      "activityScore": 14.53
+    },
+    {
+      "id": 5100,
+      "githubId": 1176782002,
+      "fullName": "UniRound-Tec/Aurogen",
+      "name": "Aurogen",
+      "owner": "UniRound-Tec",
+      "description": "\"Aurogen🍊: The Multi-Agent Evolution of OpenClaw.\"",
+      "url": "https://github.com/UniRound-Tec/Aurogen",
+      "homepage": "",
+      "language": "TypeScript",
+      "stars": 193,
+      "forks": 21,
+      "openIssues": 0,
+      "topics": [
+        "agent",
+        "chatbots",
+        "openclaw"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-09T11:20:55.000Z",
+      "updatedAt": "2026-03-12T08:51:47.000Z",
+      "pushedAt": "2026-03-12T07:17:20.000Z",
+      "firstSeenAt": "2026-03-11T08:59:24.609Z",
+      "lastFetchedAt": "2026-03-12T09:00:25.701Z",
+      "activityScore": 20.55
     },
     {
       "id": 905,
@@ -1734,7 +1816,7 @@
       "pushedAt": "2026-03-09T08:10:47.000Z",
       "firstSeenAt": "2026-03-04T22:08:39.986Z",
       "lastFetchedAt": "2026-03-09T08:59:47.650Z",
-      "activityScore": 17.46
+      "activityScore": 15.31
     },
     {
       "id": 124,
@@ -1778,7 +1860,133 @@
       "pushedAt": "2026-03-04T21:54:03.000Z",
       "firstSeenAt": "2026-03-04T22:05:35.750Z",
       "lastFetchedAt": "2026-03-04T22:05:35.749Z",
-      "activityScore": 8.36
+      "activityScore": 7.01
+    },
+    {
+      "id": 5794,
+      "githubId": 1169462190,
+      "fullName": "freddy-schuetz/n8n-claw",
+      "name": "n8n-claw",
+      "owner": "freddy-schuetz",
+      "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, proactive task management, media understanding - self-hosted with one setup script",
+      "url": "https://github.com/freddy-schuetz/n8n-claw",
+      "homepage": "https://friedemann-schuetz.de",
+      "language": "Shell",
+      "stars": 187,
+      "forks": 37,
+      "openIssues": 0,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agent-framework",
+        "ai-agents",
+        "ai-agents-framework",
+        "framework",
+        "mcp",
+        "modelcontextprotocol",
+        "n8n",
+        "openclaw",
+        "searxng",
+        "supabase"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-28T18:13:35.000Z",
+      "updatedAt": "2026-03-12T08:23:52.000Z",
+      "pushedAt": "2026-03-12T07:24:20.000Z",
+      "firstSeenAt": "2026-03-12T08:59:58.787Z",
+      "lastFetchedAt": "2026-03-12T08:59:58.786Z",
+      "activityScore": 19.98
+    },
+    {
+      "id": 3411,
+      "githubId": 1162355550,
+      "fullName": "win4r/openclaw-a2a-gateway",
+      "name": "openclaw-a2a-gateway",
+      "owner": "win4r",
+      "description": "OpenClaw plugin implementing the A2A (Agent-to-Agent) protocol v0.3.0 — bidirectional agent communication gateway",
+      "url": "https://github.com/win4r/openclaw-a2a-gateway",
+      "homepage": "https://youtu.be/aI77F7vVodE",
+      "language": "TypeScript",
+      "stars": 187,
+      "forks": 30,
+      "openIssues": 2,
+      "topics": [
+        "openclaw",
+        "openclaw-agent",
+        "openclaw-extension",
+        "openclaw-plugin",
+        "openclaw-skills"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-20T06:46:24.000Z",
+      "updatedAt": "2026-03-12T08:19:16.000Z",
+      "pushedAt": "2026-03-12T07:44:00.000Z",
+      "firstSeenAt": "2026-03-08T08:43:49.150Z",
+      "lastFetchedAt": "2026-03-12T08:59:21.982Z",
+      "activityScore": 20.63
+    },
+    {
+      "id": 1084,
+      "githubId": 1168566479,
+      "fullName": "win4r/OpenClaw-Skill",
+      "name": "OpenClaw-Skill",
+      "owner": "win4r",
+      "description": null,
+      "url": "https://github.com/win4r/OpenClaw-Skill",
+      "homepage": null,
+      "language": null,
+      "stars": 186,
+      "forks": 40,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-27T14:40:34.000Z",
+      "updatedAt": "2026-03-12T06:34:50.000Z",
+      "pushedAt": "2026-03-11T03:32:50.000Z",
+      "firstSeenAt": "2026-03-04T22:09:21.158Z",
+      "lastFetchedAt": "2026-03-12T09:02:32.380Z",
+      "activityScore": 18.11
+    },
+    {
+      "id": 5839,
+      "githubId": 1162089095,
+      "fullName": "daggerhashimoto/openclaw-nerve",
+      "name": "openclaw-nerve",
+      "owner": "daggerhashimoto",
+      "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
+      "url": "https://github.com/daggerhashimoto/openclaw-nerve",
+      "homepage": "https://nerve.zone",
+      "language": "TypeScript",
+      "stars": 183,
+      "forks": 10,
+      "openIssues": 15,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "claude",
+        "dashboard",
+        "llm",
+        "open-source",
+        "openai",
+        "openclaw",
+        "react",
+        "self-hosted",
+        "typescript",
+        "voice",
+        "web-ui"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-19T21:25:47.000Z",
+      "updatedAt": "2026-03-12T08:49:53.000Z",
+      "pushedAt": "2026-03-12T06:59:20.000Z",
+      "firstSeenAt": "2026-03-12T09:00:51.571Z",
+      "lastFetchedAt": "2026-03-12T09:00:51.570Z",
+      "activityScore": 19.92
     },
     {
       "id": 2350,
@@ -1807,30 +2015,35 @@
       "pushedAt": "2026-03-07T06:56:37.000Z",
       "firstSeenAt": "2026-03-06T08:55:34.289Z",
       "lastFetchedAt": "2026-03-07T08:44:17.296Z",
-      "activityScore": 12.85
+      "activityScore": 11.68
     },
     {
-      "id": 1084,
-      "githubId": 1168566479,
-      "fullName": "win4r/OpenClaw-Skill",
-      "name": "OpenClaw-Skill",
-      "owner": "win4r",
-      "description": null,
-      "url": "https://github.com/win4r/OpenClaw-Skill",
-      "homepage": null,
+      "id": 6027,
+      "githubId": 1161525847,
+      "fullName": "0xtresser/OpenClaw-Book",
+      "name": "OpenClaw-Book",
+      "owner": "0xtresser",
+      "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
+      "url": "https://github.com/0xtresser/OpenClaw-Book",
+      "homepage": "https://www.openclawbook.xyz",
       "language": null,
-      "stars": 167,
-      "forks": 35,
-      "openIssues": 0,
-      "topics": [],
+      "stars": 175,
+      "forks": 25,
+      "openIssues": 1,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "openclaw"
+      ],
       "license": null,
       "isArchived": false,
-      "createdAt": "2026-02-27T14:40:34.000Z",
-      "updatedAt": "2026-03-11T06:51:17.000Z",
-      "pushedAt": "2026-03-11T03:32:50.000Z",
-      "firstSeenAt": "2026-03-04T22:09:21.158Z",
-      "lastFetchedAt": "2026-03-11T09:02:36.501Z",
-      "activityScore": 19.84
+      "createdAt": "2026-02-19T07:56:39.000Z",
+      "updatedAt": "2026-03-11T12:54:00.000Z",
+      "pushedAt": "2026-03-11T12:53:53.000Z",
+      "firstSeenAt": "2026-03-12T09:02:17.364Z",
+      "lastFetchedAt": "2026-03-12T09:02:17.363Z",
+      "activityScore": 18.64
     },
     {
       "id": 1421,
@@ -1861,7 +2074,7 @@
       "pushedAt": "2026-03-06T04:14:55.000Z",
       "firstSeenAt": "2026-03-05T18:34:30.978Z",
       "lastFetchedAt": "2026-03-06T08:56:26.104Z",
-      "activityScore": 10.21
+      "activityScore": 9.25
     },
     {
       "id": 2583,
@@ -1888,41 +2101,7 @@
       "pushedAt": "2026-03-08T07:59:10.000Z",
       "firstSeenAt": "2026-03-06T08:56:57.167Z",
       "lastFetchedAt": "2026-03-08T08:43:33.075Z",
-      "activityScore": 14.33
-    },
-    {
-      "id": 3114,
-      "githubId": 1153416852,
-      "fullName": "xintaofei/codeg",
-      "name": "codeg",
-      "owner": "xintaofei",
-      "description": "Codeg (Code Generation) is an enterprise-grade multi-agent coding workspace.（面向多 Agent 的企业级代码生成工作台）",
-      "url": "https://github.com/xintaofei/codeg",
-      "homepage": "",
-      "language": "TypeScript",
-      "stars": 155,
-      "forks": 15,
-      "openIssues": 1,
-      "topics": [
-        "acp",
-        "agent",
-        "claude-code",
-        "code-generation",
-        "codex",
-        "gemini-cli",
-        "git",
-        "openclaw",
-        "opencode",
-        "worktree"
-      ],
-      "license": "Apache-2.0",
-      "isArchived": false,
-      "createdAt": "2026-02-09T09:22:50.000Z",
-      "updatedAt": "2026-03-11T08:27:59.000Z",
-      "pushedAt": "2026-03-11T07:26:41.000Z",
-      "firstSeenAt": "2026-03-07T08:45:25.137Z",
-      "lastFetchedAt": "2026-03-11T09:00:49.725Z",
-      "activityScore": 21.1
+      "activityScore": 13.05
     },
     {
       "id": 690,
@@ -1950,7 +2129,34 @@
       "pushedAt": "2026-03-05T18:21:12.000Z",
       "firstSeenAt": "2026-03-04T22:07:50.150Z",
       "lastFetchedAt": "2026-03-05T18:33:53.842Z",
-      "activityScore": 10.23
+      "activityScore": 8.95
+    },
+    {
+      "id": 21,
+      "githubId": 1165807635,
+      "fullName": "78/tenbox",
+      "name": "tenbox",
+      "owner": "78",
+      "description": "A lightweight x86-64 / arm64 Virtual Machine Monitor (VMM) for OpenClaw",
+      "url": "https://github.com/78/tenbox",
+      "homepage": "https://tenbox.ai",
+      "language": "C++",
+      "stars": 152,
+      "forks": 26,
+      "openIssues": 7,
+      "topics": [
+        "agents",
+        "openclaw",
+        "virtualization"
+      ],
+      "license": "NOASSERTION",
+      "isArchived": false,
+      "createdAt": "2026-02-24T15:09:56.000Z",
+      "updatedAt": "2026-03-12T07:47:44.000Z",
+      "pushedAt": "2026-03-12T07:25:33.000Z",
+      "firstSeenAt": "2026-03-04T21:49:27.955Z",
+      "lastFetchedAt": "2026-03-12T08:59:52.615Z",
+      "activityScore": 20.59
     },
     {
       "id": 1561,
@@ -1973,35 +2179,7 @@
       "pushedAt": "2026-03-05T17:41:34.000Z",
       "firstSeenAt": "2026-03-05T18:35:18.606Z",
       "lastFetchedAt": "2026-03-05T18:35:18.605Z",
-      "activityScore": 9.29
-    },
-    {
-      "id": 803,
-      "githubId": 1171312494,
-      "fullName": "dataelement/Clawith",
-      "name": "Clawith",
-      "owner": "dataelement",
-      "description": "OpenClaw for Teams",
-      "url": "https://github.com/dataelement/Clawith",
-      "homepage": "https://www.clawith.ai",
-      "language": "Python",
-      "stars": 144,
-      "forks": 24,
-      "openIssues": 22,
-      "topics": [
-        "agent",
-        "llm",
-        "multiagent",
-        "openclaw"
-      ],
-      "license": "Apache-2.0",
-      "isArchived": false,
-      "createdAt": "2026-03-03T04:58:21.000Z",
-      "updatedAt": "2026-03-10T08:55:22.000Z",
-      "pushedAt": "2026-03-10T08:51:30.000Z",
-      "firstSeenAt": "2026-03-04T22:08:16.227Z",
-      "lastFetchedAt": "2026-03-10T08:58:34.736Z",
-      "activityScore": 26.92
+      "activityScore": 8.45
     },
     {
       "id": 66,
@@ -2032,63 +2210,7 @@
       "pushedAt": "2026-03-11T08:47:00.000Z",
       "firstSeenAt": "2026-03-04T21:51:09.852Z",
       "lastFetchedAt": "2026-03-11T08:59:11.934Z",
-      "activityScore": 21.81
-    },
-    {
-      "id": 21,
-      "githubId": 1165807635,
-      "fullName": "78/tenbox",
-      "name": "tenbox",
-      "owner": "78",
-      "description": "A lightweight x86-64 / arm64 Virtual Machine Monitor (VMM) for OpenClaw",
-      "url": "https://github.com/78/tenbox",
-      "homepage": "https://tenbox.ai",
-      "language": "C++",
-      "stars": 142,
-      "forks": 25,
-      "openIssues": 8,
-      "topics": [
-        "agents",
-        "openclaw",
-        "virtualization"
-      ],
-      "license": "NOASSERTION",
-      "isArchived": false,
-      "createdAt": "2026-02-24T15:09:56.000Z",
-      "updatedAt": "2026-03-11T07:14:28.000Z",
-      "pushedAt": "2026-03-11T07:11:59.000Z",
-      "firstSeenAt": "2026-03-04T21:49:27.955Z",
-      "lastFetchedAt": "2026-03-11T09:01:05.916Z",
-      "activityScore": 21.21
-    },
-    {
-      "id": 3411,
-      "githubId": 1162355550,
-      "fullName": "win4r/openclaw-a2a-gateway",
-      "name": "openclaw-a2a-gateway",
-      "owner": "win4r",
-      "description": "OpenClaw plugin implementing the A2A (Agent-to-Agent) protocol v0.3.0 — bidirectional agent communication gateway",
-      "url": "https://github.com/win4r/openclaw-a2a-gateway",
-      "homepage": "https://youtu.be/aI77F7vVodE",
-      "language": "TypeScript",
-      "stars": 141,
-      "forks": 23,
-      "openIssues": 0,
-      "topics": [
-        "openclaw",
-        "openclaw-agent",
-        "openclaw-extension",
-        "openclaw-plugin",
-        "openclaw-skills"
-      ],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-02-20T06:46:24.000Z",
-      "updatedAt": "2026-03-10T08:43:29.000Z",
-      "pushedAt": "2026-03-10T07:24:39.000Z",
-      "firstSeenAt": "2026-03-08T08:43:49.150Z",
-      "lastFetchedAt": "2026-03-10T09:00:57.966Z",
-      "activityScore": 18.67
+      "activityScore": 19.14
     },
     {
       "id": 527,
@@ -2119,7 +2241,7 @@
       "pushedAt": "2026-03-06T07:21:12.000Z",
       "firstSeenAt": "2026-03-04T22:07:12.593Z",
       "lastFetchedAt": "2026-03-06T08:54:52.177Z",
-      "activityScore": 10.57
+      "activityScore": 9.64
     },
     {
       "id": 5337,
@@ -2142,7 +2264,7 @@
       "pushedAt": "2026-03-11T06:53:30.000Z",
       "firstSeenAt": "2026-03-11T09:01:30.881Z",
       "lastFetchedAt": "2026-03-11T09:01:30.880Z",
-      "activityScore": 19.93
+      "activityScore": 18.16
     },
     {
       "id": 549,
@@ -2165,7 +2287,7 @@
       "pushedAt": "2026-03-11T08:17:21.000Z",
       "firstSeenAt": "2026-03-04T22:07:17.051Z",
       "lastFetchedAt": "2026-03-11T08:59:45.960Z",
-      "activityScore": 22.88
+      "activityScore": 20.85
     },
     {
       "id": 2543,
@@ -2188,7 +2310,7 @@
       "pushedAt": "2026-03-06T03:32:41.000Z",
       "firstSeenAt": "2026-03-06T08:56:44.525Z",
       "lastFetchedAt": "2026-03-06T08:56:44.524Z",
-      "activityScore": 10.18
+      "activityScore": 9.28
     },
     {
       "id": 4547,
@@ -2211,7 +2333,7 @@
       "pushedAt": "2026-03-10T08:18:20.000Z",
       "firstSeenAt": "2026-03-10T08:59:41.305Z",
       "lastFetchedAt": "2026-03-10T08:59:41.305Z",
-      "activityScore": 18.2
+      "activityScore": 16.6
     },
     {
       "id": 4011,
@@ -2242,7 +2364,7 @@
       "pushedAt": "2026-03-09T07:59:22.000Z",
       "firstSeenAt": "2026-03-09T09:00:05.263Z",
       "lastFetchedAt": "2026-03-09T09:00:05.263Z",
-      "activityScore": 16.3
+      "activityScore": 14.87
     },
     {
       "id": 484,
@@ -2276,7 +2398,53 @@
       "pushedAt": "2026-03-09T07:11:26.000Z",
       "firstSeenAt": "2026-03-04T22:07:03.333Z",
       "lastFetchedAt": "2026-03-09T09:01:11.032Z",
-      "activityScore": 16.19
+      "activityScore": 14.68
+    },
+    {
+      "id": 4507,
+      "githubId": 1177615748,
+      "fullName": "byJoey/openclawctl",
+      "name": "openclawctl",
+      "owner": "byJoey",
+      "description": null,
+      "url": "https://github.com/byJoey/openclawctl",
+      "homepage": "",
+      "language": "Shell",
+      "stars": 115,
+      "forks": 65,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-10T07:42:14.000Z",
+      "updatedAt": "2026-03-12T08:41:42.000Z",
+      "pushedAt": "2026-03-12T07:24:57.000Z",
+      "firstSeenAt": "2026-03-10T08:59:21.522Z",
+      "lastFetchedAt": "2026-03-12T08:59:56.975Z",
+      "activityScore": 20.39
+    },
+    {
+      "id": 2758,
+      "githubId": 1163722224,
+      "fullName": "clawdotnet/openclaw.net",
+      "name": "openclaw.net",
+      "owner": "clawdotnet",
+      "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
+      "url": "https://github.com/clawdotnet/openclaw.net",
+      "homepage": null,
+      "language": "C#",
+      "stars": 115,
+      "forks": 19,
+      "openIssues": 2,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-22T03:21:36.000Z",
+      "updatedAt": "2026-03-12T06:38:59.000Z",
+      "pushedAt": "2026-03-12T06:35:54.000Z",
+      "firstSeenAt": "2026-03-07T08:43:49.958Z",
+      "lastFetchedAt": "2026-03-12T09:01:21.500Z",
+      "activityScore": 20.76
     },
     {
       "id": 480,
@@ -2313,7 +2481,7 @@
       "pushedAt": "2026-03-09T06:41:27.000Z",
       "firstSeenAt": "2026-03-04T22:07:02.496Z",
       "lastFetchedAt": "2026-03-09T09:02:01.879Z",
-      "activityScore": 16.16
+      "activityScore": 14.65
     },
     {
       "id": 515,
@@ -2336,34 +2504,7 @@
       "pushedAt": "2026-03-10T08:50:01.000Z",
       "firstSeenAt": "2026-03-04T22:07:10.054Z",
       "lastFetchedAt": "2026-03-10T08:58:39.798Z",
-      "activityScore": 18.35
-    },
-    {
-      "id": 5100,
-      "githubId": 1176782002,
-      "fullName": "UniRound-Tec/Aurogen",
-      "name": "Aurogen",
-      "owner": "UniRound-Tec",
-      "description": "\"Aurogen🍊: The Multi-Agent Evolution of OpenClaw.\"",
-      "url": "https://github.com/UniRound-Tec/Aurogen",
-      "homepage": "",
-      "language": "TypeScript",
-      "stars": 108,
-      "forks": 6,
-      "openIssues": 0,
-      "topics": [
-        "agent",
-        "chatbots",
-        "openclaw"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-03-09T11:20:55.000Z",
-      "updatedAt": "2026-03-11T08:45:52.000Z",
-      "pushedAt": "2026-03-11T08:30:07.000Z",
-      "firstSeenAt": "2026-03-11T08:59:24.609Z",
-      "lastFetchedAt": "2026-03-11T08:59:24.608Z",
-      "activityScore": 20.52
+      "activityScore": 16.59
     },
     {
       "id": 658,
@@ -2386,7 +2527,7 @@
       "pushedAt": "2026-03-07T07:39:23.000Z",
       "firstSeenAt": "2026-03-04T22:07:42.366Z",
       "lastFetchedAt": "2026-03-07T08:43:55.625Z",
-      "activityScore": 13.7
+      "activityScore": 12.16
     },
     {
       "id": 1582,
@@ -2409,7 +2550,7 @@
       "pushedAt": "2026-03-05T16:36:52.000Z",
       "firstSeenAt": "2026-03-05T18:35:25.731Z",
       "lastFetchedAt": "2026-03-05T18:35:25.730Z",
-      "activityScore": 9.56
+      "activityScore": 8.74
     },
     {
       "id": 1568,
@@ -2442,7 +2583,37 @@
       "pushedAt": "2026-03-05T16:43:16.000Z",
       "firstSeenAt": "2026-03-05T18:35:21.664Z",
       "lastFetchedAt": "2026-03-05T18:35:21.663Z",
-      "activityScore": 9.29
+      "activityScore": 8.45
+    },
+    {
+      "id": 653,
+      "githubId": 1171660818,
+      "fullName": "ymx10086/ResearchClaw",
+      "name": "ResearchClaw",
+      "owner": "ymx10086",
+      "description": "ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.",
+      "url": "https://github.com/ymx10086/ResearchClaw",
+      "homepage": "https://ymx10086.github.io/ResearchClaw/",
+      "language": "Python",
+      "stars": 97,
+      "forks": 10,
+      "openIssues": 2,
+      "topics": [
+        "agent",
+        "copaw",
+        "openclaw",
+        "personal",
+        "research",
+        "tools"
+      ],
+      "license": "NOASSERTION",
+      "isArchived": false,
+      "createdAt": "2026-03-03T13:25:43.000Z",
+      "updatedAt": "2026-03-12T08:10:02.000Z",
+      "pushedAt": "2026-03-12T08:09:57.000Z",
+      "firstSeenAt": "2026-03-04T22:07:41.162Z",
+      "lastFetchedAt": "2026-03-12T08:58:53.297Z",
+      "activityScore": 21.14
     },
     {
       "id": 889,
@@ -2467,7 +2638,7 @@
       "pushedAt": "2026-03-11T08:50:30.000Z",
       "firstSeenAt": "2026-03-04T22:08:35.513Z",
       "lastFetchedAt": "2026-03-11T08:57:52.502Z",
-      "activityScore": 21.8
+      "activityScore": 20.08
     },
     {
       "id": 1903,
@@ -2490,7 +2661,7 @@
       "pushedAt": "2026-03-05T13:19:48.000Z",
       "firstSeenAt": "2026-03-05T18:37:02.919Z",
       "lastFetchedAt": "2026-03-05T18:37:02.918Z",
-      "activityScore": 9.05
+      "activityScore": 8.24
     },
     {
       "id": 4491,
@@ -2513,7 +2684,7 @@
       "pushedAt": "2026-03-10T08:36:48.000Z",
       "firstSeenAt": "2026-03-10T08:59:12.908Z",
       "lastFetchedAt": "2026-03-10T08:59:12.907Z",
-      "activityScore": 18.37
+      "activityScore": 16.77
     },
     {
       "id": 4833,
@@ -2541,7 +2712,7 @@
       "pushedAt": "2026-03-10T06:08:08.000Z",
       "firstSeenAt": "2026-03-10T09:02:44.389Z",
       "lastFetchedAt": "2026-03-10T09:02:44.389Z",
-      "activityScore": 18.1
+      "activityScore": 16.51
     },
     {
       "id": 1949,
@@ -2564,30 +2735,7 @@
       "pushedAt": "2026-03-05T12:54:00.000Z",
       "firstSeenAt": "2026-03-05T18:37:16.210Z",
       "lastFetchedAt": "2026-03-05T18:37:16.210Z",
-      "activityScore": 8.95
-    },
-    {
-      "id": 4507,
-      "githubId": 1177615748,
-      "fullName": "byJoey/openclawctl",
-      "name": "openclawctl",
-      "owner": "byJoey",
-      "description": null,
-      "url": "https://github.com/byJoey/openclawctl",
-      "homepage": "",
-      "language": "Shell",
-      "stars": 84,
-      "forks": 48,
-      "openIssues": 0,
-      "topics": [],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-03-10T07:42:14.000Z",
-      "updatedAt": "2026-03-11T08:45:02.000Z",
-      "pushedAt": "2026-03-11T06:02:39.000Z",
-      "firstSeenAt": "2026-03-10T08:59:21.522Z",
-      "lastFetchedAt": "2026-03-11T09:02:13.398Z",
-      "activityScore": 20.13
+      "activityScore": 8.14
     },
     {
       "id": 2225,
@@ -2610,7 +2758,7 @@
       "pushedAt": "2026-03-11T07:34:23.000Z",
       "firstSeenAt": "2026-03-06T08:54:44.556Z",
       "lastFetchedAt": "2026-03-11T09:00:41.597Z",
-      "activityScore": 20.58
+      "activityScore": 18.8
     },
     {
       "id": 655,
@@ -2643,7 +2791,30 @@
       "pushedAt": "2026-03-07T07:14:08.000Z",
       "firstSeenAt": "2026-03-04T22:07:41.669Z",
       "lastFetchedAt": "2026-03-07T08:44:04.790Z",
-      "activityScore": 13.03
+      "activityScore": 11.74
+    },
+    {
+      "id": 386,
+      "githubId": 1161036951,
+      "fullName": "jgamblin/OpenClawCVEs",
+      "name": "OpenClawCVEs",
+      "owner": "jgamblin",
+      "description": "Tracking OpenClaw CVEs",
+      "url": "https://github.com/jgamblin/OpenClawCVEs",
+      "homepage": null,
+      "language": "Python",
+      "stars": 81,
+      "forks": 1,
+      "openIssues": 0,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-18T16:58:16.000Z",
+      "updatedAt": "2026-03-12T08:28:30.000Z",
+      "pushedAt": "2026-03-12T06:25:02.000Z",
+      "firstSeenAt": "2026-03-04T22:06:42.235Z",
+      "lastFetchedAt": "2026-03-12T09:01:32.454Z",
+      "activityScore": 20.92
     },
     {
       "id": 954,
@@ -2668,7 +2839,7 @@
       "pushedAt": "2026-03-04T15:00:41.000Z",
       "firstSeenAt": "2026-03-04T22:08:51.349Z",
       "lastFetchedAt": "2026-03-04T22:08:51.348Z",
-      "activityScore": 7.7
+      "activityScore": 6.51
     },
     {
       "id": 4312,
@@ -2704,7 +2875,32 @@
       "pushedAt": "2026-03-09T05:17:11.000Z",
       "firstSeenAt": "2026-03-09T09:03:03.363Z",
       "lastFetchedAt": "2026-03-09T09:03:03.362Z",
-      "activityScore": 16.05
+      "activityScore": 14.63
+    },
+    {
+      "id": 1532,
+      "githubId": 1173193555,
+      "fullName": "TunMax/openclaw_computer",
+      "name": "openclaw_computer",
+      "owner": "TunMax",
+      "description": "一个预装 OpenClaw 并具有桌面环境的 Linux 容器，适配 ModelScope、HuggingFace 等免费容器部署服务，通过浏览器即可畅玩体验 OpenClaw / A Docker container running Debian 12, the KDE desktop environment, and OpenClaw.",
+      "url": "https://github.com/TunMax/openclaw_computer",
+      "homepage": "",
+      "language": "Dockerfile",
+      "stars": 75,
+      "forks": 13,
+      "openIssues": 1,
+      "topics": [
+        "openclaw"
+      ],
+      "license": "Apache-2.0",
+      "isArchived": false,
+      "createdAt": "2026-03-05T05:18:36.000Z",
+      "updatedAt": "2026-03-12T08:10:21.000Z",
+      "pushedAt": "2026-03-12T08:10:18.000Z",
+      "firstSeenAt": "2026-03-05T18:35:10.208Z",
+      "lastFetchedAt": "2026-03-12T08:58:52.919Z",
+      "activityScore": 20.36
     },
     {
       "id": 4683,
@@ -2732,7 +2928,7 @@
       "pushedAt": "2026-03-11T08:46:26.000Z",
       "firstSeenAt": "2026-03-10T09:00:45.985Z",
       "lastFetchedAt": "2026-03-11T08:58:12.576Z",
-      "activityScore": 22.3
+      "activityScore": 20.3
     },
     {
       "id": 4424,
@@ -2755,7 +2951,7 @@
       "pushedAt": "2026-03-10T08:51:46.000Z",
       "firstSeenAt": "2026-03-10T08:58:33.229Z",
       "lastFetchedAt": "2026-03-10T08:58:33.228Z",
-      "activityScore": 18.21
+      "activityScore": 16.6
     },
     {
       "id": 2919,
@@ -2791,7 +2987,7 @@
       "pushedAt": "2026-03-08T05:48:31.000Z",
       "firstSeenAt": "2026-03-07T08:44:34.280Z",
       "lastFetchedAt": "2026-03-08T08:45:14.242Z",
-      "activityScore": 14.29
+      "activityScore": 13.04
     },
     {
       "id": 414,
@@ -2814,7 +3010,7 @@
       "pushedAt": "2026-03-04T20:05:18.000Z",
       "firstSeenAt": "2026-03-04T22:06:48.006Z",
       "lastFetchedAt": "2026-03-04T22:06:48.005Z",
-      "activityScore": 7.61
+      "activityScore": 6.88
     },
     {
       "id": 98,
@@ -2826,7 +3022,7 @@
       "url": "https://github.com/ythx-101/openclaw-qa",
       "homepage": "https://ythx-101.github.io/openclaw-qa/",
       "language": "Python",
-      "stars": 69,
+      "stars": 70,
       "forks": 6,
       "openIssues": 4,
       "topics": [
@@ -2843,11 +3039,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-02-15T03:35:48.000Z",
-      "updatedAt": "2026-03-11T08:53:17.000Z",
-      "pushedAt": "2026-03-11T08:53:14.000Z",
+      "updatedAt": "2026-03-12T08:54:27.000Z",
+      "pushedAt": "2026-03-12T08:54:23.000Z",
       "firstSeenAt": "2026-03-04T22:05:20.855Z",
-      "lastFetchedAt": "2026-03-11T08:57:44.089Z",
-      "activityScore": 41.76
+      "lastFetchedAt": "2026-03-12T08:57:43.170Z",
+      "activityScore": 42.86
     },
     {
       "id": 4130,
@@ -2886,7 +3082,7 @@
       "pushedAt": "2026-03-09T07:04:57.000Z",
       "firstSeenAt": "2026-03-09T09:01:29.618Z",
       "lastFetchedAt": "2026-03-09T09:01:29.617Z",
-      "activityScore": 16.12
+      "activityScore": 14.69
     },
     {
       "id": 749,
@@ -2909,53 +3105,7 @@
       "pushedAt": "2026-03-07T06:34:06.000Z",
       "firstSeenAt": "2026-03-04T22:08:03.539Z",
       "lastFetchedAt": "2026-03-07T08:44:26.212Z",
-      "activityScore": 12.69
-    },
-    {
-      "id": 5260,
-      "githubId": 1154957405,
-      "fullName": "MarlBurroW/pinchchat",
-      "name": "pinchchat",
-      "owner": "MarlBurroW",
-      "description": "A sleek, dark-themed webchat UI for OpenClaw 🦞",
-      "url": "https://github.com/MarlBurroW/pinchchat",
-      "homepage": "https://marlburrow.github.io/pinchchat/",
-      "language": "TypeScript",
-      "stars": 66,
-      "forks": 18,
-      "openIssues": 2,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-11T00:48:48.000Z",
-      "updatedAt": "2026-03-11T08:13:11.000Z",
-      "pushedAt": "2026-03-11T07:25:19.000Z",
-      "firstSeenAt": "2026-03-11T09:00:51.720Z",
-      "lastFetchedAt": "2026-03-11T09:00:51.720Z",
-      "activityScore": 20.01
-    },
-    {
-      "id": 1349,
-      "githubId": 1156871673,
-      "fullName": "navotvolkgroundup/groundup-toolkit",
-      "name": "groundup-toolkit",
-      "owner": "navotvolkgroundup",
-      "description": "AI-powered operations toolkit for VC teams. Built on OpenClaw with WhatsApp, Google Workspace, and HubSpot integrations.",
-      "url": "https://github.com/navotvolkgroundup/groundup-toolkit",
-      "homepage": null,
-      "language": "Python",
-      "stars": 66,
-      "forks": 9,
-      "openIssues": 0,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-13T06:30:54.000Z",
-      "updatedAt": "2026-03-11T07:31:07.000Z",
-      "pushedAt": "2026-03-11T07:31:04.000Z",
-      "firstSeenAt": "2026-03-05T18:33:43.301Z",
-      "lastFetchedAt": "2026-03-11T09:00:44.834Z",
-      "activityScore": 21.21
+      "activityScore": 11.46
     },
     {
       "id": 177,
@@ -2967,9 +3117,9 @@
       "url": "https://github.com/openlegion-ai/openlegion",
       "homepage": "https://openlegion.ai",
       "language": "Python",
-      "stars": 66,
-      "forks": 6,
-      "openIssues": 1,
+      "stars": 67,
+      "forks": 7,
+      "openIssues": 0,
       "topics": [
         "agent-framework",
         "ai-agents",
@@ -2992,11 +3142,88 @@
       "license": "NOASSERTION",
       "isArchived": false,
       "createdAt": "2026-02-19T16:35:14.000Z",
-      "updatedAt": "2026-03-09T08:30:28.000Z",
-      "pushedAt": "2026-03-09T08:30:24.000Z",
+      "updatedAt": "2026-03-12T08:41:52.000Z",
+      "pushedAt": "2026-03-12T08:41:47.000Z",
       "firstSeenAt": "2026-03-04T22:05:59.510Z",
-      "lastFetchedAt": "2026-03-09T08:59:19.637Z",
-      "activityScore": 21
+      "lastFetchedAt": "2026-03-12T08:58:13.431Z",
+      "activityScore": 24.2
+    },
+    {
+      "id": 5587,
+      "githubId": 1170397757,
+      "fullName": "scitix/siclaw",
+      "name": "siclaw",
+      "owner": "scitix",
+      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
+      "url": "https://github.com/scitix/siclaw",
+      "homepage": "https://siclaw.ai",
+      "language": "TypeScript",
+      "stars": 66,
+      "forks": 3,
+      "openIssues": 2,
+      "topics": [
+        "ai-agent",
+        "aiops",
+        "devops",
+        "kubernetes",
+        "llm",
+        "openclaw",
+        "sre"
+      ],
+      "license": "Apache-2.0",
+      "isArchived": false,
+      "createdAt": "2026-03-02T04:31:11.000Z",
+      "updatedAt": "2026-03-12T08:47:12.000Z",
+      "pushedAt": "2026-03-12T08:47:12.000Z",
+      "firstSeenAt": "2026-03-12T08:58:00.674Z",
+      "lastFetchedAt": "2026-03-12T08:58:00.673Z",
+      "activityScore": 21.43
+    },
+    {
+      "id": 5260,
+      "githubId": 1154957405,
+      "fullName": "MarlBurroW/pinchchat",
+      "name": "pinchchat",
+      "owner": "MarlBurroW",
+      "description": "A sleek, dark-themed webchat UI for OpenClaw 🦞",
+      "url": "https://github.com/MarlBurroW/pinchchat",
+      "homepage": "https://marlburrow.github.io/pinchchat/",
+      "language": "TypeScript",
+      "stars": 66,
+      "forks": 18,
+      "openIssues": 2,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-11T00:48:48.000Z",
+      "updatedAt": "2026-03-11T08:13:11.000Z",
+      "pushedAt": "2026-03-11T07:25:19.000Z",
+      "firstSeenAt": "2026-03-11T09:00:51.720Z",
+      "lastFetchedAt": "2026-03-11T09:00:51.720Z",
+      "activityScore": 18.24
+    },
+    {
+      "id": 1349,
+      "githubId": 1156871673,
+      "fullName": "navotvolkgroundup/groundup-toolkit",
+      "name": "groundup-toolkit",
+      "owner": "navotvolkgroundup",
+      "description": "AI-powered operations toolkit for VC teams. Built on OpenClaw with WhatsApp, Google Workspace, and HubSpot integrations.",
+      "url": "https://github.com/navotvolkgroundup/groundup-toolkit",
+      "homepage": null,
+      "language": "Python",
+      "stars": 66,
+      "forks": 9,
+      "openIssues": 0,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-13T06:30:54.000Z",
+      "updatedAt": "2026-03-11T07:31:07.000Z",
+      "pushedAt": "2026-03-11T07:31:04.000Z",
+      "firstSeenAt": "2026-03-05T18:33:43.301Z",
+      "lastFetchedAt": "2026-03-11T09:00:44.834Z",
+      "activityScore": 19.52
     },
     {
       "id": 1449,
@@ -3019,7 +3246,7 @@
       "pushedAt": "2026-03-07T05:17:37.000Z",
       "firstSeenAt": "2026-03-05T18:34:43.266Z",
       "lastFetchedAt": "2026-03-07T08:44:53.527Z",
-      "activityScore": 13.53
+      "activityScore": 11.72
     },
     {
       "id": 792,
@@ -3042,7 +3269,7 @@
       "pushedAt": "2026-03-06T07:17:56.000Z",
       "firstSeenAt": "2026-03-04T22:08:13.585Z",
       "lastFetchedAt": "2026-03-06T08:54:54.349Z",
-      "activityScore": 10.85
+      "activityScore": 9.49
     },
     {
       "id": 5375,
@@ -3069,7 +3296,7 @@
       "pushedAt": "2026-03-11T06:30:19.000Z",
       "firstSeenAt": "2026-03-11T09:01:48.859Z",
       "lastFetchedAt": "2026-03-11T09:01:48.858Z",
-      "activityScore": 19.9
+      "activityScore": 18.13
     },
     {
       "id": 249,
@@ -3092,7 +3319,7 @@
       "pushedAt": "2026-03-10T07:47:31.000Z",
       "firstSeenAt": "2026-03-04T22:06:14.466Z",
       "lastFetchedAt": "2026-03-10T09:00:32.623Z",
-      "activityScore": 20.39
+      "activityScore": 18.02
     },
     {
       "id": 4041,
@@ -3123,7 +3350,7 @@
       "pushedAt": "2026-03-09T07:46:11.000Z",
       "firstSeenAt": "2026-03-09T09:00:23.618Z",
       "lastFetchedAt": "2026-03-09T09:00:23.617Z",
-      "activityScore": 17.06
+      "activityScore": 15.67
     },
     {
       "id": 3195,
@@ -3135,7 +3362,7 @@
       "url": "https://github.com/michelleoincx/genspark.ai-openclaw",
       "homepage": "",
       "language": "TypeScript",
-      "stars": 59,
+      "stars": 60,
       "forks": 1,
       "openIssues": 0,
       "topics": [
@@ -3153,11 +3380,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-03-06T21:29:12.000Z",
-      "updatedAt": "2026-03-10T13:55:41.000Z",
-      "pushedAt": "2026-03-06T21:47:32.000Z",
+      "updatedAt": "2026-03-12T08:02:13.000Z",
+      "pushedAt": "2026-03-12T06:10:18.000Z",
       "firstSeenAt": "2026-03-07T08:45:45.956Z",
-      "lastFetchedAt": "2026-03-11T09:04:30.051Z",
-      "activityScore": 11.67
+      "lastFetchedAt": "2026-03-12T09:01:40.992Z",
+      "activityScore": 20
     },
     {
       "id": 759,
@@ -3193,7 +3420,7 @@
       "pushedAt": "2026-03-05T12:57:05.000Z",
       "firstSeenAt": "2026-03-04T22:08:05.900Z",
       "lastFetchedAt": "2026-03-05T18:37:14.914Z",
-      "activityScore": 9.38
+      "activityScore": 8.51
     },
     {
       "id": 559,
@@ -3223,7 +3450,7 @@
       "pushedAt": "2026-03-11T06:45:57.000Z",
       "firstSeenAt": "2026-03-04T22:07:19.233Z",
       "lastFetchedAt": "2026-03-11T09:01:37.875Z",
-      "activityScore": 20.34
+      "activityScore": 18.43
     },
     {
       "id": 2263,
@@ -3250,7 +3477,7 @@
       "pushedAt": "2026-03-06T07:11:03.000Z",
       "firstSeenAt": "2026-03-06T08:54:59.312Z",
       "lastFetchedAt": "2026-03-06T08:54:59.312Z",
-      "activityScore": 10.4
+      "activityScore": 9.46
     },
     {
       "id": 300,
@@ -3273,7 +3500,7 @@
       "pushedAt": "2026-03-05T16:38:51.000Z",
       "firstSeenAt": "2026-03-04T22:06:24.775Z",
       "lastFetchedAt": "2026-03-05T18:35:24.746Z",
-      "activityScore": 9.29
+      "activityScore": 8.41
     },
     {
       "id": 2802,
@@ -3296,53 +3523,7 @@
       "pushedAt": "2026-03-10T07:49:40.000Z",
       "firstSeenAt": "2026-03-07T08:44:04.057Z",
       "lastFetchedAt": "2026-03-10T09:00:29.367Z",
-      "activityScore": 18.65
-    },
-    {
-      "id": 2758,
-      "githubId": 1163722224,
-      "fullName": "clawdotnet/openclaw.net",
-      "name": "openclaw.net",
-      "owner": "clawdotnet",
-      "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
-      "url": "https://github.com/clawdotnet/openclaw.net",
-      "homepage": null,
-      "language": "C#",
-      "stars": 51,
-      "forks": 9,
-      "openIssues": 1,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-22T03:21:36.000Z",
-      "updatedAt": "2026-03-10T08:55:01.000Z",
-      "pushedAt": "2026-03-10T08:54:57.000Z",
-      "firstSeenAt": "2026-03-07T08:43:49.958Z",
-      "lastFetchedAt": "2026-03-10T08:58:20.373Z",
-      "activityScore": 18.79
-    },
-    {
-      "id": 386,
-      "githubId": 1161036951,
-      "fullName": "jgamblin/OpenClawCVEs",
-      "name": "OpenClawCVEs",
-      "owner": "jgamblin",
-      "description": "Tracking OpenClaw CVEs",
-      "url": "https://github.com/jgamblin/OpenClawCVEs",
-      "homepage": null,
-      "language": "Python",
-      "stars": 51,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-18T16:58:16.000Z",
-      "updatedAt": "2026-03-11T08:24:00.000Z",
-      "pushedAt": "2026-03-11T06:23:50.000Z",
-      "firstSeenAt": "2026-03-04T22:06:42.235Z",
-      "lastFetchedAt": "2026-03-11T09:01:54.961Z",
-      "activityScore": 21.5
+      "activityScore": 17.08
     },
     {
       "id": 2130,
@@ -3350,7 +3531,7 @@
       "fullName": "laborany/laborany",
       "name": "laborany",
       "owner": "laborany",
-      "description": "LaborAny 的初衷，是把强大的 AI Agent 能力从“少数人的命令行工具”变成“每个人都能用的桌面生产力”。它基于 Claude Code CLI 构建，提供可视化任务分发、技能匹配与创建、定时执行和记忆管理，让不会编程的用户也能稳定调用 AI 完成真实工作流。Desktop AI workforce platform built on Claude Code CLI — route tasks, run/create skills,  schedule jobs, and work with AI agents without coding.",
+      "description": "基于 Claude Code 的桌面 AI 工作力平台 — 支持飞书/QQ 远程调度、技能创建、定时任务。OpenClaw 的桌面实现，零代码养好你的 AI 🦞 Desktop AI workforce platform built on Claude Code. Feishu/QQ bot integration, skill creation, scheduled tasks — OpenClaw for your desktop. Raise your AI lobsters 🦞",
       "url": "https://github.com/laborany/laborany",
       "homepage": "https://laborany.github.io",
       "language": "TypeScript",
@@ -3366,17 +3547,18 @@
         "feishu-bot",
         "gui",
         "openclaw",
+        "qq-bot",
         "skills",
         "workflows"
       ],
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-02-11T15:00:48.000Z",
-      "updatedAt": "2026-03-10T07:22:44.000Z",
-      "pushedAt": "2026-03-10T07:22:40.000Z",
+      "updatedAt": "2026-03-12T08:44:41.000Z",
+      "pushedAt": "2026-03-12T08:44:36.000Z",
       "firstSeenAt": "2026-03-06T08:54:02.584Z",
-      "lastFetchedAt": "2026-03-10T09:01:00.797Z",
-      "activityScore": 18.2
+      "lastFetchedAt": "2026-03-12T08:58:05.816Z",
+      "activityScore": 20.57
     },
     {
       "id": 1486,
@@ -3406,7 +3588,7 @@
       "pushedAt": "2026-03-05T17:47:17.000Z",
       "firstSeenAt": "2026-03-05T18:34:57.375Z",
       "lastFetchedAt": "2026-03-05T18:34:57.375Z",
-      "activityScore": 9.51
+      "activityScore": 8.64
     },
     {
       "id": 5087,
@@ -3445,7 +3627,7 @@
       "pushedAt": "2026-03-11T08:33:05.000Z",
       "firstSeenAt": "2026-03-11T08:59:09.777Z",
       "lastFetchedAt": "2026-03-11T08:59:09.776Z",
-      "activityScore": 20.27
+      "activityScore": 18.51
     },
     {
       "id": 3955,
@@ -3473,32 +3655,30 @@
       "pushedAt": "2026-03-09T08:18:57.000Z",
       "firstSeenAt": "2026-03-09T08:59:34.388Z",
       "lastFetchedAt": "2026-03-09T08:59:34.387Z",
-      "activityScore": 17.32
+      "activityScore": 15.94
     },
     {
-      "id": 1532,
-      "githubId": 1173193555,
-      "fullName": "TunMax/openclaw_computer",
-      "name": "openclaw_computer",
-      "owner": "TunMax",
-      "description": "一个预装 OpenClaw 并具有桌面环境的 Linux 容器，适配 ModelScope、HuggingFace 等免费容器部署服务，通过浏览器即可畅玩体验 OpenClaw / A Docker container running Debian 12, the KDE desktop environment, and OpenClaw.",
-      "url": "https://github.com/TunMax/openclaw_computer",
-      "homepage": "",
-      "language": "Dockerfile",
-      "stars": 47,
+      "id": 4909,
+      "githubId": 1177390196,
+      "fullName": "destinyfrancis/openclaw-knowledge-distiller",
+      "name": "openclaw-knowledge-distiller",
+      "owner": "destinyfrancis",
+      "description": "Open CLAW Knowledge Distiller · 龍蝦知識蒸餾器 — Turn YouTube/Bilibili videos into structured knowledge articles. Local Qwen3-ASR MLX + AI summarization. MCP server for Claude Code / Open CLAW agents.",
+      "url": "https://github.com/destinyfrancis/openclaw-knowledge-distiller",
+      "homepage": null,
+      "language": "Python",
+      "stars": 45,
       "forks": 8,
-      "openIssues": 2,
-      "topics": [
-        "openclaw"
-      ],
-      "license": "Apache-2.0",
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
       "isArchived": false,
-      "createdAt": "2026-03-05T05:18:36.000Z",
-      "updatedAt": "2026-03-09T07:50:59.000Z",
-      "pushedAt": "2026-03-09T07:50:56.000Z",
-      "firstSeenAt": "2026-03-05T18:35:10.208Z",
-      "lastFetchedAt": "2026-03-09T09:00:17.929Z",
-      "activityScore": 16.62
+      "createdAt": "2026-03-10T01:28:55.000Z",
+      "updatedAt": "2026-03-11T10:42:58.000Z",
+      "pushedAt": "2026-03-10T04:32:55.000Z",
+      "firstSeenAt": "2026-03-10T09:03:16.373Z",
+      "lastFetchedAt": "2026-03-12T09:02:51.692Z",
+      "activityScore": 16.89
     },
     {
       "id": 1661,
@@ -3525,30 +3705,7 @@
       "pushedAt": "2026-03-05T15:55:57.000Z",
       "firstSeenAt": "2026-03-05T18:35:52.113Z",
       "lastFetchedAt": "2026-03-05T18:35:52.112Z",
-      "activityScore": 9.19
-    },
-    {
-      "id": 4909,
-      "githubId": 1177390196,
-      "fullName": "destinyfrancis/openclaw-knowledge-distiller",
-      "name": "openclaw-knowledge-distiller",
-      "owner": "destinyfrancis",
-      "description": "Open CLAW Knowledge Distiller · 龍蝦知識蒸餾器 — Turn YouTube/Bilibili videos into structured knowledge articles. Local Qwen3-ASR MLX + AI summarization. MCP server for Claude Code / Open CLAW agents.",
-      "url": "https://github.com/destinyfrancis/openclaw-knowledge-distiller",
-      "homepage": null,
-      "language": "Python",
-      "stars": 44,
-      "forks": 7,
-      "openIssues": 0,
-      "topics": [],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-03-10T01:28:55.000Z",
-      "updatedAt": "2026-03-11T07:28:02.000Z",
-      "pushedAt": "2026-03-10T04:32:55.000Z",
-      "firstSeenAt": "2026-03-10T09:03:16.373Z",
-      "lastFetchedAt": "2026-03-11T09:03:14.154Z",
-      "activityScore": 18.44
+      "activityScore": 8.35
     },
     {
       "id": 735,
@@ -3571,7 +3728,33 @@
       "pushedAt": "2026-03-04T16:48:54.000Z",
       "firstSeenAt": "2026-03-04T22:08:00.225Z",
       "lastFetchedAt": "2026-03-04T22:08:00.225Z",
-      "activityScore": 7.35
+      "activityScore": 6.64
+    },
+    {
+      "id": 5529,
+      "githubId": 1177774359,
+      "fullName": "itq5/OpenClaw-Admin",
+      "name": "OpenClaw-Admin",
+      "owner": "itq5",
+      "description": "OpenClaw Admin 是一个基于 Vue 3 构建的现代化 AI 智能体管理平台，为 OpenClaw Gateway 提供完整的 Web 管理界面。通过直观的可视化操作，用户可以轻松管理 AI 智能体、会话、模型、频道、技能等核心功能。",
+      "url": "https://github.com/itq5/OpenClaw-Admin",
+      "homepage": "",
+      "language": "Vue",
+      "stars": 43,
+      "forks": 11,
+      "openIssues": 0,
+      "topics": [
+        "openclaw",
+        "web"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-10T11:05:32.000Z",
+      "updatedAt": "2026-03-12T07:11:08.000Z",
+      "pushedAt": "2026-03-12T06:25:11.000Z",
+      "firstSeenAt": "2026-03-11T09:03:03.740Z",
+      "lastFetchedAt": "2026-03-12T09:01:31.934Z",
+      "activityScore": 19.91
     },
     {
       "id": 4429,
@@ -3594,7 +3777,7 @@
       "pushedAt": "2026-03-10T08:51:29.000Z",
       "firstSeenAt": "2026-03-10T08:58:35.269Z",
       "lastFetchedAt": "2026-03-10T08:58:35.268Z",
-      "activityScore": 18.32
+      "activityScore": 16.71
     },
     {
       "id": 689,
@@ -3633,7 +3816,7 @@
       "pushedAt": "2026-03-11T07:51:34.000Z",
       "firstSeenAt": "2026-03-04T22:07:49.572Z",
       "lastFetchedAt": "2026-03-11T09:00:40.372Z",
-      "activityScore": 21.08
+      "activityScore": 18.88
     },
     {
       "id": 2520,
@@ -3656,7 +3839,7 @@
       "pushedAt": "2026-03-11T08:23:39.000Z",
       "firstSeenAt": "2026-03-06T08:56:38.717Z",
       "lastFetchedAt": "2026-03-11T08:59:37.586Z",
-      "activityScore": 20.25
+      "activityScore": 18.48
     },
     {
       "id": 748,
@@ -3679,7 +3862,56 @@
       "pushedAt": "2026-03-04T16:42:30.000Z",
       "firstSeenAt": "2026-03-04T22:08:03.343Z",
       "lastFetchedAt": "2026-03-04T22:08:03.342Z",
-      "activityScore": 7.58
+      "activityScore": 6.63
+    },
+    {
+      "id": 4624,
+      "githubId": 1176662590,
+      "fullName": "zjowowen/InnoClaw",
+      "name": "InnoClaw",
+      "owner": "zjowowen",
+      "description": "An AI research Agent for scientific innovation.",
+      "url": "https://github.com/zjowowen/InnoClaw",
+      "homepage": "https://zjowowen.github.io/InnoClaw/",
+      "language": "TypeScript",
+      "stars": 41,
+      "forks": 0,
+      "openIssues": 1,
+      "topics": [
+        "agent",
+        "openclaw"
+      ],
+      "license": "Apache-2.0",
+      "isArchived": false,
+      "createdAt": "2026-03-09T08:48:10.000Z",
+      "updatedAt": "2026-03-12T06:54:44.000Z",
+      "pushedAt": "2026-03-12T06:54:35.000Z",
+      "firstSeenAt": "2026-03-10T09:00:11.025Z",
+      "lastFetchedAt": "2026-03-12T09:00:57.329Z",
+      "activityScore": 23.5
+    },
+    {
+      "id": 3812,
+      "githubId": 1162518529,
+      "fullName": "techartdev/OpenClawHomeAssistantIntegration",
+      "name": "OpenClawHomeAssistantIntegration",
+      "owner": "techartdev",
+      "description": null,
+      "url": "https://github.com/techartdev/OpenClawHomeAssistantIntegration",
+      "homepage": "",
+      "language": "Python",
+      "stars": 40,
+      "forks": 5,
+      "openIssues": 5,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-20T11:07:27.000Z",
+      "updatedAt": "2026-03-12T08:44:05.000Z",
+      "pushedAt": "2026-03-07T12:38:38.000Z",
+      "firstSeenAt": "2026-03-08T08:46:26.094Z",
+      "lastFetchedAt": "2026-03-12T09:03:37.070Z",
+      "activityScore": 11.88
     },
     {
       "id": 3409,
@@ -3702,7 +3934,7 @@
       "pushedAt": "2026-03-08T07:34:01.000Z",
       "firstSeenAt": "2026-03-08T08:43:47.079Z",
       "lastFetchedAt": "2026-03-08T08:43:47.078Z",
-      "activityScore": 15.24
+      "activityScore": 14.03
     },
     {
       "id": 517,
@@ -3736,7 +3968,7 @@
       "pushedAt": "2026-03-05T18:00:23.000Z",
       "firstSeenAt": "2026-03-04T22:07:10.437Z",
       "lastFetchedAt": "2026-03-05T18:34:38.691Z",
-      "activityScore": 9.6
+      "activityScore": 8.58
     },
     {
       "id": 1862,
@@ -3762,30 +3994,7 @@
       "pushedAt": "2026-03-05T15:57:31.000Z",
       "firstSeenAt": "2026-03-05T18:36:49.658Z",
       "lastFetchedAt": "2026-03-05T18:36:49.657Z",
-      "activityScore": 9.22
-    },
-    {
-      "id": 3812,
-      "githubId": 1162518529,
-      "fullName": "techartdev/OpenClawHomeAssistantIntegration",
-      "name": "OpenClawHomeAssistantIntegration",
-      "owner": "techartdev",
-      "description": null,
-      "url": "https://github.com/techartdev/OpenClawHomeAssistantIntegration",
-      "homepage": "",
-      "language": "Python",
-      "stars": 38,
-      "forks": 4,
-      "openIssues": 5,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-20T11:07:27.000Z",
-      "updatedAt": "2026-03-10T09:14:17.000Z",
-      "pushedAt": "2026-03-07T12:38:38.000Z",
-      "firstSeenAt": "2026-03-08T08:46:26.094Z",
-      "lastFetchedAt": "2026-03-11T09:04:19.841Z",
-      "activityScore": 13.06
+      "activityScore": 8.36
     },
     {
       "id": 4468,
@@ -3808,7 +4017,30 @@
       "pushedAt": "2026-03-10T08:43:26.000Z",
       "firstSeenAt": "2026-03-10T08:58:58.778Z",
       "lastFetchedAt": "2026-03-10T08:58:58.778Z",
-      "activityScore": 18.31
+      "activityScore": 16.7
+    },
+    {
+      "id": 5968,
+      "githubId": 1178933345,
+      "fullName": "SafeAI-Lab-X/SafeOpenClaw",
+      "name": "SafeOpenClaw",
+      "owner": "SafeAI-Lab-X",
+      "description": null,
+      "url": "https://github.com/SafeAI-Lab-X/SafeOpenClaw",
+      "homepage": null,
+      "language": "PowerShell",
+      "stars": 34,
+      "forks": 3,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-11T14:14:31.000Z",
+      "updatedAt": "2026-03-12T08:46:51.000Z",
+      "pushedAt": "2026-03-12T04:54:24.000Z",
+      "firstSeenAt": "2026-03-12T09:01:49.617Z",
+      "lastFetchedAt": "2026-03-12T09:01:49.616Z",
+      "activityScore": 20.58
     },
     {
       "id": 128,
@@ -3842,62 +4074,7 @@
       "pushedAt": "2026-03-04T21:33:01.000Z",
       "firstSeenAt": "2026-03-04T22:05:48.467Z",
       "lastFetchedAt": "2026-03-04T22:05:48.467Z",
-      "activityScore": 8.15
-    },
-    {
-      "id": 5529,
-      "githubId": 1177774359,
-      "fullName": "itq5/OpenClaw-Admin",
-      "name": "OpenClaw-Admin",
-      "owner": "itq5",
-      "description": "OpenClaw Admin 是一个基于 Vue 3 构建的现代化 AI 智能体管理平台，为 OpenClaw Gateway 提供完整的 Web 管理界面。通过直观的可视化操作，用户可以轻松管理 AI 智能体、会话、模型、频道、技能等核心功能。",
-      "url": "https://github.com/itq5/OpenClaw-Admin",
-      "homepage": "",
-      "language": "Vue",
-      "stars": 32,
-      "forks": 9,
-      "openIssues": 0,
-      "topics": [
-        "openclaw",
-        "web"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-03-10T11:05:32.000Z",
-      "updatedAt": "2026-03-11T08:14:59.000Z",
-      "pushedAt": "2026-03-10T11:15:24.000Z",
-      "firstSeenAt": "2026-03-11T09:03:03.740Z",
-      "lastFetchedAt": "2026-03-11T09:03:03.740Z",
-      "activityScore": 18.37
-    },
-    {
-      "id": 3741,
-      "githubId": 1154265141,
-      "fullName": "opensolon/solonbot",
-      "name": "solonbot",
-      "owner": "opensolon",
-      "description": "Java impl version of \"Claude Code\" and \"OpenClaw\".",
-      "url": "https://github.com/opensolon/solonbot",
-      "homepage": "https://solon.noear.org/",
-      "language": "Java",
-      "stars": 32,
-      "forks": 8,
-      "openIssues": 7,
-      "topics": [
-        "claude-code",
-        "cli",
-        "cli-app",
-        "java",
-        "solon"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-10T07:31:57.000Z",
-      "updatedAt": "2026-03-10T07:25:02.000Z",
-      "pushedAt": "2026-03-10T07:24:58.000Z",
-      "firstSeenAt": "2026-03-08T08:46:00.380Z",
-      "lastFetchedAt": "2026-03-10T09:00:56.815Z",
-      "activityScore": 19.83
+      "activityScore": 6.98
     },
     {
       "id": 3081,
@@ -3920,7 +4097,40 @@
       "pushedAt": "2026-03-07T04:03:22.000Z",
       "firstSeenAt": "2026-03-07T08:45:17.372Z",
       "lastFetchedAt": "2026-03-07T08:45:17.371Z",
-      "activityScore": 12.06
+      "activityScore": 10.98
+    },
+    {
+      "id": 4849,
+      "githubId": 1176565109,
+      "fullName": "ionclaw-org/ionclaw",
+      "name": "ionclaw",
+      "owner": "ionclaw-org",
+      "description": "A cross-platform AI agent orchestrator in C++ that turns any device — including your phone — into a self-contained, multi-agent automation platform",
+      "url": "https://github.com/ionclaw-org/ionclaw",
+      "homepage": "https://ionclaw.com",
+      "language": "C++",
+      "stars": 31,
+      "forks": 5,
+      "openIssues": 1,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-assistant",
+        "ai-workflow",
+        "claw",
+        "ionclaw",
+        "openclaw",
+        "workflow"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-09T06:29:09.000Z",
+      "updatedAt": "2026-03-12T07:13:27.000Z",
+      "pushedAt": "2026-03-12T07:13:17.000Z",
+      "firstSeenAt": "2026-03-10T09:02:51.625Z",
+      "lastFetchedAt": "2026-03-12T09:00:36.106Z",
+      "activityScore": 20.44
     },
     {
       "id": 4555,
@@ -3950,7 +4160,7 @@
       "pushedAt": "2026-03-10T08:16:26.000Z",
       "firstSeenAt": "2026-03-10T08:59:44.255Z",
       "lastFetchedAt": "2026-03-10T08:59:44.254Z",
-      "activityScore": 18.16
+      "activityScore": 16.55
     },
     {
       "id": 3659,
@@ -3994,7 +4204,7 @@
       "pushedAt": "2026-03-08T05:05:01.000Z",
       "firstSeenAt": "2026-03-08T08:45:34.657Z",
       "lastFetchedAt": "2026-03-08T08:45:34.657Z",
-      "activityScore": 14.09
+      "activityScore": 12.83
     },
     {
       "id": 3097,
@@ -4017,7 +4227,7 @@
       "pushedAt": "2026-03-07T03:56:57.000Z",
       "firstSeenAt": "2026-03-07T08:45:21.003Z",
       "lastFetchedAt": "2026-03-07T08:45:21.003Z",
-      "activityScore": 12.19
+      "activityScore": 11.12
     },
     {
       "id": 2573,
@@ -4040,7 +4250,7 @@
       "pushedAt": "2026-03-06T03:08:51.000Z",
       "firstSeenAt": "2026-03-06T08:56:53.838Z",
       "lastFetchedAt": "2026-03-06T08:56:53.837Z",
-      "activityScore": 10.04
+      "activityScore": 9.13
     },
     {
       "id": 2391,
@@ -4063,7 +4273,35 @@
       "pushedAt": "2026-03-06T05:36:13.000Z",
       "firstSeenAt": "2026-03-06T08:55:53.687Z",
       "lastFetchedAt": "2026-03-06T08:55:53.686Z",
-      "activityScore": 10.34
+      "activityScore": 9.42
+    },
+    {
+      "id": 5609,
+      "githubId": 1179034062,
+      "fullName": "claw-eval/claw-eval",
+      "name": "claw-eval",
+      "owner": "claw-eval",
+      "description": "Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans.",
+      "url": "https://github.com/claw-eval/claw-eval",
+      "homepage": "https://claw-eval.github.io",
+      "language": "Python",
+      "stars": 30,
+      "forks": 1,
+      "openIssues": 1,
+      "topics": [
+        "agent",
+        "harness",
+        "llm",
+        "openclaw"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-11T16:09:47.000Z",
+      "updatedAt": "2026-03-12T08:49:04.000Z",
+      "pushedAt": "2026-03-12T08:42:32.000Z",
+      "firstSeenAt": "2026-03-12T08:58:12.481Z",
+      "lastFetchedAt": "2026-03-12T08:58:12.480Z",
+      "activityScore": 20.82
     },
     {
       "id": 3662,
@@ -4094,65 +4332,51 @@
       "pushedAt": "2026-03-08T04:59:42.000Z",
       "firstSeenAt": "2026-03-08T08:45:36.725Z",
       "lastFetchedAt": "2026-03-08T08:45:36.724Z",
-      "activityScore": 14.19
+      "activityScore": 12.94
     },
     {
-      "id": 3540,
-      "githubId": 1154175930,
-      "fullName": "ruiqili2/agent-monitor",
-      "name": "agent-monitor",
-      "owner": "ruiqili2",
-      "description": "🏢 Real-time AI agent visualization & monitoring dashboard for OpenClaw — pixel-art office, 18 behaviors, chat, 4 themes",
-      "url": "https://github.com/ruiqili2/agent-monitor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 30,
-      "forks": 8,
-      "openIssues": 0,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-10T05:02:04.000Z",
-      "updatedAt": "2026-03-08T06:20:09.000Z",
-      "pushedAt": "2026-03-08T06:20:02.000Z",
-      "firstSeenAt": "2026-03-08T08:44:32.692Z",
-      "lastFetchedAt": "2026-03-08T08:44:32.692Z",
-      "activityScore": 14.15
-    },
-    {
-      "id": 750,
-      "githubId": 1153464167,
-      "fullName": "giorgosn/openclaw-crm",
-      "name": "openclaw-crm",
-      "owner": "giorgosn",
-      "description": "The CRM your AI agent already knows how to use. Open-source, self-hosted, with native OpenClaw Bot integration.",
-      "url": "https://github.com/giorgosn/openclaw-crm",
-      "homepage": "https://openclaw-crm.402box.io",
-      "language": "TypeScript",
-      "stars": 30,
-      "forks": 7,
-      "openIssues": 1,
+      "id": 5711,
+      "githubId": 1169812909,
+      "fullName": "neofusheng/sanwan",
+      "name": "sanwan",
+      "owner": "neofusheng",
+      "description": "🦞 傅盛骨折14天训出AI龙虾三万，给611位同事发个性化拜年，完整养成日记已开源",
+      "url": "https://github.com/neofusheng/sanwan",
+      "homepage": "https://sanwan.ai",
+      "language": "HTML",
+      "stars": 29,
+      "forks": 9,
+      "openIssues": 2,
       "topics": [
+        "agent-framework",
         "ai",
-        "crm",
-        "drizzle-orm",
-        "nextjs",
+        "ai-agent",
+        "anthropic",
+        "automation",
+        "ceo",
+        "chatbot",
+        "china",
+        "chinese-new-year",
+        "claude",
+        "diary",
+        "easyclaw",
+        "llm",
+        "multi-agent",
         "open-source",
         "openclaw",
-        "postgresql",
-        "self-hosted",
-        "shadcn-ui",
-        "tailwindcss",
-        "typescript"
+        "personal-assistant",
+        "productivity",
+        "recovery",
+        "spring-festival"
       ],
-      "license": "MIT",
+      "license": "Apache-2.0",
       "isArchived": false,
-      "createdAt": "2026-02-09T10:29:35.000Z",
-      "updatedAt": "2026-03-04T19:14:47.000Z",
-      "pushedAt": "2026-03-04T16:42:13.000Z",
-      "firstSeenAt": "2026-03-04T22:08:03.784Z",
-      "lastFetchedAt": "2026-03-04T22:08:03.783Z",
-      "activityScore": 7.37
+      "createdAt": "2026-03-01T08:55:19.000Z",
+      "updatedAt": "2026-03-12T08:04:34.000Z",
+      "pushedAt": "2026-03-12T08:04:31.000Z",
+      "firstSeenAt": "2026-03-12T08:58:59.929Z",
+      "lastFetchedAt": "2026-03-12T08:58:59.928Z",
+      "activityScore": 20.06
     },
     {
       "id": 1795,
@@ -4192,7 +4416,7 @@
       "pushedAt": "2026-03-08T08:40:03.000Z",
       "firstSeenAt": "2026-03-05T18:36:32.384Z",
       "lastFetchedAt": "2026-03-08T08:42:40.512Z",
-      "activityScore": 15.26
+      "activityScore": 14
     },
     {
       "id": 888,
@@ -4215,7 +4439,7 @@
       "pushedAt": "2026-03-08T04:03:30.000Z",
       "firstSeenAt": "2026-03-04T22:08:35.282Z",
       "lastFetchedAt": "2026-03-08T08:45:56.710Z",
-      "activityScore": 14.15
+      "activityScore": 12.8
     },
     {
       "id": 33,
@@ -4238,7 +4462,7 @@
       "pushedAt": "2026-03-04T22:02:40.000Z",
       "firstSeenAt": "2026-03-04T21:49:56.634Z",
       "lastFetchedAt": "2026-03-04T22:05:42.833Z",
-      "activityScore": 7.76
+      "activityScore": 7.02
     },
     {
       "id": 4482,
@@ -4261,7 +4485,7 @@
       "pushedAt": "2026-03-11T06:47:18.000Z",
       "firstSeenAt": "2026-03-10T08:59:08.379Z",
       "lastFetchedAt": "2026-03-11T09:01:33.576Z",
-      "activityScore": 20.22
+      "activityScore": 18.47
     },
     {
       "id": 787,
@@ -4284,7 +4508,7 @@
       "pushedAt": "2026-03-09T08:30:40.000Z",
       "firstSeenAt": "2026-03-04T22:08:12.149Z",
       "lastFetchedAt": "2026-03-09T08:59:45.617Z",
-      "activityScore": 16.5
+      "activityScore": 14.84
     },
     {
       "id": 441,
@@ -4315,7 +4539,30 @@
       "pushedAt": "2026-03-06T06:31:05.000Z",
       "firstSeenAt": "2026-03-04T22:06:54.061Z",
       "lastFetchedAt": "2026-03-06T08:55:20.935Z",
-      "activityScore": 10.95
+      "activityScore": 9.75
+    },
+    {
+      "id": 1906,
+      "githubId": 1166441393,
+      "fullName": "iswalle/getnote-openclaw",
+      "name": "getnote-openclaw",
+      "owner": "iswalle",
+      "description": "Get 笔记小龙虾配置",
+      "url": "https://github.com/iswalle/getnote-openclaw",
+      "homepage": null,
+      "language": "Python",
+      "stars": 27,
+      "forks": 4,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-25T08:21:46.000Z",
+      "updatedAt": "2026-03-12T06:40:11.000Z",
+      "pushedAt": "2026-03-12T06:06:28.000Z",
+      "firstSeenAt": "2026-03-05T18:37:03.786Z",
+      "lastFetchedAt": "2026-03-12T09:01:42.798Z",
+      "activityScore": 20.88
     },
     {
       "id": 272,
@@ -4345,7 +4592,7 @@
       "pushedAt": "2026-03-06T06:31:58.000Z",
       "firstSeenAt": "2026-03-04T22:06:19.104Z",
       "lastFetchedAt": "2026-03-06T08:56:05.348Z",
-      "activityScore": 11.3
+      "activityScore": 10.02
     },
     {
       "id": 4175,
@@ -4368,35 +4615,7 @@
       "pushedAt": "2026-03-09T06:42:36.000Z",
       "firstSeenAt": "2026-03-09T09:02:01.269Z",
       "lastFetchedAt": "2026-03-09T09:02:01.269Z",
-      "activityScore": 16.16
-    },
-    {
-      "id": 3933,
-      "githubId": 1153426385,
-      "fullName": "zhimaAi/ChatClaw",
-      "name": "ChatClaw",
-      "owner": "zhimaAi",
-      "description": "ChatClaw: Get OpenClaw-like personal AI agent in 5 mins. Sandbox-secured, ultra-small 30MB installer for macOS & Windows (install in 1 min). Connects to WhatsApp, Telegram, Slack, Discord, Gmail, DingTalk, WeChat Work, QQ, Feishu. Built-in Skill Market, Knowledge Base, Memory, MCP, Scheduled Tasks. Developed in Go ,run fast.",
-      "url": "https://github.com/zhimaAi/ChatClaw",
-      "homepage": "",
-      "language": "Go",
-      "stars": 25,
-      "forks": 3,
-      "openIssues": 0,
-      "topics": [
-        "ima",
-        "knowledge-base",
-        "openclaw",
-        "rag"
-      ],
-      "license": "GPL-3.0",
-      "isArchived": false,
-      "createdAt": "2026-02-09T09:35:52.000Z",
-      "updatedAt": "2026-03-09T08:50:15.000Z",
-      "pushedAt": "2026-03-09T08:26:58.000Z",
-      "firstSeenAt": "2026-03-09T08:59:26.237Z",
-      "lastFetchedAt": "2026-03-09T08:59:26.236Z",
-      "activityScore": 16.97
+      "activityScore": 14.73
     },
     {
       "id": 2228,
@@ -4419,7 +4638,7 @@
       "pushedAt": "2026-03-09T07:25:07.000Z",
       "firstSeenAt": "2026-03-06T08:54:45.523Z",
       "lastFetchedAt": "2026-03-09T09:00:41.639Z",
-      "activityScore": 16.3
+      "activityScore": 14.87
     },
     {
       "id": 3603,
@@ -4438,11 +4657,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-03-07T21:51:55.000Z",
-      "updatedAt": "2026-03-11T05:57:58.000Z",
-      "pushedAt": "2026-03-11T05:57:55.000Z",
+      "updatedAt": "2026-03-12T06:04:12.000Z",
+      "pushedAt": "2026-03-11T15:08:41.000Z",
       "firstSeenAt": "2026-03-08T08:45:13.738Z",
-      "lastFetchedAt": "2026-03-11T09:02:16.660Z",
-      "activityScore": 23.22
+      "lastFetchedAt": "2026-03-12T09:02:13.556Z",
+      "activityScore": 23.35
     },
     {
       "id": 1667,
@@ -4465,7 +4684,78 @@
       "pushedAt": "2026-03-05T15:54:35.000Z",
       "firstSeenAt": "2026-03-05T18:35:53.816Z",
       "lastFetchedAt": "2026-03-05T18:35:53.815Z",
-      "activityScore": 9.22
+      "activityScore": 8.39
+    },
+    {
+      "id": 1316,
+      "githubId": 1157568152,
+      "fullName": "tiero/claw-cash",
+      "name": "claw-cash",
+      "owner": "tiero",
+      "description": "Bitcoin wallet for AI agents. Stablecoins in, Bitcoin out. Keys in hardware enclaves. Works with OpenClaw, Claude Code, or any agent harness.",
+      "url": "https://github.com/tiero/claw-cash",
+      "homepage": "https://clw.cash",
+      "language": "TypeScript",
+      "stars": 24,
+      "forks": 6,
+      "openIssues": 8,
+      "topics": [
+        "ai-agent",
+        "bitcoin",
+        "bitocin-wallet",
+        "clawdbot",
+        "moltbot",
+        "open-claw",
+        "tether",
+        "usdc",
+        "usdt"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-14T01:14:31.000Z",
+      "updatedAt": "2026-03-11T16:10:27.000Z",
+      "pushedAt": "2026-03-07T18:14:06.000Z",
+      "firstSeenAt": "2026-03-04T22:10:10.581Z",
+      "lastFetchedAt": "2026-03-12T09:03:32.404Z",
+      "activityScore": 12.1
+    },
+    {
+      "id": 5887,
+      "githubId": 1169594655,
+      "fullName": "democra-ai/HuggingClaw",
+      "name": "HuggingClaw",
+      "owner": "democra-ai",
+      "description": "No Mac Mini? No problem. HuggingClaw is the best free way to deploy OpenClaw on HuggingFace Spaces — 2 vCPU, 16GB RAM, 50GB storage, always online, zero cost.",
+      "url": "https://github.com/democra-ai/HuggingClaw",
+      "homepage": null,
+      "language": "Python",
+      "stars": 23,
+      "forks": 6,
+      "openIssues": 1,
+      "topics": [
+        "agents",
+        "ai-assistant",
+        "chatbot",
+        "deployment",
+        "docker",
+        "huggingface-spaces",
+        "llm",
+        "one-click-deploy",
+        "openai-api",
+        "openclaw",
+        "persistent-storage",
+        "telegram",
+        "text-generation",
+        "whatsapp"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-28T23:09:23.000Z",
+      "updatedAt": "2026-03-12T06:39:37.000Z",
+      "pushedAt": "2026-03-12T06:39:33.000Z",
+      "firstSeenAt": "2026-03-12T09:01:18.891Z",
+      "lastFetchedAt": "2026-03-12T09:01:18.890Z",
+      "activityScore": 20.07
     },
     {
       "id": 4674,
@@ -4488,7 +4778,7 @@
       "pushedAt": "2026-03-10T07:42:37.000Z",
       "firstSeenAt": "2026-03-10T09:00:39.993Z",
       "lastFetchedAt": "2026-03-10T09:00:39.992Z",
-      "activityScore": 18.08
+      "activityScore": 16.48
     },
     {
       "id": 2512,
@@ -4520,7 +4810,7 @@
       "pushedAt": "2026-03-06T03:51:34.000Z",
       "firstSeenAt": "2026-03-06T08:56:36.338Z",
       "lastFetchedAt": "2026-03-06T08:56:36.338Z",
-      "activityScore": 10.14
+      "activityScore": 9.22
     },
     {
       "id": 1995,
@@ -4542,41 +4832,8 @@
       "updatedAt": "2026-03-10T23:03:49.000Z",
       "pushedAt": "2026-03-07T05:54:18.000Z",
       "firstSeenAt": "2026-03-05T18:37:37.175Z",
-      "lastFetchedAt": "2026-03-11T09:04:25.754Z",
-      "activityScore": 12.25
-    },
-    {
-      "id": 1316,
-      "githubId": 1157568152,
-      "fullName": "tiero/claw-cash",
-      "name": "claw-cash",
-      "owner": "tiero",
-      "description": "Bitcoin wallet for AI agents. Stablecoins in, Bitcoin out. Keys in hardware enclaves. Works with OpenClaw, Claude Code, or any agent harness.",
-      "url": "https://github.com/tiero/claw-cash",
-      "homepage": "https://clw.cash",
-      "language": "TypeScript",
-      "stars": 23,
-      "forks": 6,
-      "openIssues": 7,
-      "topics": [
-        "ai-agent",
-        "bitcoin",
-        "bitocin-wallet",
-        "clawdbot",
-        "moltbot",
-        "open-claw",
-        "tether",
-        "usdc",
-        "usdt"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-14T01:14:31.000Z",
-      "updatedAt": "2026-03-10T06:27:39.000Z",
-      "pushedAt": "2026-03-07T18:14:06.000Z",
-      "firstSeenAt": "2026-03-04T22:10:10.581Z",
-      "lastFetchedAt": "2026-03-11T09:04:12.521Z",
-      "activityScore": 13.23
+      "lastFetchedAt": "2026-03-12T09:03:41.091Z",
+      "activityScore": 11.12
     },
     {
       "id": 902,
@@ -4609,35 +4866,7 @@
       "pushedAt": "2026-03-09T06:47:59.000Z",
       "firstSeenAt": "2026-03-04T22:08:39.241Z",
       "lastFetchedAt": "2026-03-09T09:01:57.849Z",
-      "activityScore": 17.09
-    },
-    {
-      "id": 653,
-      "githubId": 1171660818,
-      "fullName": "ymx10086/ResearchClaw",
-      "name": "ResearchClaw",
-      "owner": "ymx10086",
-      "description": "ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.",
-      "url": "https://github.com/ymx10086/ResearchClaw",
-      "homepage": "https://ymx10086.github.io/ResearchClaw/",
-      "language": "Python",
-      "stars": 23,
-      "forks": 3,
-      "openIssues": 2,
-      "topics": [
-        "agent",
-        "copaw",
-        "openclaw",
-        "tools"
-      ],
-      "license": "NOASSERTION",
-      "isArchived": false,
-      "createdAt": "2026-03-03T13:25:43.000Z",
-      "updatedAt": "2026-03-07T07:59:05.000Z",
-      "pushedAt": "2026-03-07T07:21:45.000Z",
-      "firstSeenAt": "2026-03-04T22:07:41.162Z",
-      "lastFetchedAt": "2026-03-07T08:44:02.794Z",
-      "activityScore": 13.49
+      "activityScore": 14.78
     },
     {
       "id": 3908,
@@ -4665,7 +4894,35 @@
       "pushedAt": "2026-03-10T06:15:27.000Z",
       "firstSeenAt": "2026-03-09T08:59:14.554Z",
       "lastFetchedAt": "2026-03-10T09:02:39.939Z",
-      "activityScore": 19.35
+      "activityScore": 17.84
+    },
+    {
+      "id": 2566,
+      "githubId": 1173112314,
+      "fullName": "iridite/openclawer",
+      "name": "openclawer",
+      "owner": "iridite",
+      "description": "One key Openclaw deployment - Deploy and manage OpenClaw AI agents with fnOS",
+      "url": "https://github.com/iridite/openclawer",
+      "homepage": "",
+      "language": "JavaScript",
+      "stars": 22,
+      "forks": 6,
+      "openIssues": 0,
+      "topics": [
+        "dashboard",
+        "fnos",
+        "openclaw",
+        "openclaw-deploy"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-05T02:46:34.000Z",
+      "updatedAt": "2026-03-12T07:27:35.000Z",
+      "pushedAt": "2026-03-12T07:27:31.000Z",
+      "firstSeenAt": "2026-03-06T08:56:51.684Z",
+      "lastFetchedAt": "2026-03-12T08:59:48.273Z",
+      "activityScore": 25.32
     },
     {
       "id": 2032,
@@ -4688,7 +4945,7 @@
       "pushedAt": "2026-03-08T05:35:04.000Z",
       "firstSeenAt": "2026-03-06T08:52:51.781Z",
       "lastFetchedAt": "2026-03-08T08:45:20.726Z",
-      "activityScore": 14.37
+      "activityScore": 13.03
     },
     {
       "id": 50,
@@ -4723,7 +4980,66 @@
       "pushedAt": "2026-03-04T21:38:20.000Z",
       "firstSeenAt": "2026-03-04T21:50:34.875Z",
       "lastFetchedAt": "2026-03-04T22:05:45.757Z",
-      "activityScore": 7.73
+      "activityScore": 6.99
+    },
+    {
+      "id": 5676,
+      "githubId": 1169436009,
+      "fullName": "njbinbin-pisci/openpisci",
+      "name": "openpisci",
+      "owner": "njbinbin-pisci",
+      "description": "AI Agent like OpenClaw but works on windows desktop",
+      "url": "https://github.com/njbinbin-pisci/openpisci",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 21,
+      "forks": 1,
+      "openIssues": 0,
+      "topics": [],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-02-28T17:26:44.000Z",
+      "updatedAt": "2026-03-12T08:18:31.000Z",
+      "pushedAt": "2026-03-12T08:18:42.000Z",
+      "firstSeenAt": "2026-03-12T08:58:44.772Z",
+      "lastFetchedAt": "2026-03-12T08:58:44.771Z",
+      "activityScore": 20.04
+    },
+    {
+      "id": 5006,
+      "githubId": 1178536012,
+      "fullName": "JokerJohn/openclaw-autotrader",
+      "name": "openclaw-autotrader",
+      "owner": "JokerJohn",
+      "description": "A 30-day public U.S. stock challenge: follow a 5000 HKD 🦞 claw through live market days.",
+      "url": "https://github.com/JokerJohn/openclaw-autotrader",
+      "homepage": "",
+      "language": null,
+      "stars": 21,
+      "forks": 0,
+      "openIssues": 0,
+      "topics": [
+        "ai-agent",
+        "algorithmic-trading",
+        "autotrader",
+        "live-trading",
+        "openclaw",
+        "portfolio-tracking",
+        "quant",
+        "tiger-brokers",
+        "tiger-trade",
+        "trader",
+        "trading-journal",
+        "us-stocks"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-11T05:40:52.000Z",
+      "updatedAt": "2026-03-12T08:24:54.000Z",
+      "pushedAt": "2026-03-12T07:09:31.000Z",
+      "firstSeenAt": "2026-03-11T08:57:53.324Z",
+      "lastFetchedAt": "2026-03-12T09:00:41.121Z",
+      "activityScore": 23.23
     },
     {
       "id": 4708,
@@ -4746,30 +5062,37 @@
       "pushedAt": "2026-03-10T07:24:13.000Z",
       "firstSeenAt": "2026-03-10T09:00:59.096Z",
       "lastFetchedAt": "2026-03-10T09:00:59.095Z",
-      "activityScore": 18.13
+      "activityScore": 16.53
     },
     {
-      "id": 1906,
-      "githubId": 1166441393,
-      "fullName": "iswalle/getnote-openclaw",
-      "name": "getnote-openclaw",
-      "owner": "iswalle",
-      "description": "Get 笔记小龙虾配置",
-      "url": "https://github.com/iswalle/getnote-openclaw",
-      "homepage": null,
-      "language": "Python",
+      "id": 1156,
+      "githubId": 1166684523,
+      "fullName": "GMSSH/OpenClaw-Turbo",
+      "name": "OpenClaw-Turbo",
+      "owner": "GMSSH",
+      "description": "🦞The missing visual interface for OpenClaw, turning complex agent orchestration into a seamless dashboard experience.",
+      "url": "https://github.com/GMSSH/OpenClaw-Turbo",
+      "homepage": "https://www.gmssh.com/?ks=Github",
+      "language": "Vue",
       "stars": 21,
-      "forks": 2,
+      "forks": 6,
       "openIssues": 0,
-      "topics": [],
-      "license": null,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "open-claw",
+        "openclaw",
+        "openclaw-dashboard",
+        "openclaw-installer"
+      ],
+      "license": "AGPL-3.0",
       "isArchived": false,
-      "createdAt": "2026-02-25T08:21:46.000Z",
-      "updatedAt": "2026-03-10T08:06:04.000Z",
-      "pushedAt": "2026-03-10T08:06:01.000Z",
-      "firstSeenAt": "2026-03-05T18:37:03.786Z",
-      "lastFetchedAt": "2026-03-10T09:00:07.576Z",
-      "activityScore": 19.22
+      "createdAt": "2026-02-25T13:49:30.000Z",
+      "updatedAt": "2026-03-12T06:47:50.000Z",
+      "pushedAt": "2026-03-03T11:18:05.000Z",
+      "firstSeenAt": "2026-03-04T22:09:34.927Z",
+      "lastFetchedAt": "2026-03-12T09:04:27.975Z",
+      "activityScore": 4.5
     },
     {
       "id": 596,
@@ -4804,7 +5127,7 @@
       "pushedAt": "2026-03-06T07:18:08.000Z",
       "firstSeenAt": "2026-03-04T22:07:27.638Z",
       "lastFetchedAt": "2026-03-06T08:54:54.124Z",
-      "activityScore": 10.62
+      "activityScore": 9.7
     },
     {
       "id": 516,
@@ -4836,7 +5159,7 @@
       "pushedAt": "2026-03-09T08:12:38.000Z",
       "firstSeenAt": "2026-03-04T22:07:10.253Z",
       "lastFetchedAt": "2026-03-09T08:59:49.555Z",
-      "activityScore": 16.72
+      "activityScore": 15.26
     },
     {
       "id": 420,
@@ -4868,33 +5191,7 @@
       "pushedAt": "2026-03-08T06:51:57.000Z",
       "firstSeenAt": "2026-03-04T22:06:49.294Z",
       "lastFetchedAt": "2026-03-08T08:44:14.995Z",
-      "activityScore": 15.88
-    },
-    {
-      "id": 4624,
-      "githubId": 1176662590,
-      "fullName": "zjowowen/InnoClaw",
-      "name": "InnoClaw",
-      "owner": "zjowowen",
-      "description": "An AI research Agent for scientific innovation.",
-      "url": "https://github.com/zjowowen/InnoClaw",
-      "homepage": "https://zjowowen.github.io/InnoClaw/",
-      "language": "TypeScript",
-      "stars": 20,
-      "forks": 0,
-      "openIssues": 2,
-      "topics": [
-        "agent",
-        "openclaw"
-      ],
-      "license": "Apache-2.0",
-      "isArchived": false,
-      "createdAt": "2026-03-09T08:48:10.000Z",
-      "updatedAt": "2026-03-10T08:50:48.000Z",
-      "pushedAt": "2026-03-10T08:03:22.000Z",
-      "firstSeenAt": "2026-03-10T09:00:11.025Z",
-      "lastFetchedAt": "2026-03-10T09:00:11.025Z",
-      "activityScore": 19.59
+      "activityScore": 13.79
     },
     {
       "id": 3857,
@@ -4917,7 +5214,7 @@
       "pushedAt": "2026-03-09T08:49:00.000Z",
       "firstSeenAt": "2026-03-09T08:58:49.204Z",
       "lastFetchedAt": "2026-03-09T08:58:49.203Z",
-      "activityScore": 16.3
+      "activityScore": 14.85
     },
     {
       "id": 3400,
@@ -4940,35 +5237,7 @@
       "pushedAt": "2026-03-09T07:28:43.000Z",
       "firstSeenAt": "2026-03-08T08:43:45.102Z",
       "lastFetchedAt": "2026-03-09T09:00:39.203Z",
-      "activityScore": 16.33
-    },
-    {
-      "id": 2566,
-      "githubId": 1173112314,
-      "fullName": "iridite/openclawer",
-      "name": "openclawer",
-      "owner": "iridite",
-      "description": "One key Openclaw deployment - Deploy and manage OpenClaw AI agents with fnOS",
-      "url": "https://github.com/iridite/openclawer",
-      "homepage": "",
-      "language": "JavaScript",
-      "stars": 20,
-      "forks": 5,
-      "openIssues": 0,
-      "topics": [
-        "dashboard",
-        "fnos",
-        "openclaw",
-        "openclaw-deploy"
-      ],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-03-05T02:46:34.000Z",
-      "updatedAt": "2026-03-11T08:45:59.000Z",
-      "pushedAt": "2026-03-11T08:45:56.000Z",
-      "firstSeenAt": "2026-03-06T08:56:51.684Z",
-      "lastFetchedAt": "2026-03-11T08:58:14.369Z",
-      "activityScore": 24.92
+      "activityScore": 14.9
     },
     {
       "id": 2388,
@@ -5000,11 +5269,48 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-02-13T11:03:22.000Z",
-      "updatedAt": "2026-03-11T08:02:04.000Z",
-      "pushedAt": "2026-03-11T08:02:01.000Z",
+      "updatedAt": "2026-03-12T08:02:54.000Z",
+      "pushedAt": "2026-03-12T08:02:50.000Z",
       "firstSeenAt": "2026-03-06T08:55:51.838Z",
-      "lastFetchedAt": "2026-03-11T09:00:05.451Z",
-      "activityScore": 20.23
+      "lastFetchedAt": "2026-03-12T08:59:01.189Z",
+      "activityScore": 20.25
+    },
+    {
+      "id": 5225,
+      "githubId": 1178511945,
+      "fullName": "wanikua/byebyeclaw",
+      "name": "byebyeclaw",
+      "owner": "wanikua",
+      "description": "One command to uninstall ALL Claw-family AI agents. Zero residue. 一键卸载所有 Claw 家族 AI Agent，无残留。",
+      "url": "https://github.com/wanikua/byebyeclaw",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 19,
+      "forks": 1,
+      "openIssues": 0,
+      "topics": [
+        "ai-agent",
+        "claw",
+        "cleanup",
+        "ironclaw",
+        "microclaw",
+        "moltbot",
+        "nanobot",
+        "nanoclaw",
+        "nullclaw",
+        "openclaw",
+        "tinyclaw",
+        "uninstaller",
+        "zeroclaw"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-11T05:02:26.000Z",
+      "updatedAt": "2026-03-12T07:29:45.000Z",
+      "pushedAt": "2026-03-12T07:29:42.000Z",
+      "firstSeenAt": "2026-03-11T09:00:31.457Z",
+      "lastFetchedAt": "2026-03-12T08:59:37.969Z",
+      "activityScore": 20.27
     },
     {
       "id": 4715,
@@ -5036,7 +5342,7 @@
       "pushedAt": "2026-03-11T08:47:50.000Z",
       "firstSeenAt": "2026-03-10T09:01:03.702Z",
       "lastFetchedAt": "2026-03-11T08:58:04.678Z",
-      "activityScore": 21.25
+      "activityScore": 19.54
     },
     {
       "id": 4349,
@@ -5058,8 +5364,8 @@
       "updatedAt": "2026-03-11T06:54:06.000Z",
       "pushedAt": "2026-03-09T00:35:18.000Z",
       "firstSeenAt": "2026-03-09T09:03:21.858Z",
-      "lastFetchedAt": "2026-03-11T09:03:47.149Z",
-      "activityScore": 15.61
+      "lastFetchedAt": "2026-03-12T09:03:13.665Z",
+      "activityScore": 14.22
     },
     {
       "id": 2569,
@@ -5103,37 +5409,7 @@
       "pushedAt": "2026-03-08T06:26:09.000Z",
       "firstSeenAt": "2026-03-06T08:56:52.671Z",
       "lastFetchedAt": "2026-03-08T08:44:30.219Z",
-      "activityScore": 14.3
-    },
-    {
-      "id": 1156,
-      "githubId": 1166684523,
-      "fullName": "GMSSH/OpenClaw-Turbo",
-      "name": "OpenClaw-Turbo",
-      "owner": "GMSSH",
-      "description": "🚀OpenClaw-Turbo 是一个专为 OpenClaw 打造的全能生产级管理面板。🔥OpenClaw-Turbo is an all-in-one, production-grade management dashboard designed exclusively for the OpenClaw ecosystem. 它彻底终结了 OpenClaw 在国内环境下安装难、配置杂、无界面的痛点，通过全方位的可视化操作，让每一位开发者都能秒级构建属于自己的 AI 军团。",
-      "url": "https://github.com/GMSSH/OpenClaw-Turbo",
-      "homepage": "https://www.gmssh.com/?ks=Github",
-      "language": "Vue",
-      "stars": 19,
-      "forks": 6,
-      "openIssues": 0,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "open-claw",
-        "openclaw",
-        "openclaw-dashboard",
-        "openclaw-installer"
-      ],
-      "license": "AGPL-3.0",
-      "isArchived": false,
-      "createdAt": "2026-02-25T13:49:30.000Z",
-      "updatedAt": "2026-03-10T14:52:18.000Z",
-      "pushedAt": "2026-03-03T11:18:05.000Z",
-      "firstSeenAt": "2026-03-04T22:09:34.927Z",
-      "lastFetchedAt": "2026-03-11T09:05:35.438Z",
-      "activityScore": 4.96
+      "activityScore": 13.05
     },
     {
       "id": 232,
@@ -5156,7 +5432,36 @@
       "pushedAt": "2026-03-04T20:52:19.000Z",
       "firstSeenAt": "2026-03-04T22:06:11.296Z",
       "lastFetchedAt": "2026-03-04T22:06:11.295Z",
-      "activityScore": 7.67
+      "activityScore": 6.93
+    },
+    {
+      "id": 5682,
+      "githubId": 1172543870,
+      "fullName": "kitephp/soul-agent",
+      "name": "soul-agent",
+      "owner": "kitephp",
+      "description": "赋予openclaw持久的灵魂：多层次的人格、心跳驱动的日常生活以及不断发展的关系记忆，从而实现栩栩如生的陪伴。openclaw skill that gives agents a persistent soul: layered persona, heartbeat-driven daily life, and evolving relationship memory for lifelike digital companionship.",
+      "url": "https://github.com/kitephp/soul-agent",
+      "homepage": "",
+      "language": "Python",
+      "stars": 18,
+      "forks": 0,
+      "openIssues": 0,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "openclaw",
+        "soul"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-03-04T12:35:19.000Z",
+      "updatedAt": "2026-03-12T08:52:02.000Z",
+      "pushedAt": "2026-03-12T08:17:23.000Z",
+      "firstSeenAt": "2026-03-12T08:58:46.363Z",
+      "lastFetchedAt": "2026-03-12T08:58:46.362Z",
+      "activityScore": 20.04
     },
     {
       "id": 3868,
@@ -5179,7 +5484,7 @@
       "pushedAt": "2026-03-09T08:45:24.000Z",
       "firstSeenAt": "2026-03-09T08:58:57.136Z",
       "lastFetchedAt": "2026-03-09T08:58:57.136Z",
-      "activityScore": 16.36
+      "activityScore": 14.92
     },
     {
       "id": 3015,
@@ -5202,7 +5507,7 @@
       "pushedAt": "2026-03-07T04:52:19.000Z",
       "firstSeenAt": "2026-03-07T08:45:01.771Z",
       "lastFetchedAt": "2026-03-07T08:45:01.770Z",
-      "activityScore": 12.3
+      "activityScore": 11.22
     },
     {
       "id": 2712,
@@ -5225,7 +5530,34 @@
       "pushedAt": "2026-03-09T08:11:26.000Z",
       "firstSeenAt": "2026-03-07T08:43:30.407Z",
       "lastFetchedAt": "2026-03-09T08:59:44.852Z",
-      "activityScore": 16.42
+      "activityScore": 14.99
+    },
+    {
+      "id": 2278,
+      "githubId": 1162472820,
+      "fullName": "PsProsen-Dev/OpenClaw-On-Android",
+      "name": "OpenClaw-On-Android",
+      "owner": "PsProsen-Dev",
+      "description": "🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.",
+      "url": "https://github.com/PsProsen-Dev/OpenClaw-On-Android",
+      "homepage": "https://psprosen-dev.github.io/OpenClaw-On-Android/",
+      "language": "Shell",
+      "stars": 18,
+      "forks": 3,
+      "openIssues": 0,
+      "topics": [
+        "on",
+        "openclaw",
+        "openclawandroid"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-20T09:59:55.000Z",
+      "updatedAt": "2026-03-11T22:45:14.000Z",
+      "pushedAt": "2026-03-10T00:05:24.000Z",
+      "firstSeenAt": "2026-03-06T08:55:06.143Z",
+      "lastFetchedAt": "2026-03-12T09:02:55.436Z",
+      "activityScore": 18.14
     },
     {
       "id": 557,
@@ -5267,7 +5599,7 @@
       "pushedAt": "2026-03-10T08:44:33.000Z",
       "firstSeenAt": "2026-03-04T22:07:18.764Z",
       "lastFetchedAt": "2026-03-10T08:58:55.709Z",
-      "activityScore": 21.21
+      "activityScore": 18.99
     },
     {
       "id": 5317,
@@ -5286,11 +5618,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-02-15T04:21:00.000Z",
-      "updatedAt": "2026-03-11T07:01:29.000Z",
-      "pushedAt": "2026-03-11T07:01:25.000Z",
+      "updatedAt": "2026-03-12T06:58:26.000Z",
+      "pushedAt": "2026-03-12T06:58:23.000Z",
       "firstSeenAt": "2026-03-11T09:01:17.449Z",
-      "lastFetchedAt": "2026-03-11T09:01:17.449Z",
-      "activityScore": 20.12
+      "lastFetchedAt": "2026-03-12T09:00:53.666Z",
+      "activityScore": 20.21
     },
     {
       "id": 5231,
@@ -5318,7 +5650,7 @@
       "pushedAt": "2026-03-11T07:40:33.000Z",
       "firstSeenAt": "2026-03-11T09:00:33.629Z",
       "lastFetchedAt": "2026-03-11T09:00:33.628Z",
-      "activityScore": 20.48
+      "activityScore": 18.74
     },
     {
       "id": 3306,
@@ -5346,7 +5678,44 @@
       "pushedAt": "2026-03-10T08:55:51.000Z",
       "firstSeenAt": "2026-03-08T08:43:10.168Z",
       "lastFetchedAt": "2026-03-10T09:02:30.191Z",
-      "activityScore": 20.95
+      "activityScore": 19.35
+    },
+    {
+      "id": 1303,
+      "githubId": 1158694854,
+      "fullName": "MarcoDotIO/OpenClawKit",
+      "name": "OpenClawKit",
+      "owner": "MarcoDotIO",
+      "description": "A Swift package SDK for running local OpenClaw-style AI agent workflows inside native Swift applications.",
+      "url": "https://github.com/MarcoDotIO/OpenClawKit",
+      "homepage": "",
+      "language": "Swift",
+      "stars": 17,
+      "forks": 4,
+      "openIssues": 0,
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "ipados",
+        "javascriptcore",
+        "llm",
+        "local-agent-system",
+        "macos",
+        "openclaw",
+        "swift",
+        "tvos",
+        "visionos",
+        "wasm",
+        "watchos"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-15T19:22:54.000Z",
+      "updatedAt": "2026-03-12T08:39:11.000Z",
+      "pushedAt": "2026-03-12T01:16:47.000Z",
+      "firstSeenAt": "2026-03-04T22:10:07.125Z",
+      "lastFetchedAt": "2026-03-12T09:01:59.666Z",
+      "activityScore": 19.61
     },
     {
       "id": 401,
@@ -5389,7 +5758,7 @@
       "pushedAt": "2026-03-06T03:45:16.000Z",
       "firstSeenAt": "2026-03-04T22:06:45.359Z",
       "lastFetchedAt": "2026-03-06T08:56:38.128Z",
-      "activityScore": 12.39
+      "activityScore": 11.58
     },
     {
       "id": 4718,
@@ -5426,7 +5795,7 @@
       "pushedAt": "2026-03-10T07:19:45.000Z",
       "firstSeenAt": "2026-03-10T09:01:04.747Z",
       "lastFetchedAt": "2026-03-10T09:01:04.746Z",
-      "activityScore": 18.05
+      "activityScore": 16.45
     },
     {
       "id": 4003,
@@ -5455,7 +5824,7 @@
       "pushedAt": "2026-03-09T08:02:20.000Z",
       "firstSeenAt": "2026-03-09T09:00:00.327Z",
       "lastFetchedAt": "2026-03-09T09:00:00.326Z",
-      "activityScore": 16.23
+      "activityScore": 14.79
     },
     {
       "id": 2929,
@@ -5478,7 +5847,7 @@
       "pushedAt": "2026-03-08T03:56:41.000Z",
       "firstSeenAt": "2026-03-07T08:44:38.536Z",
       "lastFetchedAt": "2026-03-08T08:46:01.351Z",
-      "activityScore": 14.28
+      "activityScore": 13.05
     },
     {
       "id": 2508,
@@ -5501,7 +5870,7 @@
       "pushedAt": "2026-03-06T03:53:54.000Z",
       "firstSeenAt": "2026-03-06T08:56:35.372Z",
       "lastFetchedAt": "2026-03-06T08:56:35.371Z",
-      "activityScore": 10.17
+      "activityScore": 9.26
     },
     {
       "id": 1670,
@@ -5530,7 +5899,7 @@
       "pushedAt": "2026-03-08T08:01:24.000Z",
       "firstSeenAt": "2026-03-05T18:35:54.385Z",
       "lastFetchedAt": "2026-03-08T08:43:26.032Z",
-      "activityScore": 14.57
+      "activityScore": 13.31
     },
     {
       "id": 5253,
@@ -5565,7 +5934,7 @@
       "pushedAt": "2026-03-11T07:29:47.000Z",
       "firstSeenAt": "2026-03-11T09:00:47.048Z",
       "lastFetchedAt": "2026-03-11T09:00:47.047Z",
-      "activityScore": 20.33
+      "activityScore": 18.58
     },
     {
       "id": 3307,
@@ -5609,7 +5978,7 @@
       "pushedAt": "2026-03-08T08:19:26.000Z",
       "firstSeenAt": "2026-03-08T08:43:10.500Z",
       "lastFetchedAt": "2026-03-08T08:43:10.500Z",
-      "activityScore": 14.45
+      "activityScore": 13.18
     },
     {
       "id": 3175,
@@ -5631,8 +6000,8 @@
       "updatedAt": "2026-03-11T04:16:21.000Z",
       "pushedAt": "2026-03-11T04:25:07.000Z",
       "firstSeenAt": "2026-03-07T08:45:39.790Z",
-      "lastFetchedAt": "2026-03-11T09:02:32.486Z",
-      "activityScore": 21.47
+      "lastFetchedAt": "2026-03-12T09:02:30.488Z",
+      "activityScore": 19.82
     },
     {
       "id": 3071,
@@ -5664,34 +6033,7 @@
       "pushedAt": "2026-03-07T04:09:13.000Z",
       "firstSeenAt": "2026-03-07T08:45:14.893Z",
       "lastFetchedAt": "2026-03-07T08:45:14.892Z",
-      "activityScore": 12.28
-    },
-    {
-      "id": 2278,
-      "githubId": 1162472820,
-      "fullName": "PsProsen-Dev/OpenClaw-On-Android",
-      "name": "OpenClaw-On-Android",
-      "owner": "PsProsen-Dev",
-      "description": "🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.",
-      "url": "https://github.com/PsProsen-Dev/OpenClaw-On-Android",
-      "homepage": "https://psprosen-dev.github.io/OpenClaw-On-Android/",
-      "language": "Shell",
-      "stars": 15,
-      "forks": 3,
-      "openIssues": 0,
-      "topics": [
-        "on",
-        "openclaw",
-        "openclawandroid"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-20T09:59:55.000Z",
-      "updatedAt": "2026-03-10T00:05:28.000Z",
-      "pushedAt": "2026-03-10T00:05:24.000Z",
-      "firstSeenAt": "2026-03-06T08:55:06.143Z",
-      "lastFetchedAt": "2026-03-11T09:03:20.031Z",
-      "activityScore": 19.56
+      "activityScore": 11.21
     },
     {
       "id": 1109,
@@ -5713,8 +6055,8 @@
       "updatedAt": "2026-03-04T19:05:18.000Z",
       "pushedAt": "2026-03-03T20:06:29.000Z",
       "firstSeenAt": "2026-03-04T22:09:26.169Z",
-      "lastFetchedAt": "2026-03-11T09:05:25.787Z",
-      "activityScore": 5.66
+      "lastFetchedAt": "2026-03-12T09:04:21.571Z",
+      "activityScore": 5.13
     },
     {
       "id": 4563,
@@ -5737,44 +6079,7 @@
       "pushedAt": "2026-03-10T08:15:04.000Z",
       "firstSeenAt": "2026-03-10T08:59:46.865Z",
       "lastFetchedAt": "2026-03-10T08:59:46.864Z",
-      "activityScore": 18.09
-    },
-    {
-      "id": 1303,
-      "githubId": 1158694854,
-      "fullName": "MarcoDotIO/OpenClawKit",
-      "name": "OpenClawKit",
-      "owner": "MarcoDotIO",
-      "description": "A Swift package SDK for running local OpenClaw-style AI agent workflows inside native Swift applications.",
-      "url": "https://github.com/MarcoDotIO/OpenClawKit",
-      "homepage": "",
-      "language": "Swift",
-      "stars": 14,
-      "forks": 4,
-      "openIssues": 0,
-      "topics": [
-        "apple-silicon",
-        "ios",
-        "ipados",
-        "javascriptcore",
-        "llm",
-        "local-agent-system",
-        "macos",
-        "openclaw",
-        "swift",
-        "tvos",
-        "visionos",
-        "wasm",
-        "watchos"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-02-15T19:22:54.000Z",
-      "updatedAt": "2026-03-04T03:15:35.000Z",
-      "pushedAt": "2026-03-01T18:46:49.000Z",
-      "firstSeenAt": "2026-03-04T22:10:07.125Z",
-      "lastFetchedAt": "2026-03-07T08:47:02.922Z",
-      "activityScore": 1.74
+      "activityScore": 16.48
     },
     {
       "id": 528,
@@ -5809,11 +6114,11 @@
       "license": "NOASSERTION",
       "isArchived": false,
       "createdAt": "2026-02-23T14:50:54.000Z",
-      "updatedAt": "2026-03-08T08:31:44.000Z",
-      "pushedAt": "2026-03-08T08:31:40.000Z",
+      "updatedAt": "2026-03-12T07:05:51.000Z",
+      "pushedAt": "2026-03-12T07:05:46.000Z",
       "firstSeenAt": "2026-03-04T22:07:12.738Z",
-      "lastFetchedAt": "2026-03-08T08:42:54.036Z",
-      "activityScore": 14.47
+      "lastFetchedAt": "2026-03-12T09:00:44.421Z",
+      "activityScore": 20.48
     },
     {
       "id": 130,
@@ -5850,7 +6155,30 @@
       "pushedAt": "2026-03-08T05:50:36.000Z",
       "firstSeenAt": "2026-03-04T22:05:48.904Z",
       "lastFetchedAt": "2026-03-08T08:45:12.735Z",
-      "activityScore": 15.18
+      "activityScore": 13.38
+    },
+    {
+      "id": 5922,
+      "githubId": 1164529791,
+      "fullName": "arjunkomath/openclaw-railway-template",
+      "name": "openclaw-railway-template",
+      "owner": "arjunkomath",
+      "description": "OpenClaw Railway 1‑click deploy Template",
+      "url": "https://github.com/arjunkomath/openclaw-railway-template",
+      "homepage": "",
+      "language": "HTML",
+      "stars": 13,
+      "forks": 51,
+      "openIssues": 1,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-23T07:29:14.000Z",
+      "updatedAt": "2026-03-12T06:25:43.000Z",
+      "pushedAt": "2026-03-12T06:25:39.000Z",
+      "firstSeenAt": "2026-03-12T09:01:31.505Z",
+      "lastFetchedAt": "2026-03-12T09:01:31.505Z",
+      "activityScore": 19.94
     },
     {
       "id": 5408,
@@ -5873,40 +6201,30 @@
       "pushedAt": "2026-03-11T06:13:06.000Z",
       "firstSeenAt": "2026-03-11T09:02:04.805Z",
       "lastFetchedAt": "2026-03-11T09:02:04.804Z",
-      "activityScore": 20.09
+      "activityScore": 18.34
     },
     {
-      "id": 4849,
-      "githubId": 1176565109,
-      "fullName": "ionclaw-org/ionclaw",
-      "name": "ionclaw",
-      "owner": "ionclaw-org",
-      "description": "A cross-platform AI agent orchestrator in C++ that turns any device — including your phone — into a self-contained, multi-agent automation platform",
-      "url": "https://github.com/ionclaw-org/ionclaw",
-      "homepage": "https://ionclaw.com",
-      "language": "C++",
+      "id": 5043,
+      "githubId": 1178459190,
+      "fullName": "bfilestor/openclaw-manager",
+      "name": "openclaw-manager",
+      "owner": "bfilestor",
+      "description": "龙虾钳子，openclaw管理助手",
+      "url": "https://github.com/bfilestor/openclaw-manager",
+      "homepage": null,
+      "language": "Go",
       "stars": 13,
-      "forks": 1,
+      "forks": 2,
       "openIssues": 0,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-assistant",
-        "ai-workflow",
-        "claw",
-        "ionclaw",
-        "openclaw",
-        "workflow"
-      ],
-      "license": "MIT",
+      "topics": [],
+      "license": "NOASSERTION",
       "isArchived": false,
-      "createdAt": "2026-03-09T06:29:09.000Z",
-      "updatedAt": "2026-03-10T05:59:37.000Z",
-      "pushedAt": "2026-03-10T05:59:33.000Z",
-      "firstSeenAt": "2026-03-10T09:02:51.625Z",
-      "lastFetchedAt": "2026-03-10T09:02:51.625Z",
-      "activityScore": 18.26
+      "createdAt": "2026-03-11T03:27:05.000Z",
+      "updatedAt": "2026-03-12T08:26:43.000Z",
+      "pushedAt": "2026-03-12T07:15:30.000Z",
+      "firstSeenAt": "2026-03-11T08:58:23.799Z",
+      "lastFetchedAt": "2026-03-12T09:00:31.447Z",
+      "activityScore": 22.19
     },
     {
       "id": 3190,
@@ -5928,8 +6246,8 @@
       "updatedAt": "2026-03-10T11:08:57.000Z",
       "pushedAt": "2026-03-10T11:08:55.000Z",
       "firstSeenAt": "2026-03-07T08:45:44.484Z",
-      "lastFetchedAt": "2026-03-11T09:03:03.976Z",
-      "activityScore": 19.03
+      "lastFetchedAt": "2026-03-12T09:02:46.047Z",
+      "activityScore": 17.44
     },
     {
       "id": 2817,
@@ -5957,7 +6275,41 @@
       "pushedAt": "2026-03-09T06:15:56.000Z",
       "firstSeenAt": "2026-03-07T08:44:08.577Z",
       "lastFetchedAt": "2026-03-09T09:02:21.457Z",
-      "activityScore": 16.31
+      "activityScore": 14.89
+    },
+    {
+      "id": 2720,
+      "githubId": 1174614095,
+      "fullName": "HuangYuChuh/ComfyUI_Skills_OpenClaw",
+      "name": "ComfyUI_Skills_OpenClaw",
+      "owner": "HuangYuChuh",
+      "description": "A ComfyUI workflow skill for OpenClaw and other AI agents that support skills.",
+      "url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw",
+      "homepage": "https://huangyuchuh.github.io/ComfyUI_Skills_OpenClaw/",
+      "language": "JavaScript",
+      "stars": 13,
+      "forks": 2,
+      "openIssues": 0,
+      "topics": [
+        "ai-agent",
+        "comfyui",
+        "comfyui-skills",
+        "comfyui-workflow",
+        "image-generation",
+        "llm-tools",
+        "openclaw",
+        "openclaw-skills",
+        "python",
+        "workflow-automation"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-06T16:37:05.000Z",
+      "updatedAt": "2026-03-12T07:57:21.000Z",
+      "pushedAt": "2026-03-12T07:57:18.000Z",
+      "firstSeenAt": "2026-03-07T08:43:38.723Z",
+      "lastFetchedAt": "2026-03-12T08:59:08.014Z",
+      "activityScore": 22.65
     },
     {
       "id": 176,
@@ -5980,41 +6332,65 @@
       "pushedAt": "2026-03-05T17:47:56.000Z",
       "firstSeenAt": "2026-03-04T22:05:59.316Z",
       "lastFetchedAt": "2026-03-05T18:34:45.046Z",
-      "activityScore": 9.4
+      "activityScore": 8.49
     },
     {
-      "id": 4529,
-      "githubId": 1176414483,
-      "fullName": "dongsheng123132/u-claw",
-      "name": "u-claw",
-      "owner": "dongsheng123132",
-      "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
-      "url": "https://github.com/dongsheng123132/u-claw",
-      "homepage": "https://www.u-claw.org/",
-      "language": "HTML",
+      "id": 5710,
+      "githubId": 1179434662,
+      "fullName": "openclawq/clawmonitor",
+      "name": "clawmonitor",
+      "owner": "openclawq",
+      "description": "help you monitor OpenClaw Agents/Sessions.",
+      "url": "https://github.com/openclawq/clawmonitor",
+      "homepage": "",
+      "language": "Python",
       "stars": 12,
-      "forks": 4,
-      "openIssues": 2,
+      "forks": 1,
+      "openIssues": 0,
       "topics": [
-        "ai-assistant",
-        "china",
-        "deepseek",
-        "feishu",
-        "kimi",
-        "offline-installer",
-        "openclaw",
-        "portable",
-        "qq-bot",
-        "usb"
+        "clawdbot",
+        "clawmonitor",
+        "openclaw"
       ],
       "license": "MIT",
       "isArchived": false,
-      "createdAt": "2026-03-09T02:01:51.000Z",
-      "updatedAt": "2026-03-10T08:23:46.000Z",
-      "pushedAt": "2026-03-10T08:23:43.000Z",
-      "firstSeenAt": "2026-03-10T08:59:32.062Z",
-      "lastFetchedAt": "2026-03-10T08:59:32.061Z",
-      "activityScore": 18.88
+      "createdAt": "2026-03-12T02:52:54.000Z",
+      "updatedAt": "2026-03-12T08:19:47.000Z",
+      "pushedAt": "2026-03-12T08:04:49.000Z",
+      "firstSeenAt": "2026-03-12T08:58:59.028Z",
+      "lastFetchedAt": "2026-03-12T08:58:59.028Z",
+      "activityScore": 20.7
+    },
+    {
+      "id": 5699,
+      "githubId": 1179025718,
+      "fullName": "zevorn/rt-claw",
+      "name": "rt-claw",
+      "owner": "zevorn",
+      "description": "Making AI Assistants Cheap Again!",
+      "url": "https://github.com/zevorn/rt-claw",
+      "homepage": "",
+      "language": "C",
+      "stars": 12,
+      "forks": 0,
+      "openIssues": 0,
+      "topics": [
+        "ai",
+        "assistant",
+        "cheap",
+        "clawdbot",
+        "ironclaw",
+        "openclaw",
+        "picoclaw"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-11T15:59:36.000Z",
+      "updatedAt": "2026-03-12T08:55:16.000Z",
+      "pushedAt": "2026-03-12T08:11:12.000Z",
+      "firstSeenAt": "2026-03-12T08:58:52.269Z",
+      "lastFetchedAt": "2026-03-12T08:58:52.268Z",
+      "activityScore": 21.83
     },
     {
       "id": 3029,
@@ -6037,41 +6413,7 @@
       "pushedAt": "2026-03-07T04:40:27.000Z",
       "firstSeenAt": "2026-03-07T08:45:05.402Z",
       "lastFetchedAt": "2026-03-07T08:45:05.401Z",
-      "activityScore": 12.18
-    },
-    {
-      "id": 2720,
-      "githubId": 1174614095,
-      "fullName": "HuangYuChuh/ComfyUI_Skills_OpenClaw",
-      "name": "ComfyUI_Skills_OpenClaw",
-      "owner": "HuangYuChuh",
-      "description": "A ComfyUI workflow skill for OpenClaw and other AI agents that support skills.",
-      "url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw",
-      "homepage": "",
-      "language": "JavaScript",
-      "stars": 12,
-      "forks": 2,
-      "openIssues": 0,
-      "topics": [
-        "ai-agent",
-        "comfyui",
-        "comfyui-skills",
-        "comfyui-workflow",
-        "image-generation",
-        "llm-tools",
-        "openclaw",
-        "openclaw-skills",
-        "python",
-        "workflow-automation"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-03-06T16:37:05.000Z",
-      "updatedAt": "2026-03-11T07:44:14.000Z",
-      "pushedAt": "2026-03-11T05:41:42.000Z",
-      "firstSeenAt": "2026-03-07T08:43:38.723Z",
-      "lastFetchedAt": "2026-03-11T09:02:27.897Z",
-      "activityScore": 22.13
+      "activityScore": 11.1
     },
     {
       "id": 2257,
@@ -6094,7 +6436,7 @@
       "pushedAt": "2026-03-06T07:11:45.000Z",
       "firstSeenAt": "2026-03-06T08:54:57.670Z",
       "lastFetchedAt": "2026-03-06T08:54:57.670Z",
-      "activityScore": 10.4
+      "activityScore": 9.46
     },
     {
       "id": 1456,
@@ -6127,7 +6469,61 @@
       "pushedAt": "2026-03-05T18:03:54.000Z",
       "firstSeenAt": "2026-03-05T18:34:46.127Z",
       "lastFetchedAt": "2026-03-05T18:34:46.126Z",
-      "activityScore": 9.5
+      "activityScore": 8.66
+    },
+    {
+      "id": 287,
+      "githubId": 1161302908,
+      "fullName": "joylarkin/openclaw-security-news",
+      "name": "openclaw-security-news",
+      "owner": "joylarkin",
+      "description": "A collection of news headlines about OpenClaw Security for AI builders, developers, and investors. Updated twice daily.",
+      "url": "https://github.com/joylarkin/openclaw-security-news",
+      "homepage": "",
+      "language": "Python",
+      "stars": 12,
+      "forks": 0,
+      "openIssues": 0,
+      "topics": [
+        "openclaw",
+        "openclaw-advisories",
+        "openclaw-security",
+        "openclaw-security-news",
+        "openclaw-skill",
+        "openclaw-vulnerabilities",
+        "openclaw-warnings"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-19T00:33:46.000Z",
+      "updatedAt": "2026-03-12T08:41:35.000Z",
+      "pushedAt": "2026-03-12T08:41:32.000Z",
+      "firstSeenAt": "2026-03-04T22:06:21.954Z",
+      "lastFetchedAt": "2026-03-12T08:58:14.816Z",
+      "activityScore": 21.65
+    },
+    {
+      "id": 5950,
+      "githubId": 1177918476,
+      "fullName": "phuc-nt/openclaw-skills",
+      "name": "openclaw-skills",
+      "owner": "phuc-nt",
+      "description": null,
+      "url": "https://github.com/phuc-nt/openclaw-skills",
+      "homepage": null,
+      "language": "Python",
+      "stars": 11,
+      "forks": 10,
+      "openIssues": 0,
+      "topics": [],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-03-10T14:01:47.000Z",
+      "updatedAt": "2026-03-12T06:10:17.000Z",
+      "pushedAt": "2026-03-12T06:10:14.000Z",
+      "firstSeenAt": "2026-03-12T09:01:41.167Z",
+      "lastFetchedAt": "2026-03-12T09:01:41.166Z",
+      "activityScore": 19.85
     },
     {
       "id": 4698,
@@ -6150,7 +6546,7 @@
       "pushedAt": "2026-03-10T07:29:46.000Z",
       "firstSeenAt": "2026-03-10T09:00:51.946Z",
       "lastFetchedAt": "2026-03-10T09:00:51.946Z",
-      "activityScore": 18.03
+      "activityScore": 16.42
     },
     {
       "id": 4110,
@@ -6183,7 +6579,7 @@
       "pushedAt": "2026-03-09T07:14:46.000Z",
       "firstSeenAt": "2026-03-09T09:00:59.838Z",
       "lastFetchedAt": "2026-03-09T09:00:59.838Z",
-      "activityScore": 16.14
+      "activityScore": 14.7
     },
     {
       "id": 3901,
@@ -6213,7 +6609,7 @@
       "pushedAt": "2026-03-09T08:36:31.000Z",
       "firstSeenAt": "2026-03-09T08:59:11.418Z",
       "lastFetchedAt": "2026-03-09T08:59:11.417Z",
-      "activityScore": 16.35
+      "activityScore": 14.91
     },
     {
       "id": 3510,
@@ -6250,7 +6646,7 @@
       "pushedAt": "2026-03-08T06:35:44.000Z",
       "firstSeenAt": "2026-03-08T08:44:25.066Z",
       "lastFetchedAt": "2026-03-08T08:44:25.065Z",
-      "activityScore": 14.21
+      "activityScore": 12.94
     },
     {
       "id": 1361,
@@ -6273,7 +6669,7 @@
       "pushedAt": "2026-03-11T05:53:20.000Z",
       "firstSeenAt": "2026-03-05T18:33:50.494Z",
       "lastFetchedAt": "2026-03-11T09:02:20.352Z",
-      "activityScore": 25.85
+      "activityScore": 23.81
     },
     {
       "id": 1335,
@@ -6296,7 +6692,7 @@
       "pushedAt": "2026-03-01T09:27:02.000Z",
       "firstSeenAt": "2026-03-04T22:10:13.941Z",
       "lastFetchedAt": "2026-03-07T08:47:07.151Z",
-      "activityScore": 1
+      "activityScore": 0.87
     },
     {
       "id": 1186,
@@ -6316,10 +6712,10 @@
       "isArchived": false,
       "createdAt": "2026-02-10T15:20:42.000Z",
       "updatedAt": "2026-03-07T14:03:28.000Z",
-      "pushedAt": "2026-03-11T06:37:33.000Z",
+      "pushedAt": "2026-03-12T06:39:12.000Z",
       "firstSeenAt": "2026-03-04T22:09:40.297Z",
-      "lastFetchedAt": "2026-03-11T09:04:20.054Z",
-      "activityScore": 19.87
+      "lastFetchedAt": "2026-03-12T09:03:37.207Z",
+      "activityScore": 19.85
     },
     {
       "id": 936,
@@ -6333,7 +6729,7 @@
       "language": "JavaScript",
       "stars": 11,
       "forks": 8,
-      "openIssues": 3,
+      "openIssues": 0,
       "topics": [],
       "license": null,
       "isArchived": false,
@@ -6341,8 +6737,8 @@
       "updatedAt": "2026-03-06T19:33:28.000Z",
       "pushedAt": "2026-03-04T15:06:40.000Z",
       "firstSeenAt": "2026-03-04T22:08:47.343Z",
-      "lastFetchedAt": "2026-03-11T09:05:13.749Z",
-      "activityScore": 7.55
+      "lastFetchedAt": "2026-03-12T09:04:12.730Z",
+      "activityScore": 6.57
     }
   ]
 }
