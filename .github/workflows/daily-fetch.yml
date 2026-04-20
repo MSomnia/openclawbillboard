@@ -23,6 +23,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Restore database from cache
+        uses: actions/cache@v4
+        with:
+          path: prisma/dev.db
+          key: sqlite-db-${{ github.run_id }}
+          restore-keys: |
+            sqlite-db-
+
       - name: Generate Prisma client
         run: npx prisma generate
 
@@ -46,6 +54,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add prisma/dev.db src/data/
+          git add src/data/
           git diff --staged --quiet || git commit -m "chore: daily data update $(date -u +%Y-%m-%d)"
           git push
