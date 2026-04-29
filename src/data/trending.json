@@ -1,6 +1,46 @@
 {
   "starGrowthTop10": [
     {
+      "id": 76,
+      "githubId": 1024554267,
+      "fullName": "NousResearch/hermes-agent",
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "description": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "language": "Python",
+      "stars": 124021,
+      "forks": 18465,
+      "openIssues": 7064,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "clawdbot",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "moltbot",
+        "nous-research",
+        "openai",
+        "openclaw"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2025-07-22T22:22:28.000Z",
+      "updatedAt": "2026-04-29T10:14:15.000Z",
+      "pushedAt": "2026-04-29T08:20:21.000Z",
+      "firstSeenAt": "2026-04-20T20:52:39.884Z",
+      "lastFetchedAt": "2026-04-29T10:18:07.473Z",
+      "activityScore": 75.43
+    },
+    {
       "id": 744,
       "githubId": 1200597263,
       "fullName": "safishamsi/graphify",
@@ -10,9 +50,9 @@
       "url": "https://github.com/safishamsi/graphify",
       "homepage": "https://graphifylabs.ai/",
       "language": "Python",
-      "stars": 36902,
-      "forks": 4085,
-      "openIssues": 197,
+      "stars": 37683,
+      "forks": 4178,
+      "openIssues": 207,
       "topics": [
         "antigravity",
         "claude-code",
@@ -26,93 +66,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-04-03T15:49:07.000Z",
-      "updatedAt": "2026-04-28T10:22:47.000Z",
-      "pushedAt": "2026-04-28T10:22:40.000Z",
+      "updatedAt": "2026-04-29T10:14:19.000Z",
+      "pushedAt": "2026-04-29T09:02:57.000Z",
       "firstSeenAt": "2026-04-20T20:55:44.934Z",
-      "lastFetchedAt": "2026-04-28T10:25:42.249Z",
-      "activityScore": 31.51
-    },
-    {
-      "id": 2635,
-      "githubId": 1031912724,
-      "fullName": "farion1231/cc-switch",
-      "name": "cc-switch",
-      "owner": "farion1231",
-      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
-      "url": "https://github.com/farion1231/cc-switch",
-      "homepage": "https://github.com/farion1231/cc-switch",
-      "language": "Rust",
-      "stars": 53843,
-      "forks": 3480,
-      "openIssues": 645,
-      "topics": [
-        "ai-tools",
-        "claude-code",
-        "codex",
-        "desktop-app",
-        "mcp",
-        "minimax",
-        "omo",
-        "open-source",
-        "openclaw",
-        "openclaw-ui",
-        "opencode",
-        "provider-management",
-        "rust",
-        "skills",
-        "skills-management",
-        "tauri",
-        "typescript",
-        "wsl-support"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2025-08-04T14:16:16.000Z",
-      "updatedAt": "2026-04-28T10:21:48.000Z",
-      "pushedAt": "2026-04-28T09:09:00.000Z",
-      "firstSeenAt": "2026-04-22T09:50:10.806Z",
-      "lastFetchedAt": "2026-04-28T10:26:48.764Z",
-      "activityScore": 31.29
-    },
-    {
-      "id": 76,
-      "githubId": 1024554267,
-      "fullName": "NousResearch/hermes-agent",
-      "name": "hermes-agent",
-      "owner": "NousResearch",
-      "description": "The agent that grows with you",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "homepage": "https://hermes-agent.nousresearch.com",
-      "language": "Python",
-      "stars": 121767,
-      "forks": 18117,
-      "openIssues": 6871,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "clawdbot",
-        "codex",
-        "hermes",
-        "hermes-agent",
-        "llm",
-        "moltbot",
-        "nous-research",
-        "openai",
-        "openclaw"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2025-07-22T22:22:28.000Z",
-      "updatedAt": "2026-04-28T10:22:04.000Z",
-      "pushedAt": "2026-04-28T09:13:28.000Z",
-      "firstSeenAt": "2026-04-20T20:52:39.884Z",
-      "lastFetchedAt": "2026-04-28T10:26:46.101Z",
-      "activityScore": 75.09
+      "lastFetchedAt": "2026-04-29T10:17:45.903Z",
+      "activityScore": 30.3
     },
     {
       "id": 30,
@@ -124,9 +82,9 @@
       "url": "https://github.com/openclaw/openclaw",
       "homepage": "https://openclaw.ai",
       "language": "TypeScript",
-      "stars": 365597,
-      "forks": 74928,
-      "openIssues": 6997,
+      "stars": 366125,
+      "forks": 75077,
+      "openIssues": 6961,
       "topics": [
         "ai",
         "assistant",
@@ -139,11 +97,84 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2025-11-24T10:16:47.000Z",
-      "updatedAt": "2026-04-28T10:22:27.000Z",
-      "pushedAt": "2026-04-28T10:22:15.000Z",
+      "updatedAt": "2026-04-29T10:13:53.000Z",
+      "pushedAt": "2026-04-29T10:13:57.000Z",
       "firstSeenAt": "2026-04-20T20:52:27.530Z",
-      "lastFetchedAt": "2026-04-28T10:25:44.930Z",
-      "activityScore": 81.86
+      "lastFetchedAt": "2026-04-29T10:16:48.651Z",
+      "activityScore": 81.97
+    },
+    {
+      "id": 972,
+      "githubId": 1206566990,
+      "fullName": "AMAP-ML/SkillClaw",
+      "name": "SkillClaw",
+      "owner": "AMAP-ML",
+      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "url": "https://github.com/AMAP-ML/SkillClaw",
+      "homepage": "",
+      "language": "Python",
+      "stars": 1070,
+      "forks": 102,
+      "openIssues": 12,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-agent",
+        "collective-intelligence",
+        "continual-learning",
+        "hermes",
+        "llm",
+        "llms",
+        "openclaw",
+        "self-evolving",
+        "skill-evolution",
+        "skill-learning",
+        "skills"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-04-10T03:25:47.000Z",
+      "updatedAt": "2026-04-29T09:45:43.000Z",
+      "pushedAt": "2026-04-29T09:45:38.000Z",
+      "firstSeenAt": "2026-04-20T20:56:54.852Z",
+      "lastFetchedAt": "2026-04-29T10:17:21.222Z",
+      "activityScore": 20.51
+    },
+    {
+      "id": 647,
+      "githubId": 1147094660,
+      "fullName": "HKUDS/nanobot",
+      "name": "nanobot",
+      "owner": "HKUDS",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "url": "https://github.com/HKUDS/nanobot",
+      "homepage": "https://nanobot.wiki",
+      "language": "Python",
+      "stars": 41260,
+      "forks": 7239,
+      "openIssues": 881,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "llm",
+        "nanobot",
+        "openai",
+        "openclaw"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-02-01T07:16:15.000Z",
+      "updatedAt": "2026-04-29T09:58:06.000Z",
+      "pushedAt": "2026-04-29T08:57:50.000Z",
+      "firstSeenAt": "2026-04-20T20:55:19.723Z",
+      "lastFetchedAt": "2026-04-29T10:17:50.417Z",
+      "activityScore": 27.33
     },
     {
       "id": 887,
@@ -155,9 +186,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "homepage": "https://www.officecli.ai",
       "language": "C#",
-      "stars": 2375,
-      "forks": 200,
-      "openIssues": 17,
+      "stars": 2491,
+      "forks": 204,
+      "openIssues": 18,
       "topics": [
         "agent",
         "ai",
@@ -169,182 +200,160 @@
       "license": "Apache-2.0",
       "isArchived": false,
       "createdAt": "2026-03-15T07:39:12.000Z",
-      "updatedAt": "2026-04-28T10:21:50.000Z",
-      "pushedAt": "2026-04-28T10:21:46.000Z",
+      "updatedAt": "2026-04-29T10:12:07.000Z",
+      "pushedAt": "2026-04-29T10:02:19.000Z",
       "firstSeenAt": "2026-04-20T20:56:28.300Z",
-      "lastFetchedAt": "2026-04-28T10:25:46.044Z",
-      "activityScore": 39.16
+      "lastFetchedAt": "2026-04-29T10:17:05.664Z",
+      "activityScore": 40.82
     },
     {
-      "id": 894,
-      "githubId": 1202057891,
-      "fullName": "garrytan/gbrain",
-      "name": "gbrain",
-      "owner": "garrytan",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "url": "https://github.com/garrytan/gbrain",
-      "homepage": "",
+      "id": 919,
+      "githubId": 1033778670,
+      "fullName": "iOfficeAI/AionUi",
+      "name": "AionUi",
+      "owner": "iOfficeAI",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "homepage": "https://www.aionui.com",
       "language": "TypeScript",
-      "stars": 11926,
-      "forks": 1452,
-      "openIssues": 301,
-      "topics": [],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-04-05T14:40:56.000Z",
-      "updatedAt": "2026-04-28T10:13:08.000Z",
-      "pushedAt": "2026-04-28T09:30:23.000Z",
-      "firstSeenAt": "2026-04-20T20:56:30.164Z",
-      "lastFetchedAt": "2026-04-28T10:26:31.760Z",
-      "activityScore": 25.32
-    },
-    {
-      "id": 346,
-      "githubId": 1191671352,
-      "fullName": "nex-crm/wuphf",
-      "name": "wuphf",
-      "owner": "nex-crm",
-      "description": "Slack for AI employees that build and maintain their own wiki. Get Claudes, Codexes, OpenClaws and local LLMs to collaborate and do your work autonomously while never losing context.",
-      "url": "https://github.com/nex-crm/wuphf",
-      "homepage": "https://wuphf.team/",
-      "language": "Go",
-      "stars": 693,
-      "forks": 43,
-      "openIssues": 18,
+      "stars": 22842,
+      "forks": 1938,
+      "openIssues": 400,
       "topics": [
-        "agents",
-        "autonomous-agents",
-        "claude-code",
-        "knowledge-graph"
-      ],
-      "license": "MIT",
-      "isArchived": false,
-      "createdAt": "2026-03-25T13:27:01.000Z",
-      "updatedAt": "2026-04-28T10:07:21.000Z",
-      "pushedAt": "2026-04-28T10:03:57.000Z",
-      "firstSeenAt": "2026-04-20T20:53:49.826Z",
-      "lastFetchedAt": "2026-04-28T10:26:01.517Z",
-      "activityScore": 25.26
-    },
-    {
-      "id": 2438,
-      "githubId": 1179413000,
-      "fullName": "Narcooo/inkos",
-      "name": "inkos",
-      "owner": "Narcooo",
-      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-      "url": "https://github.com/Narcooo/inkos",
-      "homepage": "",
-      "language": "TypeScript",
-      "stars": 5090,
-      "forks": 972,
-      "openIssues": 131,
-      "topics": [
-        "agent",
+        "acp",
         "ai",
         "ai-agent",
-        "ai-novel",
-        "ai-writing",
-        "chinese-novel",
-        "cli",
-        "cli-tool",
-        "creative-writing-ai",
-        "novel-ai",
-        "novel-generation",
-        "openclaw"
-      ],
-      "license": "AGPL-3.0",
-      "isArchived": false,
-      "createdAt": "2026-03-12T02:12:54.000Z",
-      "updatedAt": "2026-04-28T10:16:40.000Z",
-      "pushedAt": "2026-04-28T07:05:46.000Z",
-      "firstSeenAt": "2026-04-22T09:47:19.252Z",
-      "lastFetchedAt": "2026-04-28T10:28:07.883Z",
-      "activityScore": 25.14
-    },
-    {
-      "id": 3954,
-      "githubId": 1175490580,
-      "fullName": "taracodlabs/aiden",
-      "name": "aiden",
-      "owner": "taracodlabs",
-      "description": "local-first AI OS for Linux & Windows — 1500+ skills · 89+ tools · 14+ providers · AGPL-3.0",
-      "url": "https://github.com/taracodlabs/aiden",
-      "homepage": "https://aiden.taracod.com",
-      "language": "TypeScript",
-      "stars": 266,
-      "forks": 43,
-      "openIssues": 11,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-os",
-        "ai-skills",
-        "ai-tools",
-        "aiden",
-        "aiden-agent",
-        "electron",
-        "llm",
-        "local-first",
-        "moltbot",
-        "open-source-project",
-        "openclaw",
-        "opensource",
-        "personal-ai",
-        "windows"
-      ],
-      "license": "AGPL-3.0",
-      "isArchived": false,
-      "createdAt": "2026-03-07T19:31:05.000Z",
-      "updatedAt": "2026-04-28T10:11:57.000Z",
-      "pushedAt": "2026-04-28T08:04:04.000Z",
-      "firstSeenAt": "2026-04-27T10:32:45.572Z",
-      "lastFetchedAt": "2026-04-28T10:27:17.189Z",
-      "activityScore": 22.23
-    },
-    {
-      "id": 2315,
-      "githubId": 1153190876,
-      "fullName": "zilliztech/memsearch",
-      "name": "memsearch",
-      "owner": "zilliztech",
-      "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.",
-      "url": "https://github.com/zilliztech/memsearch",
-      "homepage": "https://zilliztech.github.io/memsearch/",
-      "language": "Python",
-      "stars": 1491,
-      "forks": 133,
-      "openIssues": 194,
-      "topics": [
-        "agent",
-        "agent-memory",
-        "ai-agents",
+        "chat",
+        "chatbot",
         "claude-code",
-        "claude-code-plugin",
+        "clawd",
+        "clawdbot",
         "codex",
-        "codex-cli",
-        "embeddings",
-        "harness",
-        "hybrid-search",
-        "long-term-memory",
-        "memory",
-        "milvus",
+        "cowork",
+        "gemini",
+        "gemini-cli",
+        "llm",
+        "nano-banana",
+        "office",
         "openclaw",
         "opencode",
-        "progressive-disclosure",
-        "rag",
-        "reranker",
-        "semantic-search",
-        "skills"
+        "skills",
+        "webui"
       ],
-      "license": "MIT",
+      "license": "Apache-2.0",
       "isArchived": false,
-      "createdAt": "2026-02-09T02:29:16.000Z",
-      "updatedAt": "2026-04-28T09:46:06.000Z",
-      "pushedAt": "2026-04-28T09:46:25.000Z",
-      "firstSeenAt": "2026-04-21T09:54:03.385Z",
-      "lastFetchedAt": "2026-04-28T10:26:16.886Z",
-      "activityScore": 20.93
+      "createdAt": "2025-08-07T10:29:51.000Z",
+      "updatedAt": "2026-04-29T10:11:12.000Z",
+      "pushedAt": "2026-04-29T09:10:53.000Z",
+      "firstSeenAt": "2026-04-20T20:56:38.305Z",
+      "lastFetchedAt": "2026-04-29T10:17:42.416Z",
+      "activityScore": 22.49
+    },
+    {
+      "id": 359,
+      "githubId": 1156956890,
+      "fullName": "zeroclaw-labs/zeroclaw",
+      "name": "zeroclaw",
+      "owner": "zeroclaw-labs",
+      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀",
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "homepage": "https://www.zeroclawlabs.ai/",
+      "language": "Rust",
+      "stars": 30779,
+      "forks": 4497,
+      "openIssues": 344,
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "infra",
+        "ml",
+        "openclaw",
+        "os",
+        "zeroclaw"
+      ],
+      "license": "Apache-2.0",
+      "isArchived": false,
+      "createdAt": "2026-02-13T08:56:04.000Z",
+      "updatedAt": "2026-04-29T10:03:54.000Z",
+      "pushedAt": "2026-04-29T08:09:04.000Z",
+      "firstSeenAt": "2026-04-20T20:53:53.803Z",
+      "lastFetchedAt": "2026-04-29T10:18:13.211Z",
+      "activityScore": 23.83
+    },
+    {
+      "id": 774,
+      "githubId": 805155266,
+      "fullName": "CherryHQ/cherry-studio",
+      "name": "cherry-studio",
+      "owner": "CherryHQ",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "homepage": "https://cherry-ai.com",
+      "language": "TypeScript",
+      "stars": 44726,
+      "forks": 4251,
+      "openIssues": 1104,
+      "topics": [
+        "agency-agents",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "open-cli",
+        "openclaw",
+        "opencode",
+        "skills",
+        "superpowers",
+        "vibe-coding"
+      ],
+      "license": "AGPL-3.0",
+      "isArchived": false,
+      "createdAt": "2024-05-24T01:56:26.000Z",
+      "updatedAt": "2026-04-29T10:13:23.000Z",
+      "pushedAt": "2026-04-29T09:51:51.000Z",
+      "firstSeenAt": "2026-04-20T20:55:54.085Z",
+      "lastFetchedAt": "2026-04-29T10:17:17.208Z",
+      "activityScore": 23.64
+    },
+    {
+      "id": 436,
+      "githubId": 575865240,
+      "fullName": "AstrBotDevs/AstrBot",
+      "name": "AstrBot",
+      "owner": "AstrBotDevs",
+      "description": "AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "homepage": "https://astrbot.app",
+      "language": "Python",
+      "stars": 30951,
+      "forks": 2128,
+      "openIssues": 1062,
+      "topics": [
+        "agent",
+        "ai",
+        "chatbot",
+        "chatgpt",
+        "discord",
+        "docker",
+        "gemini",
+        "gpt",
+        "llama",
+        "llm",
+        "mcp",
+        "openai",
+        "python",
+        "qq",
+        "qqbot",
+        "telegram"
+      ],
+      "license": "AGPL-3.0",
+      "isArchived": false,
+      "createdAt": "2022-12-08T13:27:46.000Z",
+      "updatedAt": "2026-04-29T09:55:00.000Z",
+      "pushedAt": "2026-04-29T09:46:32.000Z",
+      "firstSeenAt": "2026-04-20T20:54:16.124Z",
+      "lastFetchedAt": "2026-04-29T10:17:20.789Z",
+      "activityScore": 23.85
     }
   ],
   "mostActiveTop10": [
@@ -358,9 +367,9 @@
       "url": "https://github.com/openclaw/openclaw",
       "homepage": "https://openclaw.ai",
       "language": "TypeScript",
-      "stars": 365597,
-      "forks": 74928,
-      "openIssues": 6997,
+      "stars": 366125,
+      "forks": 75077,
+      "openIssues": 6961,
       "topics": [
         "ai",
         "assistant",
@@ -373,11 +382,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2025-11-24T10:16:47.000Z",
-      "updatedAt": "2026-04-28T10:22:27.000Z",
-      "pushedAt": "2026-04-28T10:22:15.000Z",
+      "updatedAt": "2026-04-29T10:13:53.000Z",
+      "pushedAt": "2026-04-29T10:13:57.000Z",
       "firstSeenAt": "2026-04-20T20:52:27.530Z",
-      "lastFetchedAt": "2026-04-28T10:25:44.930Z",
-      "activityScore": 81.86
+      "lastFetchedAt": "2026-04-29T10:16:48.651Z",
+      "activityScore": 81.97
     },
     {
       "id": 76,
@@ -389,9 +398,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "homepage": "https://hermes-agent.nousresearch.com",
       "language": "Python",
-      "stars": 121767,
-      "forks": 18117,
-      "openIssues": 6871,
+      "stars": 124021,
+      "forks": 18465,
+      "openIssues": 7064,
       "topics": [
         "ai",
         "ai-agent",
@@ -413,11 +422,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2025-07-22T22:22:28.000Z",
-      "updatedAt": "2026-04-28T10:22:04.000Z",
-      "pushedAt": "2026-04-28T09:13:28.000Z",
+      "updatedAt": "2026-04-29T10:14:15.000Z",
+      "pushedAt": "2026-04-29T08:20:21.000Z",
       "firstSeenAt": "2026-04-20T20:52:39.884Z",
-      "lastFetchedAt": "2026-04-28T10:26:46.101Z",
-      "activityScore": 75.09
+      "lastFetchedAt": "2026-04-29T10:18:07.473Z",
+      "activityScore": 75.43
     },
     {
       "id": 165,
@@ -429,8 +438,8 @@
       "url": "https://github.com/openclaw/skills",
       "homepage": "https://clawhub.ai",
       "language": "Python",
-      "stars": 4409,
-      "forks": 1198,
+      "stars": 4431,
+      "forks": 1203,
       "openIssues": 7,
       "topics": [
         "archive",
@@ -442,11 +451,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-01-06T03:39:15.000Z",
-      "updatedAt": "2026-04-28T10:21:40.000Z",
-      "pushedAt": "2026-04-28T10:06:57.000Z",
+      "updatedAt": "2026-04-29T10:11:40.000Z",
+      "pushedAt": "2026-04-29T10:11:34.000Z",
       "firstSeenAt": "2026-04-20T20:53:02.831Z",
-      "lastFetchedAt": "2026-04-28T10:25:58.697Z",
-      "activityScore": 50.47
+      "lastFetchedAt": "2026-04-29T10:16:55.574Z",
+      "activityScore": 50.51
     },
     {
       "id": 18,
@@ -468,11 +477,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-04-05T08:03:25.000Z",
-      "updatedAt": "2026-04-28T10:22:59.000Z",
-      "pushedAt": "2026-04-28T10:22:55.000Z",
+      "updatedAt": "2026-04-29T10:13:04.000Z",
+      "pushedAt": "2026-04-29T10:12:59.000Z",
       "firstSeenAt": "2026-04-20T20:52:23.502Z",
-      "lastFetchedAt": "2026-04-28T10:25:52.450Z",
-      "activityScore": 50.07
+      "lastFetchedAt": "2026-04-29T10:16:52.297Z",
+      "activityScore": 50.1
     },
     {
       "id": 127,
@@ -491,11 +500,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-02-05T20:42:45.000Z",
-      "updatedAt": "2026-04-28T10:20:06.000Z",
-      "pushedAt": "2026-04-28T10:20:02.000Z",
+      "updatedAt": "2026-04-29T10:10:07.000Z",
+      "pushedAt": "2026-04-29T10:10:02.000Z",
       "firstSeenAt": "2026-04-20T20:52:52.939Z",
-      "lastFetchedAt": "2026-04-28T10:25:50.018Z",
-      "activityScore": 50.06
+      "lastFetchedAt": "2026-04-29T10:16:57.983Z",
+      "activityScore": 50.09
     },
     {
       "id": 65,
@@ -517,11 +526,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-03-10T01:11:02.000Z",
-      "updatedAt": "2026-04-28T10:23:06.000Z",
-      "pushedAt": "2026-04-28T10:23:03.000Z",
+      "updatedAt": "2026-04-29T10:13:12.000Z",
+      "pushedAt": "2026-04-29T10:13:09.000Z",
       "firstSeenAt": "2026-04-20T20:52:36.978Z",
-      "lastFetchedAt": "2026-04-28T10:25:55.072Z",
-      "activityScore": 50.06
+      "lastFetchedAt": "2026-04-29T10:16:51.606Z",
+      "activityScore": 50.09
     },
     {
       "id": 64,
@@ -540,11 +549,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-04-06T18:23:24.000Z",
-      "updatedAt": "2026-04-28T10:20:09.000Z",
-      "pushedAt": "2026-04-28T10:20:05.000Z",
+      "updatedAt": "2026-04-29T10:10:11.000Z",
+      "pushedAt": "2026-04-29T10:10:07.000Z",
       "firstSeenAt": "2026-04-20T20:52:36.530Z",
-      "lastFetchedAt": "2026-04-28T10:25:49.585Z",
-      "activityScore": 50.06
+      "lastFetchedAt": "2026-04-29T10:16:57.534Z",
+      "activityScore": 50.09
     },
     {
       "id": 12,
@@ -563,11 +572,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-03-21T08:27:19.000Z",
-      "updatedAt": "2026-04-28T10:21:28.000Z",
-      "pushedAt": "2026-04-28T10:21:24.000Z",
+      "updatedAt": "2026-04-29T10:06:00.000Z",
+      "pushedAt": "2026-04-29T10:05:55.000Z",
       "firstSeenAt": "2026-04-20T20:52:21.727Z",
-      "lastFetchedAt": "2026-04-28T10:25:47.092Z",
-      "activityScore": 50.06
+      "lastFetchedAt": "2026-04-29T10:17:03.552Z",
+      "activityScore": 50.09
     },
     {
       "id": 231,
@@ -586,11 +595,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-03-08T23:32:39.000Z",
-      "updatedAt": "2026-04-28T10:00:21.000Z",
-      "pushedAt": "2026-04-28T10:00:18.000Z",
+      "updatedAt": "2026-04-29T10:00:28.000Z",
+      "pushedAt": "2026-04-29T10:00:17.000Z",
       "firstSeenAt": "2026-04-20T20:53:18.708Z",
-      "lastFetchedAt": "2026-04-28T10:26:04.827Z",
-      "activityScore": 50.05
+      "lastFetchedAt": "2026-04-29T10:17:06.352Z",
+      "activityScore": 50.08
     },
     {
       "id": 42,
@@ -622,11 +631,11 @@
       "license": null,
       "isArchived": false,
       "createdAt": "2026-03-11T05:40:52.000Z",
-      "updatedAt": "2026-04-28T10:17:18.000Z",
-      "pushedAt": "2026-04-28T10:17:13.000Z",
+      "updatedAt": "2026-04-29T10:07:49.000Z",
+      "pushedAt": "2026-04-29T10:07:44.000Z",
       "firstSeenAt": "2026-04-20T20:52:30.515Z",
-      "lastFetchedAt": "2026-04-28T10:25:52.007Z",
-      "activityScore": 49.03
+      "lastFetchedAt": "2026-04-29T10:17:01.127Z",
+      "activityScore": 49.92
     }
   ],
   "newAndRising": [
@@ -640,9 +649,9 @@
       "url": "https://github.com/safishamsi/graphify",
       "homepage": "https://graphifylabs.ai/",
       "language": "Python",
-      "stars": 36902,
-      "forks": 4085,
-      "openIssues": 197,
+      "stars": 37683,
+      "forks": 4178,
+      "openIssues": 207,
       "topics": [
         "antigravity",
         "claude-code",
@@ -656,11 +665,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-04-03T15:49:07.000Z",
-      "updatedAt": "2026-04-28T10:22:47.000Z",
-      "pushedAt": "2026-04-28T10:22:40.000Z",
+      "updatedAt": "2026-04-29T10:14:19.000Z",
+      "pushedAt": "2026-04-29T09:02:57.000Z",
       "firstSeenAt": "2026-04-20T20:55:44.934Z",
-      "lastFetchedAt": "2026-04-28T10:25:42.249Z",
-      "activityScore": 31.51
+      "lastFetchedAt": "2026-04-29T10:17:45.903Z",
+      "activityScore": 30.3
     },
     {
       "id": 894,
@@ -683,7 +692,7 @@
       "pushedAt": "2026-04-28T09:30:23.000Z",
       "firstSeenAt": "2026-04-20T20:56:30.164Z",
       "lastFetchedAt": "2026-04-28T10:26:31.760Z",
-      "activityScore": 25.32
+      "activityScore": 23.56
     },
     {
       "id": 2285,
@@ -695,18 +704,18 @@
       "url": "https://github.com/codejunkie99/agentic-stack",
       "homepage": "",
       "language": "Python",
-      "stars": 1671,
-      "forks": 209,
+      "stars": 1740,
+      "forks": 221,
       "openIssues": 1,
       "topics": [],
       "license": "Apache-2.0",
       "isArchived": false,
       "createdAt": "2026-04-15T13:45:41.000Z",
-      "updatedAt": "2026-04-27T10:07:39.000Z",
-      "pushedAt": "2026-04-27T10:01:33.000Z",
+      "updatedAt": "2026-04-29T08:07:28.000Z",
+      "pushedAt": "2026-04-29T07:50:42.000Z",
       "firstSeenAt": "2026-04-21T09:53:51.187Z",
-      "lastFetchedAt": "2026-04-27T10:28:18.977Z",
-      "activityScore": 21.62
+      "lastFetchedAt": "2026-04-29T10:18:20.843Z",
+      "activityScore": 22.47
     },
     {
       "id": 972,
@@ -718,9 +727,9 @@
       "url": "https://github.com/AMAP-ML/SkillClaw",
       "homepage": "",
       "language": "Python",
-      "stars": 881,
-      "forks": 87,
-      "openIssues": 8,
+      "stars": 1070,
+      "forks": 102,
+      "openIssues": 12,
       "topics": [
         "agent",
         "agentic-ai",
@@ -739,11 +748,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-04-10T03:25:47.000Z",
-      "updatedAt": "2026-04-22T09:13:30.000Z",
-      "pushedAt": "2026-04-22T09:13:25.000Z",
+      "updatedAt": "2026-04-29T09:45:43.000Z",
+      "pushedAt": "2026-04-29T09:45:38.000Z",
       "firstSeenAt": "2026-04-20T20:56:54.852Z",
-      "lastFetchedAt": "2026-04-22T09:47:19.591Z",
-      "activityScore": 15.95
+      "lastFetchedAt": "2026-04-29T10:17:21.222Z",
+      "activityScore": 20.51
     },
     {
       "id": 3407,
@@ -774,7 +783,7 @@
       "pushedAt": "2026-04-26T07:23:42.000Z",
       "firstSeenAt": "2026-04-25T09:09:23.200Z",
       "lastFetchedAt": "2026-04-26T09:13:27.938Z",
-      "activityScore": 19.4
+      "activityScore": 18.79
     },
     {
       "id": 1096,
@@ -786,9 +795,9 @@
       "url": "https://github.com/YeQing17-2026/OmniAgent",
       "homepage": "https://yeqing17-2026.github.io/OmniAgent/",
       "language": "Python",
-      "stars": 556,
-      "forks": 107,
-      "openIssues": 5,
+      "stars": 581,
+      "forks": 112,
+      "openIssues": 9,
       "topics": [
         "agent",
         "hermes",
@@ -797,11 +806,11 @@
       "license": "NOASSERTION",
       "isArchived": false,
       "createdAt": "2026-04-16T14:04:36.000Z",
-      "updatedAt": "2026-04-28T10:03:02.000Z",
+      "updatedAt": "2026-04-29T08:59:15.000Z",
       "pushedAt": "2026-04-19T14:28:59.000Z",
       "firstSeenAt": "2026-04-20T20:57:32.843Z",
-      "lastFetchedAt": "2026-04-28T10:30:56.639Z",
-      "activityScore": 14.25
+      "lastFetchedAt": "2026-04-29T10:22:11.073Z",
+      "activityScore": 13.76
     },
     {
       "id": 355,
@@ -824,7 +833,7 @@
       "pushedAt": "2026-04-26T04:17:00.000Z",
       "firstSeenAt": "2026-04-20T20:53:52.501Z",
       "lastFetchedAt": "2026-04-26T09:16:41.842Z",
-      "activityScore": 21.49
+      "activityScore": 20.21
     },
     {
       "id": 2186,
@@ -836,9 +845,9 @@
       "url": "https://github.com/mm7894215/TokenTracker",
       "homepage": "https://token.rynn.me",
       "language": "JavaScript",
-      "stars": 342,
-      "forks": 30,
-      "openIssues": 11,
+      "stars": 351,
+      "forks": 31,
+      "openIssues": 12,
       "topics": [
         "ai-tools",
         "claude-code",
@@ -860,11 +869,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-04-05T12:02:23.000Z",
-      "updatedAt": "2026-04-28T08:40:34.000Z",
-      "pushedAt": "2026-04-28T06:46:23.000Z",
+      "updatedAt": "2026-04-29T09:32:53.000Z",
+      "pushedAt": "2026-04-29T07:38:27.000Z",
       "firstSeenAt": "2026-04-21T09:51:33.008Z",
-      "lastFetchedAt": "2026-04-28T10:29:03.816Z",
-      "activityScore": 20.47
+      "lastFetchedAt": "2026-04-29T10:18:27.127Z",
+      "activityScore": 20.77
     },
     {
       "id": 2009,
@@ -876,9 +885,9 @@
       "url": "https://github.com/matevip/mateclaw",
       "homepage": "https://claw.mate.vip",
       "language": "Java",
-      "stars": 295,
-      "forks": 94,
-      "openIssues": 11,
+      "stars": 327,
+      "forks": 105,
+      "openIssues": 13,
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -901,11 +910,11 @@
       "license": "Apache-2.0",
       "isArchived": false,
       "createdAt": "2026-04-04T10:53:35.000Z",
-      "updatedAt": "2026-04-28T10:21:34.000Z",
-      "pushedAt": "2026-04-28T07:03:42.000Z",
+      "updatedAt": "2026-04-29T09:52:21.000Z",
+      "pushedAt": "2026-04-29T08:45:37.000Z",
       "firstSeenAt": "2026-04-21T09:50:02.615Z",
-      "lastFetchedAt": "2026-04-28T10:28:14.294Z",
-      "activityScore": 24.23
+      "lastFetchedAt": "2026-04-29T10:17:55.237Z",
+      "activityScore": 25.07
     },
     {
       "id": 2439,
@@ -917,8 +926,8 @@
       "url": "https://github.com/lotsoftick/openclaw_client",
       "homepage": "",
       "language": "TypeScript",
-      "stars": 174,
-      "forks": 17,
+      "stars": 198,
+      "forks": 19,
       "openIssues": 0,
       "topics": [
         "ai",
@@ -932,11 +941,77 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-03-30T15:29:19.000Z",
-      "updatedAt": "2026-04-27T08:43:44.000Z",
-      "pushedAt": "2026-04-27T07:51:34.000Z",
+      "updatedAt": "2026-04-29T07:42:04.000Z",
+      "pushedAt": "2026-04-29T07:42:00.000Z",
       "firstSeenAt": "2026-04-22T09:47:19.437Z",
-      "lastFetchedAt": "2026-04-27T10:30:40.627Z",
-      "activityScore": 19.54
+      "lastFetchedAt": "2026-04-29T10:18:23.185Z",
+      "activityScore": 20.25
+    },
+    {
+      "id": 4305,
+      "githubId": 1203841842,
+      "fullName": "mode-io/skill-manager",
+      "name": "skill-manager",
+      "owner": "mode-io",
+      "description": "Manage skills across Codex CLI, Claude Code, Cursor, OpenCode, and OpenClaw from one local app.",
+      "url": "https://github.com/mode-io/skill-manager",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 106,
+      "forks": 6,
+      "openIssues": 0,
+      "topics": [
+        "agent-tools",
+        "claude-code",
+        "codex-cli",
+        "cursor",
+        "developer-tools",
+        "homebrew",
+        "macos",
+        "npm",
+        "openclaw",
+        "opencode",
+        "skill-manager",
+        "skills"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-04-07T12:41:34.000Z",
+      "updatedAt": "2026-04-29T10:01:42.000Z",
+      "pushedAt": "2026-04-29T10:06:29.000Z",
+      "firstSeenAt": "2026-04-29T10:17:21.035Z",
+      "lastFetchedAt": "2026-04-29T10:17:21.034Z",
+      "activityScore": 20.09
+    },
+    {
+      "id": 4384,
+      "githubId": 1214283720,
+      "fullName": "JackLuguibin/OpenPawlet",
+      "name": "OpenPawlet",
+      "owner": "JackLuguibin",
+      "description": "OpenPawlet (PyPI package name open-pawlet) is a single-process web console for the OpenPawlet ecosystem. It exposes an HTTP API, a browser UI, an OpenAI-compatible /v1/* surface and the embedded agent runtime",
+      "url": "https://github.com/JackLuguibin/OpenPawlet",
+      "homepage": "",
+      "language": "Python",
+      "stars": 101,
+      "forks": 8,
+      "openIssues": 138,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "nanobot",
+        "openclaw",
+        "openpawlet"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-04-18T11:09:51.000Z",
+      "updatedAt": "2026-04-29T08:13:20.000Z",
+      "pushedAt": "2026-04-29T08:13:16.000Z",
+      "firstSeenAt": "2026-04-29T10:18:10.214Z",
+      "lastFetchedAt": "2026-04-29T10:18:10.213Z",
+      "activityScore": 20.81
     },
     {
       "id": 2630,
@@ -967,7 +1042,7 @@
       "pushedAt": "2026-04-27T05:06:24.000Z",
       "firstSeenAt": "2026-04-22T09:50:08.888Z",
       "lastFetchedAt": "2026-04-27T10:32:39.093Z",
-      "activityScore": 19.32
+      "activityScore": 18.64
     },
     {
       "id": 1401,
@@ -989,8 +1064,8 @@
       "updatedAt": "2026-04-26T10:20:45.000Z",
       "pushedAt": "2026-04-12T23:48:53.000Z",
       "firstSeenAt": "2026-04-20T20:58:54.375Z",
-      "lastFetchedAt": "2026-04-28T10:31:42.182Z",
-      "activityScore": 8.93
+      "lastFetchedAt": "2026-04-29T10:22:57.193Z",
+      "activityScore": 8.63
     },
     {
       "id": 2476,
@@ -1013,7 +1088,7 @@
       "pushedAt": "2026-04-22T08:50:58.000Z",
       "firstSeenAt": "2026-04-22T09:47:35.118Z",
       "lastFetchedAt": "2026-04-22T09:47:35.118Z",
-      "activityScore": 15.84
+      "activityScore": 15.16
     },
     {
       "id": 250,
@@ -1057,7 +1132,7 @@
       "pushedAt": "2026-04-27T03:56:10.000Z",
       "firstSeenAt": "2026-04-20T20:53:23.767Z",
       "lastFetchedAt": "2026-04-27T10:33:52.207Z",
-      "activityScore": 20.35
+      "activityScore": 19.72
     },
     {
       "id": 2346,
@@ -1080,7 +1155,7 @@
       "pushedAt": "2026-04-21T05:55:55.000Z",
       "firstSeenAt": "2026-04-21T09:54:14.828Z",
       "lastFetchedAt": "2026-04-21T09:54:14.827Z",
-      "activityScore": 14.86
+      "activityScore": 14.37
     },
     {
       "id": 3574,
@@ -1116,7 +1191,7 @@
       "pushedAt": "2026-04-26T07:36:54.000Z",
       "firstSeenAt": "2026-04-26T09:13:21.054Z",
       "lastFetchedAt": "2026-04-26T09:13:21.054Z",
-      "activityScore": 18.87
+      "activityScore": 18.26
     },
     {
       "id": 18,
@@ -1138,11 +1213,11 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-04-05T08:03:25.000Z",
-      "updatedAt": "2026-04-28T10:22:59.000Z",
-      "pushedAt": "2026-04-28T10:22:55.000Z",
+      "updatedAt": "2026-04-29T10:13:04.000Z",
+      "pushedAt": "2026-04-29T10:12:59.000Z",
       "firstSeenAt": "2026-04-20T20:52:23.502Z",
-      "lastFetchedAt": "2026-04-28T10:25:52.450Z",
-      "activityScore": 50.07
+      "lastFetchedAt": "2026-04-29T10:16:52.297Z",
+      "activityScore": 50.1
     },
     {
       "id": 3692,
@@ -1184,7 +1259,7 @@
       "pushedAt": "2026-04-27T10:16:20.000Z",
       "firstSeenAt": "2026-04-26T09:16:46.429Z",
       "lastFetchedAt": "2026-04-27T10:31:34.968Z",
-      "activityScore": 19.59
+      "activityScore": 18.95
     },
     {
       "id": 2193,
@@ -1224,7 +1299,7 @@
       "pushedAt": "2026-04-28T08:21:01.000Z",
       "firstSeenAt": "2026-04-21T09:52:01.794Z",
       "lastFetchedAt": "2026-04-28T10:27:10.311Z",
-      "activityScore": 20.39
+      "activityScore": 19.56
     },
     {
       "id": 2567,
@@ -1266,7 +1341,7 @@
       "pushedAt": "2026-04-22T07:28:35.000Z",
       "firstSeenAt": "2026-04-22T09:49:40.164Z",
       "lastFetchedAt": "2026-04-22T09:49:40.163Z",
-      "activityScore": 15.71
+      "activityScore": 15.12
     },
     {
       "id": 2581,
@@ -1297,7 +1372,7 @@
       "pushedAt": "2026-04-22T07:16:54.000Z",
       "firstSeenAt": "2026-04-22T09:49:51.102Z",
       "lastFetchedAt": "2026-04-22T09:49:51.101Z",
-      "activityScore": 15.67
+      "activityScore": 15.11
     },
     {
       "id": 3185,
@@ -1320,7 +1395,7 @@
       "pushedAt": "2026-04-26T08:17:27.000Z",
       "firstSeenAt": "2026-04-24T09:57:57.717Z",
       "lastFetchedAt": "2026-04-26T09:12:55.768Z",
-      "activityScore": 18.73
+      "activityScore": 18.12
     },
     {
       "id": 3391,
@@ -1352,7 +1427,7 @@
       "pushedAt": "2026-04-25T05:59:41.000Z",
       "firstSeenAt": "2026-04-25T09:09:16.323Z",
       "lastFetchedAt": "2026-04-25T09:09:16.322Z",
-      "activityScore": 17.8
+      "activityScore": 17.21
     },
     {
       "id": 2591,
@@ -1375,7 +1450,7 @@
       "pushedAt": "2026-04-22T07:10:10.000Z",
       "firstSeenAt": "2026-04-22T09:49:54.438Z",
       "lastFetchedAt": "2026-04-22T09:49:54.437Z",
-      "activityScore": 16
+      "activityScore": 15.11
     },
     {
       "id": 2221,
@@ -1401,7 +1476,7 @@
       "pushedAt": "2026-04-21T07:30:27.000Z",
       "firstSeenAt": "2026-04-21T09:53:05.125Z",
       "lastFetchedAt": "2026-04-21T09:53:05.124Z",
-      "activityScore": 14.9
+      "activityScore": 14.42
     },
     {
       "id": 1441,
@@ -1430,8 +1505,85 @@
       "updatedAt": "2026-04-19T10:30:13.000Z",
       "pushedAt": "2026-04-11T21:21:16.000Z",
       "firstSeenAt": "2026-04-20T20:59:04.028Z",
-      "lastFetchedAt": "2026-04-28T10:31:49.470Z",
-      "activityScore": 8.08
+      "lastFetchedAt": "2026-04-29T10:23:04.776Z",
+      "activityScore": 7.83
+    },
+    {
+      "id": 2707,
+      "githubId": 1209765610,
+      "fullName": "thinkwee/HiMe",
+      "name": "HiMe",
+      "owner": "thinkwee",
+      "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+      "url": "https://github.com/thinkwee/HiMe",
+      "homepage": "https://thinkwee.top/hime/",
+      "language": "Python",
+      "stars": 31,
+      "forks": 3,
+      "openIssues": 2,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-agent",
+        "health",
+        "health-agents",
+        "llm",
+        "llm-agent",
+        "multi-agent",
+        "openclaw",
+        "personal-agent",
+        "personal-assistant",
+        "wearable"
+      ],
+      "license": "NOASSERTION",
+      "isArchived": false,
+      "createdAt": "2026-04-13T18:59:10.000Z",
+      "updatedAt": "2026-04-29T09:15:06.000Z",
+      "pushedAt": "2026-04-29T09:15:03.000Z",
+      "firstSeenAt": "2026-04-23T09:55:28.303Z",
+      "lastFetchedAt": "2026-04-29T10:17:39.749Z",
+      "activityScore": 20.5
+    },
+    {
+      "id": 577,
+      "githubId": 1198923088,
+      "fullName": "Hermylivid261/codex_register",
+      "name": "codex_register",
+      "owner": "Hermylivid261",
+      "description": "Automate ChatGPT registration and extract OAuth access_token and refresh_token with email handling, Sentinel bypass, and PKCE capture",
+      "url": "https://github.com/Hermylivid261/codex_register",
+      "homepage": null,
+      "language": "Python",
+      "stars": 31,
+      "forks": 15,
+      "openIssues": 0,
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "auto-register",
+        "chatgpt",
+        "clawhub",
+        "codex",
+        "codex-cli",
+        "codex-free",
+        "hashgraph",
+        "hedera",
+        "mcp",
+        "oauth",
+        "openai",
+        "openclaw",
+        "playwright",
+        "registry-broker",
+        "token"
+      ],
+      "license": null,
+      "isArchived": false,
+      "createdAt": "2026-04-01T22:25:50.000Z",
+      "updatedAt": "2026-04-29T09:11:15.000Z",
+      "pushedAt": "2026-04-29T07:19:28.000Z",
+      "firstSeenAt": "2026-04-20T20:54:58.732Z",
+      "lastFetchedAt": "2026-04-29T10:19:07.174Z",
+      "activityScore": 20.32
     },
     {
       "id": 3168,
@@ -1470,7 +1622,7 @@
       "pushedAt": "2026-04-24T06:43:43.000Z",
       "firstSeenAt": "2026-04-24T09:57:47.816Z",
       "lastFetchedAt": "2026-04-24T09:57:47.815Z",
-      "activityScore": 17.1
+      "activityScore": 16.54
     },
     {
       "id": 2341,
@@ -1497,7 +1649,7 @@
       "pushedAt": "2026-04-27T06:23:45.000Z",
       "firstSeenAt": "2026-04-21T09:54:13.228Z",
       "lastFetchedAt": "2026-04-27T10:31:50.400Z",
-      "activityScore": 19.43
+      "activityScore": 18.8
     },
     {
       "id": 795,
@@ -1531,48 +1683,7 @@
       "pushedAt": "2026-04-20T17:43:17.000Z",
       "firstSeenAt": "2026-04-20T20:56:00.403Z",
       "lastFetchedAt": "2026-04-20T20:56:00.403Z",
-      "activityScore": 14.49
-    },
-    {
-      "id": 577,
-      "githubId": 1198923088,
-      "fullName": "Hermylivid261/codex_register",
-      "name": "codex_register",
-      "owner": "Hermylivid261",
-      "description": "Automate ChatGPT registration and extract OAuth access_token and refresh_token with email handling, Sentinel bypass, and PKCE capture",
-      "url": "https://github.com/Hermylivid261/codex_register",
-      "homepage": null,
-      "language": "Python",
-      "stars": 29,
-      "forks": 15,
-      "openIssues": 0,
-      "topics": [
-        "a2a",
-        "ai-agents",
-        "auto-register",
-        "chatgpt",
-        "clawhub",
-        "codex",
-        "codex-cli",
-        "codex-free",
-        "hashgraph",
-        "hedera",
-        "mcp",
-        "oauth",
-        "openai",
-        "openclaw",
-        "playwright",
-        "registry-broker",
-        "token"
-      ],
-      "license": null,
-      "isArchived": false,
-      "createdAt": "2026-04-01T22:25:50.000Z",
-      "updatedAt": "2026-04-28T08:33:44.000Z",
-      "pushedAt": "2026-04-28T07:05:37.000Z",
-      "firstSeenAt": "2026-04-20T20:54:58.732Z",
-      "lastFetchedAt": "2026-04-28T10:28:08.556Z",
-      "activityScore": 20.27
+      "activityScore": 14.02
     },
     {
       "id": 2899,
@@ -1600,7 +1711,7 @@
       "pushedAt": "2026-04-23T06:35:57.000Z",
       "firstSeenAt": "2026-04-23T09:58:14.578Z",
       "lastFetchedAt": "2026-04-23T09:58:14.577Z",
-      "activityScore": 16.97
+      "activityScore": 16.43
     },
     {
       "id": 3266,
@@ -1630,7 +1741,7 @@
       "pushedAt": "2026-04-27T07:18:24.000Z",
       "firstSeenAt": "2026-04-25T09:06:51.102Z",
       "lastFetchedAt": "2026-04-27T10:31:46.496Z",
-      "activityScore": 20.91
+      "activityScore": 20.27
     },
     {
       "id": 2859,
@@ -1666,7 +1777,7 @@
       "pushedAt": "2026-04-25T06:29:53.000Z",
       "firstSeenAt": "2026-04-23T09:56:50.090Z",
       "lastFetchedAt": "2026-04-25T09:09:08.333Z",
-      "activityScore": 17.87
+      "activityScore": 17.28
     },
     {
       "id": 60,
@@ -1680,7 +1791,7 @@
       "language": "Rust",
       "stars": 25,
       "forks": 0,
-      "openIssues": 5,
+      "openIssues": 6,
       "topics": [
         "apple-silicon",
         "asr",
@@ -1697,11 +1808,39 @@
       "license": "MIT",
       "isArchived": false,
       "createdAt": "2026-04-06T13:24:50.000Z",
-      "updatedAt": "2026-04-27T06:15:01.000Z",
-      "pushedAt": "2026-04-27T06:14:58.000Z",
+      "updatedAt": "2026-04-29T09:42:41.000Z",
+      "pushedAt": "2026-04-29T09:43:21.000Z",
       "firstSeenAt": "2026-04-20T20:52:35.608Z",
-      "lastFetchedAt": "2026-04-27T10:32:00.126Z",
-      "activityScore": 19.91
+      "lastFetchedAt": "2026-04-29T10:17:23.801Z",
+      "activityScore": 21
+    },
+    {
+      "id": 4367,
+      "githubId": 1208035028,
+      "fullName": "Rustam-Z/pyclaudir",
+      "name": "pyclaudir",
+      "owner": "Rustam-Z",
+      "description": "Your personal self-evolving AI agent. In Telegram. With your rules.",
+      "url": "https://github.com/Rustam-Z/pyclaudir",
+      "homepage": "",
+      "language": "Python",
+      "stars": 22,
+      "forks": 8,
+      "openIssues": 1,
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "nanoclaw",
+        "openclaw"
+      ],
+      "license": "MIT",
+      "isArchived": false,
+      "createdAt": "2026-04-11T18:22:10.000Z",
+      "updatedAt": "2026-04-29T08:38:56.000Z",
+      "pushedAt": "2026-04-29T08:38:52.000Z",
+      "firstSeenAt": "2026-04-29T10:17:58.979Z",
+      "lastFetchedAt": "2026-04-29T10:17:58.978Z",
+      "activityScore": 20.34
     },
     {
       "id": 3456,
@@ -1724,7 +1863,7 @@
       "pushedAt": "2026-04-25T09:04:38.000Z",
       "firstSeenAt": "2026-04-25T09:09:36.301Z",
       "lastFetchedAt": "2026-04-25T09:09:36.301Z",
-      "activityScore": 18.19
+      "activityScore": 17.6
     },
     {
       "id": 819,
@@ -1754,7 +1893,7 @@
       "pushedAt": "2026-04-20T17:11:52.000Z",
       "firstSeenAt": "2026-04-20T20:56:07.551Z",
       "lastFetchedAt": "2026-04-20T20:56:07.550Z",
-      "activityScore": 14.47
+      "activityScore": 14
     },
     {
       "id": 2172,
@@ -1798,7 +1937,7 @@
       "pushedAt": "2026-04-21T08:01:16.000Z",
       "firstSeenAt": "2026-04-21T09:51:19.029Z",
       "lastFetchedAt": "2026-04-21T09:51:19.028Z",
-      "activityScore": 14.92
+      "activityScore": 14.43
     },
     {
       "id": 1930,
@@ -1843,8 +1982,8 @@
       "updatedAt": "2026-04-09T02:25:12.000Z",
       "pushedAt": "2026-04-08T02:17:12.000Z",
       "firstSeenAt": "2026-04-20T20:59:50.301Z",
-      "lastFetchedAt": "2026-04-28T10:32:19.789Z",
-      "activityScore": 5.33
+      "lastFetchedAt": "2026-04-29T10:23:37.676Z",
+      "activityScore": 5.18
     },
     {
       "id": 748,
@@ -1867,7 +2006,7 @@
       "pushedAt": "2026-04-22T06:30:37.000Z",
       "firstSeenAt": "2026-04-20T20:55:46.164Z",
       "lastFetchedAt": "2026-04-22T09:50:12.571Z",
-      "activityScore": 16.63
+      "activityScore": 15.09
     },
     {
       "id": 2824,
@@ -1900,7 +2039,7 @@
       "pushedAt": "2026-04-23T08:01:04.000Z",
       "firstSeenAt": "2026-04-23T09:56:32.339Z",
       "lastFetchedAt": "2026-04-23T09:56:32.338Z",
-      "activityScore": 16.41
+      "activityScore": 15.87
     },
     {
       "id": 2815,
@@ -1929,43 +2068,7 @@
       "pushedAt": "2026-04-23T08:09:24.000Z",
       "firstSeenAt": "2026-04-23T09:56:26.263Z",
       "lastFetchedAt": "2026-04-23T09:56:26.263Z",
-      "activityScore": 16.97
-    },
-    {
-      "id": 2771,
-      "githubId": 1195669056,
-      "fullName": "core0-io/nio",
-      "name": "nio",
-      "owner": "core0-io",
-      "description": "Execution assurance agent guard and observability for autonomous AI operating in production.",
-      "url": "https://github.com/core0-io/nio",
-      "homepage": "https://core0-io.github.io/nio/",
-      "language": "TypeScript",
-      "stars": 14,
-      "forks": 0,
-      "openIssues": 0,
-      "topics": [
-        "agent-guard",
-        "agent-harness",
-        "agentic-ai",
-        "ai-agent",
-        "ai-governance",
-        "ai-safety",
-        "autonomous-agents",
-        "claude-code",
-        "openclaw",
-        "opentelemetry",
-        "otel",
-        "plugin"
-      ],
-      "license": "Apache-2.0",
-      "isArchived": false,
-      "createdAt": "2026-03-30T00:05:49.000Z",
-      "updatedAt": "2026-04-28T08:15:01.000Z",
-      "pushedAt": "2026-04-28T08:14:56.000Z",
-      "firstSeenAt": "2026-04-23T09:56:03.810Z",
-      "lastFetchedAt": "2026-04-28T10:27:12.283Z",
-      "activityScore": 22.96
+      "activityScore": 16.44
     },
     {
       "id": 4104,
@@ -1997,14 +2100,14 @@
         "slide-deck",
         "zero-install"
       ],
-      "license": "NOASSERTION",
+      "license": "Apache-2.0",
       "isArchived": false,
       "createdAt": "2026-04-22T04:37:32.000Z",
-      "updatedAt": "2026-04-28T09:30:16.000Z",
-      "pushedAt": "2026-04-28T09:30:11.000Z",
+      "updatedAt": "2026-04-29T09:39:45.000Z",
+      "pushedAt": "2026-04-29T09:39:42.000Z",
       "firstSeenAt": "2026-04-28T10:26:32.448Z",
-      "lastFetchedAt": "2026-04-28T10:26:32.448Z",
-      "activityScore": 20.16
+      "lastFetchedAt": "2026-04-29T10:17:26.872Z",
+      "activityScore": 20.59
     },
     {
       "id": 3693,
@@ -2027,7 +2130,7 @@
       "pushedAt": "2026-04-27T06:52:33.000Z",
       "firstSeenAt": "2026-04-26T09:16:46.990Z",
       "lastFetchedAt": "2026-04-27T10:31:33.284Z",
-      "activityScore": 21.72
+      "activityScore": 21.08
     },
     {
       "id": 1599,
@@ -2049,8 +2152,8 @@
       "updatedAt": "2026-04-15T15:39:05.000Z",
       "pushedAt": "2026-04-08T11:59:58.000Z",
       "firstSeenAt": "2026-04-20T20:59:45.026Z",
-      "lastFetchedAt": "2026-04-28T10:32:16.460Z",
-      "activityScore": 5.62
+      "lastFetchedAt": "2026-04-29T10:23:34.407Z",
+      "activityScore": 5.46
     },
     {
       "id": 4052,
@@ -2089,7 +2192,7 @@
       "pushedAt": "2026-04-28T10:14:18.000Z",
       "firstSeenAt": "2026-04-28T10:25:54.864Z",
       "lastFetchedAt": "2026-04-28T10:25:54.863Z",
-      "activityScore": 20.1
+      "activityScore": 19.43
     },
     {
       "id": 2139,
@@ -2120,7 +2223,7 @@
       "pushedAt": "2026-04-22T06:39:44.000Z",
       "firstSeenAt": "2026-04-21T09:51:03.473Z",
       "lastFetchedAt": "2026-04-22T09:50:09.258Z",
-      "activityScore": 15.69
+      "activityScore": 15.09
     },
     {
       "id": 1649,
@@ -2142,8 +2245,8 @@
       "updatedAt": "2026-04-16T14:23:22.000Z",
       "pushedAt": "2026-04-07T11:20:01.000Z",
       "firstSeenAt": "2026-04-20T20:59:59.611Z",
-      "lastFetchedAt": "2026-04-28T10:32:24.833Z",
-      "activityScore": 4.88
+      "lastFetchedAt": "2026-04-29T10:23:42.954Z",
+      "activityScore": 4.74
     },
     {
       "id": 995,
@@ -2186,8 +2289,8 @@
       "updatedAt": "2026-04-27T18:31:47.000Z",
       "pushedAt": "2026-04-27T18:31:43.000Z",
       "firstSeenAt": "2026-04-20T20:57:01.205Z",
-      "lastFetchedAt": "2026-04-28T10:29:33.843Z",
-      "activityScore": 23.27
+      "lastFetchedAt": "2026-04-29T10:20:54.778Z",
+      "activityScore": 22.62
     },
     {
       "id": 3943,
@@ -2210,7 +2313,7 @@
       "pushedAt": "2026-04-27T06:05:31.000Z",
       "firstSeenAt": "2026-04-27T10:32:39.402Z",
       "lastFetchedAt": "2026-04-27T10:32:39.401Z",
-      "activityScore": 19.38
+      "activityScore": 18.74
     },
     {
       "id": 3898,
@@ -2233,7 +2336,7 @@
       "pushedAt": "2026-04-28T07:52:31.000Z",
       "firstSeenAt": "2026-04-27T10:31:54.136Z",
       "lastFetchedAt": "2026-04-28T10:27:24.118Z",
-      "activityScore": 20.42
+      "activityScore": 19.76
     },
     {
       "id": 2182,
@@ -2270,7 +2373,7 @@
       "pushedAt": "2026-04-27T07:34:04.000Z",
       "firstSeenAt": "2026-04-21T09:51:28.705Z",
       "lastFetchedAt": "2026-04-27T10:30:56.722Z",
-      "activityScore": 19.29
+      "activityScore": 18.66
     },
     {
       "id": 498,
@@ -2293,7 +2396,7 @@
       "pushedAt": "2026-04-20T18:28:21.000Z",
       "firstSeenAt": "2026-04-20T20:54:35.410Z",
       "lastFetchedAt": "2026-04-20T20:54:35.410Z",
-      "activityScore": 14.51
+      "activityScore": 14.04
     }
   ]
 }
